@@ -31,7 +31,7 @@ If you find this repo useful, please cite our paper.
 ```
 @article{wang2024thought,
   title={Thought-Path Contrastive Learning via Premise-Oriented Data Augmentation for Logical Reading Comprehension},
-  author={Wang, Chenxu and Jian, Ping and Huang, Mu},
+  author={Wang, Chenxu and Jian, Ping and Yang, Zhen},
   journal={arXiv preprint arXiv:2409.14495},
   year={2024}
 }
