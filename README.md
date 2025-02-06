@@ -248,3 +248,16 @@ python evaluate_cot_faithfulness.py --input_file ./data/cot/samples_200_poda.jso
 ```bash
 python calculate_score.py --file_path waiting_to_calculate_file
 ```
+
+## Bibliography
+
+If you find this repo useful, please cite our paper.
+
+```
+@article{wang2024thought,
+  title={Thought-Path Contrastive Learning via Premise-Oriented Data Augmentation for Logical Reading Comprehension},
+  author={Wang, Chenxu and Jian, Ping and Yang, Zhen},
+  journal={arXiv preprint arXiv:2409.14495},
+  year={2024}
+}
+```
