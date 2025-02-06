@@ -1,0 +1,47 @@
+[
+    {
+        "premises": [
+            "The college must select several teachers for an overseas funding plan.",
+            "Mr. Liu is the reserve discipline leader and must be sent.",
+            "If Mr. Liu is chosen, Mr. Zhou must be chosen, but Mr. Zhang cannot be chosen.",
+            "If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.",
+            "If Mr. Wang is not chosen, Mr. Zhou is not chosen either."
+        ],
+        "context": "A college will continue to implement the overseas funding plan this year. It plans to select several of the six teachers from Mr. Liu, Mr. Zhang, Mr. Wang, Mr. Ma, Mr. Niu and Mr. Zhou to visit abroad. Due to the limitations of funding, the needs of discipline development, curriculum arrangement, place and time of each student's visit, the selection shall meet the following conditions: (1) Mr. Liu is the reserve discipline leader of the college, This time we have to send out. (2) if we choose Mr. Liu, we should also choose Mr. Zhou, but we can't choose Mr. Zhang. (3) only if Mr. Niu can't choose, at least one of Mr. Wang and Mr. Ma can choose. (4) if we don't choose Mr. Wang, we don't choose Mr. Zhou either.",
+        "id": 0
+    },
+    {
+        "premises": [
+            "The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact."
+        ],
+        "context": "The straw effect means that the juice around the tube can be inhaled by inhaling the fruit juice in the cup with a straw. Implanting some kind of straw in a certain area can gather resources and cause obvious regional effect.",
+        "id": 1
+    },
+    {
+        "premises": [
+            "Reading is a personal life habit influenced by cultural literacy.",
+            "The habit of reading should be cultivated from an early age.",
+            "Reading habits and hobbies cannot be solved by a youth reading festival.",
+            "Reading is still based on usual habits."
+        ],
+        "context": "Reading is a personal life habit, which is determined by cultural literacy. Without the pursuit of knowledge or the hobby of culture, it is difficult to imagine that people can calm down and read. The habit of reading should be cultivated from an early age. Starting from the beginning, only the love and pursuit of cultural knowledge can make us accustomed to reading. The reading habits and hobbies of Chinese people cannot be solved by a youth reading festival. Therefore, reading is still based on usual habits.",
+        "id": 2
+    },
+    {
+        "premises": [
+            "Traditional therapy completely heals 44% of patients' ulcers within 6 months.",
+            "A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.",
+            "The trial only treated very severe ulcers.",
+            "The new treatment is more effective than traditional treatments."
+        ],
+        "context": "For a certain type of ulcer, traditional therapy can completely heal 44% of patients' ulcers within 6 months. A new therapy for this type of ulcer has achieved obvious improves in 80% of the ulcers treated in a 6-month trial. 61% of ulcers were healed. Since the trial only treated those ulcers very severe, this new treatment is obviously more effective than traditional treatments.",
+        "id": 3
+    },
+    {
+        "premises": [
+            "Robbery is forcibly seizing public and private property by violence, coercion, or other means on the spot for the purpose of illegal possession."
+        ],
+        "context": "Robbery is an act of forcibly seizing public and private property by violence, coercion or other means on the spot for the purpose of illegal possession.",
+        "id": 4
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "premises": [
+            "In rheumatoid arthritis, the immune system attacks healthy cells in the joints.",
+            "Normally, this hormone is activated in response to injury or infection.",
+            "Existing medications like aspirin primarily focus on reducing pain and swelling associated with rheumatoid arthritis.",
+            "The new medication has been designed to not only alleviate pain and swelling but also to promote the repair of damaged cells caused by the disease."
+        ],
+        "label": 0,
+        "id": 0
+    },
+    {
+        "premises": [
+            "In rheumatoid arthritis, the immune system attacks healthy cells in the joints.",
+            "Normally, this hormone is activated in response to injury or infection.",
+            "The new medication specifically targets the inflammatory pathways unique to rheumatoid arthritis.",
+            "Other joint diseases involve different mechanisms that the new medication does not address."
+        ],
+        "label": 2,
+        "id": 0
+    },
+    {
+        "premises": [
+            "In rheumatoid arthritis, the immune system attacks healthy cells in the joints.",
+            "Normally, this hormone is activated in response to injury or infection.",
+            "Rheumatoid arthritis patients often experience severe pain and reduced mobility due to joint inflammation.",
+            "The new medication has shown significant improvement in pain relief and joint function during clinical trials.",
+            "Some patients reported mild side effects, such as nausea, which were manageable and temporary."
+        ],
+        "label": 3,
+        "id": 0
+    },
+    {
+        "premises": [
+            "Pharmacists argue that doctors should not sell the medicine they prescribe due to a potential conflict of interest, which may lead to overprescription.",
+            "The patient argues that the majority of people find the proposed policy unacceptable, thus it should not be implemented.",
+            "The patient concludes that a position lacking public backing is inherently flawed and should be dismissed."
+        ],
+        "label": 1,
+        "id": 1
+    },
+    {
+        "premises": [
+            "Pharmacists argue that doctors should not sell the medicine they prescribe due to a potential conflict of interest, which may lead to overprescription.",
+            "The patient argues that pharmacists assume patients cannot safely manage their own medication, which is unfounded.",
+            "The patient points out that the pharmacists' argument hinges on the belief that only professionals can handle prescriptions, and then provides evidence to the contrary."
+        ],
+        "label": 2,
+        "id": 1
+    },
+    {
+        "premises": [
+            "Pharmacists argue that doctors should not sell the medicine they prescribe due to a potential conflict of interest, which may lead to overprescription.",
+            "The patient argues that pharmacists' training does not cover the complexities of the issue at hand.",
+            "The patient claims that pharmacists are not qualified to offer valid opinions due to their limited expertise in the relevant field."
+        ],
+        "label": 3,
+        "id": 1
+    },
+    {
+        "premises": [
+            "Marge will not wash her car unless it is sunny.",
+            "If Marge goes to the bank today, Lauren will not cash her check tomorrow.",
+            "It is sunny today.",
+            "Therefore, Marge will wash her car and go shopping with Lauren."
+        ],
+        "label": 0,
+        "id": 2
+    },
+    {
+        "premises": [
+            "Emily will go to the gym tonight if it is not raining and if her best friend is available.",
+            "It is raining tonight, and her best friend is not available.",
+            "Therefore, Emily will not go to the gym tonight."
+        ],
+        "label": 2,
+        "id": 2
+    },
+    {
+        "premises": [
+            "Sarah will host a dinner party only if her friends, John or Mike, will attend.",
+            "Mike will not attend the dinner party, but John will.",
+            "Therefore, Sarah will host a dinner party."
+        ],
+        "label": 3,
+        "id": 2
+    },
+    {
+        "premises": [
+            "Some theorists argue that literary critics should strive to be value-neutral in their literary criticism.",
+            "These theorists believe that value-neutral criticism will help readers make their own judgments about the works' merits.",
+            "The argument asserts that critics can aid readers in forming their own judgments about the merits of literary works.",
+            "Therefore, the argument concludes that producing value-neutral criticism is a worthwhile goal for these critics."
+        ],
+        "label": 0,
+        "id": 3
+    },
+    {
+        "premises": [
+            "Some theorists argue that literary critics should strive to be value-neutral in their literary criticism.",
+            "These theorists believe that value-neutral criticism will help readers make their own judgments about the works' merits.",
+            "The argument posits that understanding the meaning of a literary work is crucial for proper evaluation.",
+            "Therefore, the argument concludes that readers' ability to evaluate a literary work's merits diminishes with a lack of understanding of its meaning."
+        ],
+        "label": 2,
+        "id": 3
+    },
+    {
+        "premises": [
+            "Some theorists argue that literary critics should strive to be value-neutral in their literary criticism.",
+            "These theorists believe that value-neutral criticism will help readers make their own judgments about the works' merits.",
+            "The argument states that critics tend to critique works they are fond of more than those they do not appreciate.",
+            "Therefore, the argument concludes that personal preferences influence the selection of works for criticism."
+        ],
+        "label": 3,
+        "id": 3
+    },
+    {
+        "premises": [
+            "The five specially ordered shipments sent out last week were sent out on Thursday.",
+            "The shipping department closed for the weekend after Friday.",
+            "All specially ordered shipments last week consisted entirely of building supplies.",
+            "Five specially ordered shipments were processed last week, but only four contained building supplies."
+        ],
+        "label": 1,
+        "id": 4
+    },
+    {
+        "premises": [
+            "The five specially ordered shipments sent out last week were sent out on Thursday.",
+            "The shipping department closed for the weekend after Friday.",
+            "Special orders are always prioritized and shipped out before regular orders.",
+            "Four shipments were sent to Truax Construction last week, only three of which were regular orders."
+        ],
+        "label": 2,
+        "id": 4
+    },
+    {
+        "premises": [
+            "The five specially ordered shipments sent out last week were sent out on Thursday.",
+            "The shipping department closed for the weekend after Friday.",
+            "All shipments sent out on Thursday last week consisted entirely of electrical supplies.",
+            "Four shipments were sent to Truax Construction last week, only three of which consisted of electrical supplies."
+        ],
+        "label": 3,
+        "id": 4
+    }
+]

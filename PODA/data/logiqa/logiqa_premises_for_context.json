@@ -1,0 +1,138 @@
+[
+    {
+        "premises": [
+            "The college must select several teachers for an overseas funding plan.",
+            "If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.",
+            "If Mr. Wang is not chosen, Mr. Zhou is not chosen either.",
+            "If Mr. Liu is chosen, Mr. Ma cannot be chosen.",
+            "Mr. Ma is chosen only if Mr. Liu is not chosen."
+        ],
+        "label": 1,
+        "id": 0
+    },
+    {
+        "premises": [
+            "The college must select several teachers for an overseas funding plan.",
+            "If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.",
+            "If Mr. Wang is not chosen, Mr. Zhou is not chosen either.",
+            "If Mr. Wang is chosen, then Mr. Li cannot be chosen.",
+            "If Mr. Ma is chosen, then Mr. Zhang must also be chosen."
+        ],
+        "label": 2,
+        "id": 0
+    },
+    {
+        "premises": [
+            "The college must select several teachers for an overseas funding plan.",
+            "If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.",
+            "If Mr. Wang is not chosen, Mr. Zhou is not chosen either.",
+            "If Mr. Wang is elected, then Mr. Niu must also be elected.",
+            "Mr. Zhou and Mr. Li were the only candidates elected."
+        ],
+        "label": 3,
+        "id": 0
+    },
+    {
+        "premises": [
+            "The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact."
+        ],
+        "label": 1,
+        "id": 1
+    },
+    {
+        "premises": [
+            "The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact.",
+            "The straw effect often results in the concentration of economic activities and talent in a specific region, leading to disparities in development."
+        ],
+        "label": 2,
+        "id": 1
+    },
+    {
+        "premises": [
+            "The straw effect refers to the concentration of resources in a specific area, leading to a significant regional influence."
+        ],
+        "label": 3,
+        "id": 1
+    },
+    {
+        "premises": [
+            "Libraries play a crucial role in advocating reading among communities.",
+            "Schools should advocate reading to enhance students' literacy skills.",
+            "Organizations often advocate reading to improve public knowledge.",
+            "Programs that advocate reading can help bridge educational gaps."
+        ],
+        "label": 1,
+        "id": 2
+    },
+    {
+        "premises": [
+            "Developing a love for reading from a young age is crucial for lifelong learning.",
+            "Children who enjoy reading often perform better academically.",
+            "Parents should encourage reading by providing access to a variety of books.",
+            "A strong foundation in reading during childhood promotes imagination and creativity."
+        ],
+        "label": 2,
+        "id": 2
+    },
+    {
+        "premises": [
+            "Lifelong learning is essential for personal growth and development.",
+            "The pursuit of knowledge drives innovation and progress.",
+            "Curiosity and a desire to learn are fundamental to human nature.",
+            "Knowledge acquisition can occur through various means, including education and experience."
+        ],
+        "label": 3,
+        "id": 2
+    },
+    {
+        "premises": [
+            "A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.",
+            "The trial only treated very severe ulcers.",
+            "The new treatment is more effective than traditional treatments.",
+            "Therapy A uses a combination of medication and physical therapy, while Therapy B focuses solely on medication."
+        ],
+        "label": 0,
+        "id": 3
+    },
+    {
+        "premises": [
+            "A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.",
+            "The trial only treated very severe ulcers.",
+            "The new treatment is more effective than traditional treatments.",
+            "The cost of traditional therapy is $500 per month."
+        ],
+        "label": 1,
+        "id": 3
+    },
+    {
+        "premises": [
+            "A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.",
+            "The trial only treated very severe ulcers.",
+            "The new treatment is more effective than traditional treatments.",
+            "60% of patients reported dissatisfaction with the recovery rate in the 6-month trial of the new therapy."
+        ],
+        "label": 3,
+        "id": 3
+    },
+    {
+        "premises": [
+            "Robbery involves taking property directly from a person or their immediate presence through the use of force or intimidation."
+        ],
+        "label": 0,
+        "id": 4
+    },
+    {
+        "premises": [
+            "Robbery involves the act of taking or attempting to take something of value from another person by using force, threats, or intimidation."
+        ],
+        "label": 2,
+        "id": 4
+    },
+    {
+        "premises": [
+            "Robbery involves using violence, threats, or coercion to take property directly from a person."
+        ],
+        "label": 3,
+        "id": 4
+    }
+]

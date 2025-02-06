@@ -1,0 +1,257 @@
+[
+    {
+        "incontext": [
+            "1. The college must select several teachers for an overseas funding plan.\n2. Mr. Liu is the reserve discipline leader and must be sent.\n3. If Mr. Liu is chosen, Mr. Zhou must be chosen, but Mr. Zhang cannot be chosen.\n4. If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.\n5. If Mr. Wang is not chosen, Mr. Zhou is not chosen either.",
+            "A college will continue to implement the overseas funding plan this year. It plans to select several of the six teachers from Mr. Liu, Mr. Zhang, Mr. Wang, Mr. Ma, Mr. Niu and Mr. Zhou to visit abroad. Due to the limitations of funding, the needs of discipline development, curriculum arrangement, place and time of each student's visit, the selection shall meet the following conditions: (1) Mr. Liu is the reserve discipline leader of the college, This time we have to send out. (2) if we choose Mr. Liu, we should also choose Mr. Zhou, but we can't choose Mr. Zhang. (3) only if Mr. Niu can't choose, at least one of Mr. Wang and Mr. Ma can choose. (4) if we don't choose Mr. Wang, we don't choose Mr. Zhou either."
+        ],
+        "input": "1. The college must select several teachers for an overseas funding plan.\n2. If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.\n3. If Mr. Wang is not chosen, Mr. Zhou is not chosen either.\n4. If Mr. Liu is chosen, Mr. Ma cannot be chosen.\n5. Mr. Ma is chosen only if Mr. Liu is not chosen.",
+        "context": "A college is preparing to implement its overseas funding plan by selecting a few teachers from Mr. Liu, Mr. Zhang, Mr. Wang, Mr. Ma, Mr. Niu, and Mr. Zhou for an international visit. The selection process must adhere to several conditions: (1) If Mr. Niu is not selected, at least one of Mr. Wang and Mr. Ma must be selected. (2) If Mr. Wang is not selected, then Mr. Zhou will also not be selected. (3) If Mr. Liu is selected, then Mr. Ma cannot be selected. (4) Conversely, Mr. Ma can only be selected if Mr. Liu is not selected. The college aims to balance the needs of the discipline development, curriculum arrangement, and logistical considerations in making the final choices.",
+        "question": "If the above statement is true, which of the followings must be true?",
+        "options": [
+            "Mr. Niu didn't choose, but Mr. Zhou did",
+            "Mr. Liu was chose, but Mr. Ma didn't",
+            "Mr. Wang and Mr. Ma were chosen",
+            "Neither Mr. Wang nor Mr. Niu was elected"
+        ],
+        "label": 1,
+        "id": 0
+    },
+    {
+        "incontext": [
+            "1. The college must select several teachers for an overseas funding plan.\n2. Mr. Liu is the reserve discipline leader and must be sent.\n3. If Mr. Liu is chosen, Mr. Zhou must be chosen, but Mr. Zhang cannot be chosen.\n4. If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.\n5. If Mr. Wang is not chosen, Mr. Zhou is not chosen either.",
+            "A college will continue to implement the overseas funding plan this year. It plans to select several of the six teachers from Mr. Liu, Mr. Zhang, Mr. Wang, Mr. Ma, Mr. Niu and Mr. Zhou to visit abroad. Due to the limitations of funding, the needs of discipline development, curriculum arrangement, place and time of each student's visit, the selection shall meet the following conditions: (1) Mr. Liu is the reserve discipline leader of the college, This time we have to send out. (2) if we choose Mr. Liu, we should also choose Mr. Zhou, but we can't choose Mr. Zhang. (3) only if Mr. Niu can't choose, at least one of Mr. Wang and Mr. Ma can choose. (4) if we don't choose Mr. Wang, we don't choose Mr. Zhou either."
+        ],
+        "input": "1. The college must select several teachers for an overseas funding plan.\n2. If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.\n3. If Mr. Wang is not chosen, Mr. Zhou is not chosen either.\n4. If Mr. Wang is chosen, then Mr. Li cannot be chosen.\n5. If Mr. Ma is chosen, then Mr. Zhang must also be chosen.",
+        "context": "A college is preparing to implement an overseas funding plan and must select several teachers from Mr. Niu, Mr. Wang, Mr. Ma, Mr. Zhou, Mr. Li, and Mr. Zhang for the program. The selection must adhere to specific conditions: if Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be selected. If Mr. Wang is not chosen, Mr. Zhou cannot be selected either. Conversely, if Mr. Wang is chosen, Mr. Li cannot be selected. Additionally, if Mr. Ma is chosen, then Mr. Zhang must also be part of the team. These intricate rules ensure that the right combination of teachers is selected for the funding plan.",
+        "question": "If the above statement is true, which of the followings must be true?",
+        "options": [
+            "Mr. Niu didn't choose, but Mr. Zhou did",
+            "Mr. Liu was chose, but Mr. Ma didn't",
+            "Mr. Wang and Mr. Ma were chosen",
+            "Neither Mr. Wang nor Mr. Niu was elected"
+        ],
+        "label": 2,
+        "id": 0
+    },
+    {
+        "incontext": [
+            "1. The college must select several teachers for an overseas funding plan.\n2. Mr. Liu is the reserve discipline leader and must be sent.\n3. If Mr. Liu is chosen, Mr. Zhou must be chosen, but Mr. Zhang cannot be chosen.\n4. If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.\n5. If Mr. Wang is not chosen, Mr. Zhou is not chosen either.",
+            "A college will continue to implement the overseas funding plan this year. It plans to select several of the six teachers from Mr. Liu, Mr. Zhang, Mr. Wang, Mr. Ma, Mr. Niu and Mr. Zhou to visit abroad. Due to the limitations of funding, the needs of discipline development, curriculum arrangement, place and time of each student's visit, the selection shall meet the following conditions: (1) Mr. Liu is the reserve discipline leader of the college, This time we have to send out. (2) if we choose Mr. Liu, we should also choose Mr. Zhou, but we can't choose Mr. Zhang. (3) only if Mr. Niu can't choose, at least one of Mr. Wang and Mr. Ma can choose. (4) if we don't choose Mr. Wang, we don't choose Mr. Zhou either."
+        ],
+        "input": "1. The college must select several teachers for an overseas funding plan.\n2. If Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen.\n3. If Mr. Wang is not chosen, Mr. Zhou is not chosen either.\n4. If Mr. Wang is elected, then Mr. Niu must also be elected.\n5. Mr. Zhou and Mr. Li were the only candidates elected.",
+        "context": "A college is implementing an overseas funding plan and needs to select several teachers for it. Given the conditions, if Mr. Niu is not chosen, at least one of Mr. Wang and Mr. Ma must be chosen. Additionally, if Mr. Wang is not chosen, Mr. Zhou is not chosen either. Moreover, if Mr. Wang is elected, then Mr. Niu must also be elected. Despite these conditions, it turns out that Mr. Zhou and Mr. Li were the only candidates elected for the plan.",
+        "question": "If the above statement is true, which of the followings must be true?",
+        "options": [
+            "Mr. Niu didn't choose, but Mr. Zhou did",
+            "Mr. Liu was chose, but Mr. Ma didn't",
+            "Mr. Wang and Mr. Ma were chosen",
+            "Neither Mr. Wang nor Mr. Niu was elected"
+        ],
+        "label": 3,
+        "id": 0
+    },
+    {
+        "incontext": [
+            "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact.",
+            "The straw effect means that the juice around the tube can be inhaled by inhaling the fruit juice in the cup with a straw. Implanting some kind of straw in a certain area can gather resources and cause obvious regional effect."
+        ],
+        "input": "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact.",
+        "context": "The straw effect means that when resources are concentrated in a specific area, it creates a significant impact on that region. Like a straw drawing juice from a cup, this gathering process causes a noticeable shift, affecting the local dynamics and availability of resources.",
+        "question": "Which of the following options does not belong to the straw effect?",
+        "options": [
+            "The common sense of petroleum prospecting is that the standard distance between the two mining areas is 100 meters. At present, China has explored eight oil fields in the East China Sea, including the new Bajiaoting oil and gas field",
+            "The function of the city has shifted to the south, and property prices in Zhongcun, Nanhai Pingzhou, Sanshan and Shunde near the new railway station have all been pushed up",
+            "Xijiao Town integrates the resources of the industrial park in the town, and with the strong foundation of its textile industry, it has established the textile characteristics as the main direction of attack, and guided the textile enterprises to transform from extensive to centralized and carry out cluster development",
+            "This year, let the prosperity of the modern service industry be matched with convenient transportation, and the combination of the two will become a prosperous area where capital flows yearn for one after another"
+        ],
+        "label": 1,
+        "id": 1
+    },
+    {
+        "incontext": [
+            "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact.",
+            "The straw effect means that the juice around the tube can be inhaled by inhaling the fruit juice in the cup with a straw. Implanting some kind of straw in a certain area can gather resources and cause obvious regional effect."
+        ],
+        "input": "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact.\n2. The straw effect often results in the concentration of economic activities and talent in a specific region, leading to disparities in development.",
+        "context": "The straw effect refers to the gathering of resources in a certain area, causing a noticeable regional impact. This often results in the concentration of economic activities and talent in a specific region, leading to disparities in development. As resources and skilled individuals cluster in one area, other regions may experience stagnation, exacerbating economic and social inequalities.",
+        "question": "Which of the following options does not belong to the straw effect?",
+        "options": [
+            "The common sense of petroleum prospecting is that the standard distance between the two mining areas is 100 meters. At present, China has explored eight oil fields in the East China Sea, including the new Bajiaoting oil and gas field",
+            "The function of the city has shifted to the south, and property prices in Zhongcun, Nanhai Pingzhou, Sanshan and Shunde near the new railway station have all been pushed up",
+            "Xijiao Town integrates the resources of the industrial park in the town, and with the strong foundation of its textile industry, it has established the textile characteristics as the main direction of attack, and guided the textile enterprises to transform from extensive to centralized and carry out cluster development",
+            "This year, let the prosperity of the modern service industry be matched with convenient transportation, and the combination of the two will become a prosperous area where capital flows yearn for one after another"
+        ],
+        "label": 2,
+        "id": 1
+    },
+    {
+        "incontext": [
+            "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact.",
+            "The straw effect means that the juice around the tube can be inhaled by inhaling the fruit juice in the cup with a straw. Implanting some kind of straw in a certain area can gather resources and cause obvious regional effect."
+        ],
+        "input": "1. The straw effect refers to the concentration of resources in a specific area, leading to a significant regional influence.",
+        "context": "The straw effect implies that channeling resources into a particular zone results in a substantial regional impact. By focusing efforts and assets in one area, it creates a noticeable shift and amplifies the area's influence.",
+        "question": "Which of the following options does not belong to the straw effect?",
+        "options": [
+            "The common sense of petroleum prospecting is that the standard distance between the two mining areas is 100 meters. At present, China has explored eight oil fields in the East China Sea, including the new Bajiaoting oil and gas field",
+            "The function of the city has shifted to the south, and property prices in Zhongcun, Nanhai Pingzhou, Sanshan and Shunde near the new railway station have all been pushed up",
+            "Xijiao Town integrates the resources of the industrial park in the town, and with the strong foundation of its textile industry, it has established the textile characteristics as the main direction of attack, and guided the textile enterprises to transform from extensive to centralized and carry out cluster development",
+            "This year, let the prosperity of the modern service industry be matched with convenient transportation, and the combination of the two will become a prosperous area where capital flows yearn for one after another"
+        ],
+        "label": 3,
+        "id": 1
+    },
+    {
+        "incontext": [
+            "1. Reading is a personal life habit influenced by cultural literacy.\n2. The habit of reading should be cultivated from an early age.\n3. Reading habits and hobbies cannot be solved by a youth reading festival.\n4. Reading is still based on usual habits.",
+            "Reading is a personal life habit, which is determined by cultural literacy. Without the pursuit of knowledge or the hobby of culture, it is difficult to imagine that people can calm down and read. The habit of reading should be cultivated from an early age. Starting from the beginning, only the love and pursuit of cultural knowledge can make us accustomed to reading. The reading habits and hobbies of Chinese people cannot be solved by a youth reading festival. Therefore, reading is still based on usual habits."
+        ],
+        "input": "1. Libraries play a crucial role in advocating reading among communities.\n2. Schools should advocate reading to enhance students' literacy skills.\n3. Organizations often advocate reading to improve public knowledge.\n4. Programs that advocate reading can help bridge educational gaps.",
+        "context": "Libraries play a crucial role in advocating reading among communities, serving as hubs of knowledge and resources. Schools should advocate reading to enhance students' literacy skills, fostering a lifelong love for learning. Additionally, organizations often advocate reading to improve public knowledge, recognizing its importance in an informed society. Programs that advocate reading can help bridge educational gaps, ensuring that everyone has the opportunity to access and benefit from the world of books.",
+        "question": "Which one of the followings is the topic of the above?",
+        "options": [
+            "Reading habits",
+            "Advocate reading",
+            "Love reading since childhood",
+            "Pursue knowledge"
+        ],
+        "label": 1,
+        "id": 2
+    },
+    {
+        "incontext": [
+            "1. Reading is a personal life habit influenced by cultural literacy.\n2. The habit of reading should be cultivated from an early age.\n3. Reading habits and hobbies cannot be solved by a youth reading festival.\n4. Reading is still based on usual habits.",
+            "Reading is a personal life habit, which is determined by cultural literacy. Without the pursuit of knowledge or the hobby of culture, it is difficult to imagine that people can calm down and read. The habit of reading should be cultivated from an early age. Starting from the beginning, only the love and pursuit of cultural knowledge can make us accustomed to reading. The reading habits and hobbies of Chinese people cannot be solved by a youth reading festival. Therefore, reading is still based on usual habits."
+        ],
+        "input": "1. Developing a love for reading from a young age is crucial for lifelong learning.\n2. Children who enjoy reading often perform better academically.\n3. Parents should encourage reading by providing access to a variety of books.\n4. A strong foundation in reading during childhood promotes imagination and creativity.",
+        "context": "Developing a love for reading from a young age is crucial for lifelong learning. Children who enjoy reading often perform better academically, as their comprehension and analytical skills are enhanced. Parents play a significant role in this by encouraging reading and providing access to a variety of books. A strong foundation in reading during childhood not only boosts academic performance but also promotes imagination and creativity, enriching a child's mental and emotional development.",
+        "question": "Which one of the followings is the topic of the above?",
+        "options": [
+            "Reading habits",
+            "Advocate reading",
+            "Love reading since childhood",
+            "Pursue knowledge"
+        ],
+        "label": 2,
+        "id": 2
+    },
+    {
+        "incontext": [
+            "1. Reading is a personal life habit influenced by cultural literacy.\n2. The habit of reading should be cultivated from an early age.\n3. Reading habits and hobbies cannot be solved by a youth reading festival.\n4. Reading is still based on usual habits.",
+            "Reading is a personal life habit, which is determined by cultural literacy. Without the pursuit of knowledge or the hobby of culture, it is difficult to imagine that people can calm down and read. The habit of reading should be cultivated from an early age. Starting from the beginning, only the love and pursuit of cultural knowledge can make us accustomed to reading. The reading habits and hobbies of Chinese people cannot be solved by a youth reading festival. Therefore, reading is still based on usual habits."
+        ],
+        "input": "1. Lifelong learning is essential for personal growth and development.\n2. The pursuit of knowledge drives innovation and progress.\n3. Curiosity and a desire to learn are fundamental to human nature.\n4. Knowledge acquisition can occur through various means, including education and experience.",
+        "context": "Lifelong learning is essential for personal growth and development, serving as a cornerstone for a fulfilling life. The pursuit of knowledge drives innovation and progress, propelling society forward. Curiosity and a desire to learn are fundamental to human nature, fueling our intrinsic motivation to explore the unknown. Knowledge acquisition can occur through various means, including education and experience, each contributing to the rich tapestry of our understanding and capabilities.",
+        "question": "Which one of the followings is the topic of the above?",
+        "options": [
+            "Reading habits",
+            "Advocate reading",
+            "Love reading since childhood",
+            "Pursue knowledge"
+        ],
+        "label": 3,
+        "id": 2
+    },
+    {
+        "incontext": [
+            "1. Traditional therapy completely heals 44% of patients' ulcers within 6 months.\n2. A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.\n3. The trial only treated very severe ulcers.\n4. The new treatment is more effective than traditional treatments.",
+            "For a certain type of ulcer, traditional therapy can completely heal 44% of patients' ulcers within 6 months. A new therapy for this type of ulcer has achieved obvious improves in 80% of the ulcers treated in a 6-month trial. 61% of ulcers were healed. Since the trial only treated those ulcers very severe, this new treatment is obviously more effective than traditional treatments."
+        ],
+        "input": "1. A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.\n2. The trial only treated very severe ulcers.\n3. The new treatment is more effective than traditional treatments.\n4. Therapy A uses a combination of medication and physical therapy, while Therapy B focuses solely on medication.",
+        "context": "A new therapy has demonstrated significant promise by achieving obvious improvements in 80% of the ulcers treated during a 6-month trial, leading to a 61% healing rate. Notably, the trial exclusively focused on very severe ulcers, which underscores the efficacy of this new treatment. Compared to traditional methods, this therapy is more effective. Therapy A, which combines medication and physical therapy, contrasts with Therapy B that relies solely on medication, highlighting the potential benefits of a multifaceted approach.",
+        "question": "In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?",
+        "options": [
+            "What is the difference between the methods used in the two therapies?",
+            "Is there a big difference in the cost of the two therapies?",
+            "What is the proportion of patients with this type of ulcer, treated under traditional therapies in 6 months, who have achieved significant improvement?",
+            "Among the patients who participated in the 6-month trial of the new therapy, what percentage of the people were dissatisfied with the recovery rate?"
+        ],
+        "label": 0,
+        "id": 3
+    },
+    {
+        "incontext": [
+            "1. Traditional therapy completely heals 44% of patients' ulcers within 6 months.\n2. A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.\n3. The trial only treated very severe ulcers.\n4. The new treatment is more effective than traditional treatments.",
+            "For a certain type of ulcer, traditional therapy can completely heal 44% of patients' ulcers within 6 months. A new therapy for this type of ulcer has achieved obvious improves in 80% of the ulcers treated in a 6-month trial. 61% of ulcers were healed. Since the trial only treated those ulcers very severe, this new treatment is obviously more effective than traditional treatments."
+        ],
+        "input": "1. A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.\n2. The trial only treated very severe ulcers.\n3. The new treatment is more effective than traditional treatments.\n4. The cost of traditional therapy is $500 per month.",
+        "context": "A new therapy for treating ulcers has shown promising results, with obvious improvements in 80% of the ulcers treated in a 6-month trial and a 61% healing rate. The trial focused exclusively on very severe ulcers, demonstrating the new treatment's effectiveness. Comparatively, traditional therapy, which costs $500 per month, appears less effective. Therefore, the new treatment is more effective than traditional treatments.",
+        "question": "In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?",
+        "options": [
+            "What is the difference between the methods used in the two therapies?",
+            "Is there a big difference in the cost of the two therapies?",
+            "What is the proportion of patients with this type of ulcer, treated under traditional therapies in 6 months, who have achieved significant improvement?",
+            "Among the patients who participated in the 6-month trial of the new therapy, what percentage of the people were dissatisfied with the recovery rate?"
+        ],
+        "label": 1,
+        "id": 3
+    },
+    {
+        "incontext": [
+            "1. Traditional therapy completely heals 44% of patients' ulcers within 6 months.\n2. A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.\n3. The trial only treated very severe ulcers.\n4. The new treatment is more effective than traditional treatments.",
+            "For a certain type of ulcer, traditional therapy can completely heal 44% of patients' ulcers within 6 months. A new therapy for this type of ulcer has achieved obvious improves in 80% of the ulcers treated in a 6-month trial. 61% of ulcers were healed. Since the trial only treated those ulcers very severe, this new treatment is obviously more effective than traditional treatments."
+        ],
+        "input": "1. A new therapy achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate.\n2. The trial only treated very severe ulcers.\n3. The new treatment is more effective than traditional treatments.\n4. 60% of patients reported dissatisfaction with the recovery rate in the 6-month trial of the new therapy.",
+        "context": "A new therapy for severe ulcers has achieved obvious improvements in 80% of the ulcers treated in a 6-month trial, resulting in a 61% healing rate. Despite its effectiveness compared to traditional treatments, 60% of patients reported dissatisfaction with the recovery rate in the trial. The trial only treated very severe ulcers, making the new treatment's results even more impressive.",
+        "question": "In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?",
+        "options": [
+            "What is the difference between the methods used in the two therapies?",
+            "Is there a big difference in the cost of the two therapies?",
+            "What is the proportion of patients with this type of ulcer, treated under traditional therapies in 6 months, who have achieved significant improvement?",
+            "Among the patients who participated in the 6-month trial of the new therapy, what percentage of the people were dissatisfied with the recovery rate?"
+        ],
+        "label": 3,
+        "id": 3
+    },
+    {
+        "incontext": [
+            "1. Robbery is forcibly seizing public and private property by violence, coercion, or other means on the spot for the purpose of illegal possession.",
+            "Robbery is an act of forcibly seizing public and private property by violence, coercion or other means on the spot for the purpose of illegal possession."
+        ],
+        "input": "1. Robbery involves taking property directly from a person or their immediate presence through the use of force or intimidation.",
+        "context": "Robbery involves taking property directly from a person or their immediate presence through the use of force or intimidation.",
+        "question": "Which of the followings belongs to robbery",
+        "options": [
+            "Li embedded himself in Wang's house to steal. When he was found, he ran away with the stolen goods. Wang pursued him closely. Li saw an unsteaded motorcycle next to the grocery store. The owner was smoking next to the motorcycle, so he rode on the motorcycle",
+            "Zheng riding a motorcycle saw Tian walking with an exquisite leather bag, pulling the leather bag belt from behind and trying to grab the leather bag. Tian grabbed the leather bag belt. Seeing this scene, Zheng suddenly accelerated the motorcycle and pulled the leather bag belt hard to grab the leather bag. Tian was immediately seriously injured",
+            "One night, when I saw Zhao walking alone in the street, I acted maliciously, raped him, and took away his bags and other things that showed his identity",
+            "Lin sneaked into Hu's house to steal valuables. After being found by the owner, he fled and hid in the farmer's haystack for a night. The next day, the village head Gao passed by and found Lin's whereabouts strange. Lin thought GAO found his theft last night and attacked Gao, causing him serious injury"
+        ],
+        "label": 0,
+        "id": 4
+    },
+    {
+        "incontext": [
+            "1. Robbery is forcibly seizing public and private property by violence, coercion, or other means on the spot for the purpose of illegal possession.",
+            "Robbery is an act of forcibly seizing public and private property by violence, coercion or other means on the spot for the purpose of illegal possession."
+        ],
+        "input": "1. Robbery involves the act of taking or attempting to take something of value from another person by using force, threats, or intimidation.",
+        "context": "Robbery involves the act of taking or attempting to take something of value from another person by using force, threats, or intimidation.",
+        "question": "Which of the followings belongs to robbery",
+        "options": [
+            "Li embedded himself in Wang's house to steal. When he was found, he ran away with the stolen goods. Wang pursued him closely. Li saw an unsteaded motorcycle next to the grocery store. The owner was smoking next to the motorcycle, so he rode on the motorcycle",
+            "Zheng riding a motorcycle saw Tian walking with an exquisite leather bag, pulling the leather bag belt from behind and trying to grab the leather bag. Tian grabbed the leather bag belt. Seeing this scene, Zheng suddenly accelerated the motorcycle and pulled the leather bag belt hard to grab the leather bag. Tian was immediately seriously injured",
+            "One night, when I saw Zhao walking alone in the street, I acted maliciously, raped him, and took away his bags and other things that showed his identity",
+            "Lin sneaked into Hu's house to steal valuables. After being found by the owner, he fled and hid in the farmer's haystack for a night. The next day, the village head Gao passed by and found Lin's whereabouts strange. Lin thought GAO found his theft last night and attacked Gao, causing him serious injury"
+        ],
+        "label": 2,
+        "id": 4
+    },
+    {
+        "incontext": [
+            "1. Robbery is forcibly seizing public and private property by violence, coercion, or other means on the spot for the purpose of illegal possession.",
+            "Robbery is an act of forcibly seizing public and private property by violence, coercion or other means on the spot for the purpose of illegal possession."
+        ],
+        "input": "1. Robbery involves using violence, threats, or coercion to take property directly from a person.",
+        "context": "Robbery involves using violence, threats, or coercion to take property directly from a person.",
+        "question": "Which of the followings belongs to robbery",
+        "options": [
+            "Li embedded himself in Wang's house to steal. When he was found, he ran away with the stolen goods. Wang pursued him closely. Li saw an unsteaded motorcycle next to the grocery store. The owner was smoking next to the motorcycle, so he rode on the motorcycle",
+            "Zheng riding a motorcycle saw Tian walking with an exquisite leather bag, pulling the leather bag belt from behind and trying to grab the leather bag. Tian grabbed the leather bag belt. Seeing this scene, Zheng suddenly accelerated the motorcycle and pulled the leather bag belt hard to grab the leather bag. Tian was immediately seriously injured",
+            "One night, when I saw Zhao walking alone in the street, I acted maliciously, raped him, and took away his bags and other things that showed his identity",
+            "Lin sneaked into Hu's house to steal valuables. After being found by the owner, he fled and hid in the farmer's haystack for a night. The next day, the village head Gao passed by and found Lin's whereabouts strange. Lin thought GAO found his theft last night and attacked Gao, causing him serious injury"
+        ],
+        "label": 3,
+        "id": 4
+    }
+]

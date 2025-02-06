@@ -1,0 +1,27 @@
+CUDA_VISIBLE_DEVICES=0 python ./src/train_bash.py \
+    --stage sft \
+    --seed 42 \
+    --do_train \
+    --model_name_or_path ./models/Llama-2-7b-hf   \
+    --dataset reclor_train_all \
+    --template alpaca \
+    --finetuning_type lora \
+    --lora_target all \
+    --output_dir ./checkpoint/reclor/cd/Llama-2-7b-hf-cd \
+    --overwrite_cache \
+    --overwrite_output_dir \
+    --cutoff_len 1536 \
+    --preprocessing_num_workers 16 \
+    --per_device_train_batch_size 8 \
+    --gradient_accumulation_steps 4 \
+    --lr_scheduler_type cosine \
+    --logging_steps 20 \
+    --warmup_ratio 0.03 \
+    --save_steps 1000 \
+    --lora_dropout 0.05 \
+    --lora_rank 64 \
+    --lora_alpha 64 \
+    --learning_rate 2e-4 \
+    --num_train_epochs 2.0 \
+    --plot_loss \
+    --bf16 

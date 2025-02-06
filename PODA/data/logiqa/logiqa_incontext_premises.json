@@ -1,0 +1,36 @@
+[
+    {
+        "premises": [
+            "Mr. Liu is the reserve discipline leader and must be sent.",
+            "If Mr. Liu is chosen, Mr. Zhou must be chosen, but Mr. Zhang cannot be chosen."
+        ],
+        "id": 0
+    },
+    {
+        "premises": [
+            "The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact."
+        ],
+        "id": 1
+    },
+    {
+        "premises": [
+            "Reading is a personal life habit influenced by cultural literacy.",
+            "The habit of reading should be cultivated from an early age.",
+            "Reading habits and hobbies cannot be solved by a youth reading festival.",
+            "Reading is still based on usual habits."
+        ],
+        "id": 2
+    },
+    {
+        "premises": [
+            "Traditional therapy completely heals 44% of patients' ulcers within 6 months."
+        ],
+        "id": 3
+    },
+    {
+        "premises": [
+            "Robbery is forcibly seizing public and private property by violence, coercion, or other means on the spot for the purpose of illegal possession."
+        ],
+        "id": 4
+    }
+]

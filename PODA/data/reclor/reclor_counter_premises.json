@@ -1,0 +1,152 @@
+[
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The statements above, if true, most strongly support which one of the following conclusions?\nAnswer: A patient treated with the new medication for rheumatoid arthritis could sustain a joint injury without becoming aware of it.",
+            "1. This attack causes the release of a hormone that leads to pain and swelling.\n2. A new arthritis medication will contain a protein that inhibits the hormone causing pain and swelling in the joints."
+        ],
+        "input": "Premises: [blank]\nQuestion: The statements above, if true, most strongly support which one of the following conclusions?\nAnswer: Unlike aspirin and other medications that reduce pain and swelling and that are currently available, the new medication would repair existing cell damage that had been caused by rheumatoid arthritis.",
+        "premises": "1. Existing medications like aspirin primarily focus on reducing pain and swelling associated with rheumatoid arthritis.\n2. The new medication has been designed to not only alleviate pain and swelling but also to promote the repair of damaged cells caused by the disease.",
+        "label": 0,
+        "id": 0
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The statements above, if true, most strongly support which one of the following conclusions?\nAnswer: A patient treated with the new medication for rheumatoid arthritis could sustain a joint injury without becoming aware of it.",
+            "1. This attack causes the release of a hormone that leads to pain and swelling.\n2. A new arthritis medication will contain a protein that inhibits the hormone causing pain and swelling in the joints."
+        ],
+        "input": "Premises: [blank]\nQuestion: The statements above, if true, most strongly support which one of the following conclusions?\nAnswer: Joint diseases other than rheumatoid arthritis would not be affected by the new medication.",
+        "premises": "1. The new medication specifically targets the inflammatory pathways unique to rheumatoid arthritis.\n2. Other joint diseases involve different mechanisms that the new medication does not address.",
+        "label": 2,
+        "id": 0
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The statements above, if true, most strongly support which one of the following conclusions?\nAnswer: A patient treated with the new medication for rheumatoid arthritis could sustain a joint injury without becoming aware of it.",
+            "1. This attack causes the release of a hormone that leads to pain and swelling.\n2. A new arthritis medication will contain a protein that inhibits the hormone causing pain and swelling in the joints."
+        ],
+        "input": "Premises: [blank]\nQuestion: The statements above, if true, most strongly support which one of the following conclusions?\nAnswer: The benefits to rheumatoid arthritis sufferers of the new medication would outweigh the medication's possible harmful side effects.",
+        "premises": "1. Rheumatoid arthritis patients often experience severe pain and reduced mobility due to joint inflammation.\n2. The new medication has shown significant improvement in pain relief and joint function during clinical trials.\n3. Some patients reported mild side effects, such as nausea, which were manageable and temporary.",
+        "label": 3,
+        "id": 0
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The patient's argument proceeds by\nAnswer: attempting to discredit a position by questioning the motives of the proponents of that position",
+            "1. The patient counters that pharmacists have a financial interest in maintaining a monopoly on the sale of prescription medicines.\n2. The patient concludes that pharmacists' objections cannot be taken seriously because of their vested financial interest."
+        ],
+        "input": "Premises: [blank]\nQuestion: The patient's argument proceeds by\nAnswer: rejecting a questionable position on the grounds that the general public does not support that position",
+        "premises": "1. The patient argues that the majority of people find the proposed policy unacceptable, thus it should not be implemented.\n2. The patient concludes that a position lacking public backing is inherently flawed and should be dismissed.",
+        "label": 1,
+        "id": 1
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The patient's argument proceeds by\nAnswer: attempting to discredit a position by questioning the motives of the proponents of that position",
+            "1. The patient counters that pharmacists have a financial interest in maintaining a monopoly on the sale of prescription medicines.\n2. The patient concludes that pharmacists' objections cannot be taken seriously because of their vested financial interest."
+        ],
+        "input": "Premises: [blank]\nQuestion: The patient's argument proceeds by\nAnswer: pointing out an unstated assumption on which the pharmacists' argument relies and then refuting it",
+        "premises": "1. The patient argues that pharmacists assume patients cannot safely manage their own medication, which is unfounded.\n2. The patient points out that the pharmacists' argument hinges on the belief that only professionals can handle prescriptions, and then provides evidence to the contrary.",
+        "label": 2,
+        "id": 1
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The patient's argument proceeds by\nAnswer: attempting to discredit a position by questioning the motives of the proponents of that position",
+            "1. The patient counters that pharmacists have a financial interest in maintaining a monopoly on the sale of prescription medicines.\n2. The patient concludes that pharmacists' objections cannot be taken seriously because of their vested financial interest."
+        ],
+        "input": "Premises: [blank]\nQuestion: The patient's argument proceeds by\nAnswer: asserting that pharmacists lack the appropriate knowledge to have informed opinions on the subject under discussion",
+        "premises": "1. The patient argues that pharmacists' training does not cover the complexities of the issue at hand.\n2. The patient claims that pharmacists are not qualified to offer valid opinions due to their limited expertise in the relevant field.",
+        "label": 3,
+        "id": 1
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The pattern of reasoning displayed above most closely parallels which of the following?\nAnswer: Kevin will wash his car tomorrow only if Brittany has to go visit her grandmother. Unless Aunt Susan has to run errands, Brittany will not have to go visit her grandmother. Since Aunt Susan does not have to run errands, Kevin will not wash his car tomorrow.",
+            "1. Paula will visit the dentist tomorrow morning only if Bill goes golfing in the morning.\n2. Bill will not go golfing unless Damien agrees to go golfing too.\n3. Damien has decided not to go golfing.\n4. Therefore, Paula will not be visiting the dentist tomorrow morning."
+        ],
+        "input": "Premises: [blank]\nQuestion: The pattern of reasoning displayed above most closely parallels which of the following?\nAnswer: If Marge goes to the bank today, Lauren will not cash her check tomorrow. Marge will not wash her car unless it is sunny. However, it is sunny, so Marge will wash her car and go shopping with Lauren.",
+        "premises": "1. Marge will not wash her car unless it is sunny.\n2. If Marge goes to the bank today, Lauren will not cash her check tomorrow.\n3. It is sunny today.\n4. Therefore, Marge will wash her car and go shopping with Lauren.",
+        "label": 0,
+        "id": 2
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The pattern of reasoning displayed above most closely parallels which of the following?\nAnswer: Kevin will wash his car tomorrow only if Brittany has to go visit her grandmother. Unless Aunt Susan has to run errands, Brittany will not have to go visit her grandmother. Since Aunt Susan does not have to run errands, Kevin will not wash his car tomorrow.",
+            "1. Paula will visit the dentist tomorrow morning only if Bill goes golfing in the morning.\n2. Bill will not go golfing unless Damien agrees to go golfing too.\n3. Damien has decided not to go golfing.\n4. Therefore, Paula will not be visiting the dentist tomorrow morning."
+        ],
+        "input": "Premises: [blank]\nQuestion: The pattern of reasoning displayed above most closely parallels which of the following?\nAnswer: Renee will do her homework tonight if there is nothing good on television and if her neighbors do not have a party. Although, there is something good on television; her neighbors are also having a party. Therefore, Renee will attend the party.",
+        "premises": "1. Emily will go to the gym tonight if it is not raining and if her best friend is available.\n2. It is raining tonight, and her best friend is not available.\n3. Therefore, Emily will not go to the gym tonight.",
+        "label": 2,
+        "id": 2
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The pattern of reasoning displayed above most closely parallels which of the following?\nAnswer: Kevin will wash his car tomorrow only if Brittany has to go visit her grandmother. Unless Aunt Susan has to run errands, Brittany will not have to go visit her grandmother. Since Aunt Susan does not have to run errands, Kevin will not wash his car tomorrow.",
+            "1. Paula will visit the dentist tomorrow morning only if Bill goes golfing in the morning.\n2. Bill will not go golfing unless Damien agrees to go golfing too.\n3. Damien has decided not to go golfing.\n4. Therefore, Paula will not be visiting the dentist tomorrow morning."
+        ],
+        "input": "Premises: [blank]\nQuestion: The pattern of reasoning displayed above most closely parallels which of the following?\nAnswer: Maddie will plan a picnic only if one of her friends, Lisa or Kenny, will come. Kenny will not come to the picnic, but Lisa will. Therefore, Maddie will plan a picnic.",
+        "premises": "1. Sarah will host a dinner party only if her friends, John or Mike, will attend.\n2. Mike will not attend the dinner party, but John will.\n3. Therefore, Sarah will host a dinner party.",
+        "label": 3,
+        "id": 2
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The argument's conclusion follows logically if which one of the following is assumed?\nAnswer: If it is impossible to produce completely value- neutral literary criticism, then critics should not even try to be value-neutral.",
+            "1. The argument states that literary criticism cannot be completely value-neutral.\n2. Therefore, the argument concludes that some theorists are mistaken about what is an appropriate goal for literary criticism."
+        ],
+        "input": "Premises: [blank]\nQuestion: The argument's conclusion follows logically if which one of the following is assumed?\nAnswer: Any critic who is able to help readers make their own judgments about literary works' merits should strive to produce value-neutral criticism.",
+        "premises": "1. The argument asserts that critics can aid readers in forming their own judgments about the merits of literary works.\n2. Therefore, the argument concludes that producing value-neutral criticism is a worthwhile goal for these critics.",
+        "label": 0,
+        "id": 3
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The argument's conclusion follows logically if which one of the following is assumed?\nAnswer: If it is impossible to produce completely value- neutral literary criticism, then critics should not even try to be value-neutral.",
+            "1. The argument states that literary criticism cannot be completely value-neutral.\n2. Therefore, the argument concludes that some theorists are mistaken about what is an appropriate goal for literary criticism."
+        ],
+        "input": "Premises: [blank]\nQuestion: The argument's conclusion follows logically if which one of the following is assumed?\nAnswer: The less readers understand the meaning of a literary work, the less capable they will be of evaluating that work's merits.",
+        "premises": "1. The argument posits that understanding the meaning of a literary work is crucial for proper evaluation.\n2. Therefore, the argument concludes that readers' ability to evaluate a literary work's merits diminishes with a lack of understanding of its meaning.",
+        "label": 2,
+        "id": 3
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: The argument's conclusion follows logically if which one of the following is assumed?\nAnswer: If it is impossible to produce completely value- neutral literary criticism, then critics should not even try to be value-neutral.",
+            "1. The argument states that literary criticism cannot be completely value-neutral.\n2. Therefore, the argument concludes that some theorists are mistaken about what is an appropriate goal for literary criticism."
+        ],
+        "input": "Premises: [blank]\nQuestion: The argument's conclusion follows logically if which one of the following is assumed?\nAnswer: Critics are more likely to provide criticisms of the works they like than to provide criticisms of the works they dislike.",
+        "premises": "1. The argument states that critics tend to critique works they are fond of more than those they do not appreciate.\n2. Therefore, the argument concludes that personal preferences influence the selection of works for criticism.",
+        "label": 3,
+        "id": 3
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: If the shipping clerk's statements are true, which of the following must also be true?\nAnswer: At least one of the shipments sent to Truax Construction last week was sent out before Friday.",
+            "1. All shipments sent out on Friday last week consisted entirely of building supplies.\n2. Four shipments were sent to Truax Construction last week, only three of which consisted of building supplies."
+        ],
+        "input": "Premises: [blank]\nQuestion: If the shipping clerk's statements are true, which of the following must also be true?\nAnswer: At least one of last week's specially ordered shipments did not consist of building supplies.",
+        "premises": "1. All specially ordered shipments last week consisted entirely of building supplies.\n2. Five specially ordered shipments were processed last week, but only four contained building supplies.",
+        "label": 1,
+        "id": 4
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: If the shipping clerk's statements are true, which of the following must also be true?\nAnswer: At least one of the shipments sent to Truax Construction last week was sent out before Friday.",
+            "1. All shipments sent out on Friday last week consisted entirely of building supplies.\n2. Four shipments were sent to Truax Construction last week, only three of which consisted of building supplies."
+        ],
+        "input": "Premises: [blank]\nQuestion: If the shipping clerk's statements are true, which of the following must also be true?\nAnswer: At least one of the shipments sent to Truax Construction last week was specially ordered.",
+        "premises": "1. Special orders are always prioritized and shipped out before regular orders.\n2. Four shipments were sent to Truax Construction last week, only three of which were regular orders.",
+        "label": 2,
+        "id": 4
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: If the shipping clerk's statements are true, which of the following must also be true?\nAnswer: At least one of the shipments sent to Truax Construction last week was sent out before Friday.",
+            "1. All shipments sent out on Friday last week consisted entirely of building supplies.\n2. Four shipments were sent to Truax Construction last week, only three of which consisted of building supplies."
+        ],
+        "input": "Premises: [blank]\nQuestion: If the shipping clerk's statements are true, which of the following must also be true?\nAnswer: At least one of the shipments sent to Truax Construction was not sent out on Thursday of last week.",
+        "premises": "1. All shipments sent out on Thursday last week consisted entirely of electrical supplies.\n2. Four shipments were sent to Truax Construction last week, only three of which consisted of electrical supplies.",
+        "label": 3,
+        "id": 4
+    }
+]

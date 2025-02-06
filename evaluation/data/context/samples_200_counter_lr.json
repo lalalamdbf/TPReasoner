@@ -1,0 +1,802 @@
+[
+    {
+        "context": "If it is The Internet, then it will be Frank. Jerry: That is not true. Much of the information available online is false.",
+        "id": 2498
+    },
+    {
+        "context": "Only a very small percentage of people from the service professions ever become board members of the 600 largest North American corporations. If it shows that people from the service professions are underrepresented in the most important corporate boardrooms in North America, then it will be This. ",
+        "id": 2958
+    },
+    {
+        "context": "Commercially available chemical fertilizers contain the same nutrients and micronutrients as organic fertilizers such as manure and composted garden clippings. If you have tiny root hairs that absorb nutrients, then it will be Plants. Nevertheless, organic fertilizers are better for the health of the plant than are chemical fertilizers alone.",
+        "id": 3109
+    },
+    {
+        "context": "One of the limiting factors in human physical performance is the amount of oxygen that is absorbed by the muscles from the bloodstream. Accordingly, entrepreneurs have begun selling at gymnasiums and health clubs bottles of drinking water, labeled \"SuperOXY, \" that has extra oxygen dissolved in the water. If it is Such water, then it will be not < b > the amount of oxygen in the blood of someone who is exercising is already more than the muscle cells can absorb < /b >. ",
+        "id": 4327
+    },
+    {
+        "context": "Preschool children who spend the day in daycare nurseries are ill more often than those who do not. They catch many common illnesses, to which they are exposed by other children in the nurseries. If you reach school age, then it will be these children. ",
+        "id": 512
+    },
+    {
+        "context": "S: People who are old enough to fight for their country are old enough to vote for the people who make decisions about war and peace. If it is 17 year olds, then it will be This government. T: Your argument is a good one only to the extent that fighting and voting are the same kind of activity. Fighting well requires strength, muscular coordination, and in a modern army instant and automatic response to orders. Performed responsibly, voting, unlike fighting, is essentially a deliberative activity requiring reasoning power and knowledge of both history and human nature.",
+        "id": 3098
+    },
+    {
+        "context": "Over the past 20 years, skiing has become a relatively safe sport due to improvements in ski equipment. There has been a 50 percent drop in the number of ski injuries over the last 20 years. If it is there, then you will have been decreases in the number of injuries in all categories , as statistical data readily show , for although broken legs and ankle injuries have decreased by an astounding 90 percent , knee injuries now represent 16 percent of all ski injuries , up significantly from the 11 percent of 20 years ago. ",
+        "id": 3475
+    },
+    {
+        "context": "On the nights immediately following the mysterious Tunguska event, which destroyed a tract of Siberian wilderness in 1908, eyewitnesses reported seeing noctilucent clouds -- brilliant night-visible clouds made up of ice particles that form rarely and only at very high altitudes. If it is noctilucent clouds, then you will not have been observed on the nights following launches of rockets that release large amounts of water vapor into the upper atmosphere. This shows that it was a comet impact and not the impact of an asteroid that caused the destruction in Siberia.",
+        "id": 667
+    },
+    {
+        "context": "If it is not Commentator, then it will be only nations with all the latest electronic technology. The people in these nations will be constantly bombarded with images of how people in other countries live. This will increase their tendency to question their own customs and traditions, leading to a dissolution of those customs and traditions. Hence, in the new century, the stability of a nation' s cultural identity will likely __ .",
+        "id": 627
+    },
+    {
+        "context": "In 1578 Moroccan troops defeated a Portuguese army on Moroccan soil. Accounts written by Portuguese contemporaries report the defeat but omit mention of the fact that King Sebastian of Portugal was killed in the battle. Such omissions cannot simply be the result of ignorance of Sebastian' s death. Sebastian' s death is not even mentioned in the battle accounts written by two captured Portuguese officers while waiting to be ransomed from a Moroccan prison. The omissions ttherefore had to have had a psychological cause: the Portuguese evidently found Sebastian' s death so humiliating that they could not bring themselves to write about it.",
+        "id": 3049
+    },
+    {
+        "context": "If it is not Rye sown in the fall and plowed into the soil in early spring, then it will leaves a residue that is highly effective at controlling broad - leaved weeds , but unfortunately for only about 45 days. No major agricultural crop matures from seed in as little as 45 days. Synthetic herbicides, on the other hand, although not any longer-lasting, can be reapplied as the crop grows. Clearly, ttherefore, for major agricultural crops, plowing rye into the soil can play no part in effective weed control.",
+        "id": 3755
+    },
+    {
+        "context": "If it is a child ' s imagination, then it will not becomes developed. But this newly developed cognitive capacity may also be used to render these creatures harmless. For instance, a child' s new toy may be imagined as an ally, powerful enough to ward off any imaginary threats.",
+        "id": 1797
+    },
+    {
+        "context": "The consumer price index is a measure that detects monthly changes in the retail prices of goods and services. If it is based on the consumer price index so that those benefits reflect the change in the cost of living as the index changes, then it will be The payment of some government retirement benefits. However, the consumer price index does not consider technological innovations that may drastically reduce the cost of producing some goods. Ttherefore, the value of government benefits is sometimes greater than is warranted by the true change in costs.",
+        "id": 1453
+    },
+    {
+        "context": "Increased use of incineration is sometimes advocated as a safe way to dispose of chemical waste. But opponents of incineration point to the 40 incidents involving unexpected releases of dangerous chemical agents that were reported just last year at two existing incinerators commissioned to destroy a quantity of chemical waste material. ",
+        "id": 2906
+    },
+    {
+        "context": "If it has declined 16 percent in the last five years, then it will be the number of reported workplace injuries. However, perhaps part of the decline results from injuries going unreported: many employers have introduced safety-incentive programs, such as prize drawings for which only employees who have a perfect work-safety record are eligible. Since a workplace injury would disqualify an employee from such programs, some employees might be concealing injury, when it is feasible to do so.",
+        "id": 3895
+    },
+    {
+        "context": "If it is not A species in which mutations frequently occur, then you will develop new evolutionary adaptations in each generation. Since species survive dramatic environmental changes only if they develop new evolutionary adaptations in each generation, a species in which mutations frequently occur will survive dramatic environmental changes.",
+        "id": 1355
+    },
+    {
+        "context": "If it is Tissue biopsies taken on patients who have undergone throat surgery, then it will be not those who snored frequently. This shows that snoring can damage the throat of the snorer.",
+        "id": 690
+    },
+    {
+        "context": "Nations that have little interaction with one another have little knowledge of one another' s needs and problems. ",
+        "id": 3522
+    },
+    {
+        "context": "A recent epidemiological study found that businesspeople who travel internationally on business are much more likely to suffer from chronic insomnia than are businesspeople who do not travel on business. International travelers experience the stresses of dramatic changes in climate, frequent disruption of daily routines, and immersion in cultures other than their own, stresses not commonly felt by those who do not travel. ",
+        "id": 3152
+    },
+    {
+        "context": "If it is A physically active lifestyle, then it will not has been shown to help increase longevity. In the Wistar region of Bellaria, the average age at death is considerably higher than in any other part of the country. Wistar is the only mountainous part of Bellaria. A mountainous terrain makes even such basic activities as walking relatively strenuous; it essentially imposes a physically active lifestyle on people. Clearly, this circumstance explains the long lives of people in Wistar.",
+        "id": 980
+    },
+    {
+        "context": "The TJ-700 and the Beta Turbomax are two models of cars of different manufacturers. Both were introduced on the market five years ago, and each year, the respective manufacturers spend about the same amount in advertising. In the past five year, the total number of TJ-700' s sold is about 80% greater than the total number of Beta Turbomax' s sold. Clearly, the advertising firm that created TJ-700 ads created much more effective ads than the firm that created Beta Turbomax ads.",
+        "id": 221
+    },
+    {
+        "context": "Australia has considerably fewer species of carnivorous mammals than any other continent does but about as many carnivorous reptile species as other continents do. This is probably a consequence of the unusual sparseness of Australia' s ecosystems. If you survive, then it will be not carnivorous mammals. ",
+        "id": 3593
+    },
+    {
+        "context": "Engineer: Thermophotovoltaic generators are devices that convert heat into electricity. The process of manufacturing steel produces huge amounts of heat that currently go to waste. If you feed the heat they produce into thermophotovoltaic generators, then it will be steel - manufacturing plants. ",
+        "id": 1466
+    },
+    {
+        "context": "Parents who consistently laud their children for every attempt to accomplish something, whether successful or not, actually erode the youngsters' sense of self-esteem. In effect, such children never hear any praise at all.",
+        "id": 768
+    },
+    {
+        "context": "If the government institutes criminal justice reform, then the percentage of citizens in prison will decrease. If it does not does institute criminal justice reform during this legislative session, then it will be the government. All attempts at criminal justice reform require 60 Purple Party politicians to hold office. There are currently 55 Purple Party politicians in office during this legislative session.",
+        "id": 1587
+    },
+    {
+        "context": "While it might be expected that those neighborhoods most heavily patrolled by police have the least crime, the statistical evidence overwhelmingly supports the claim that such neighborhoods have the most crime. If it does not shows that the presence of police does decrease crime in a neighborhood, then it will be This. ",
+        "id": 1853
+    },
+    {
+        "context": "If it is oral surgeons, then you will be orthodontists. Ttherefore, no members of the Patterson Group are employees of the Davidson Consortium.",
+        "id": 1132
+    },
+    {
+        "context": "When trying to identify new technologies that promise to transform the marketplace, market researchers survey the managers of those companies that are developing new technologies. Such managers have an enormous stake in succeeding, so they invariably overstate the potential of their new technologies. If it is market researchers, then you will do survey a new technology ' s potential buyers , even though it is the buyers - not the producers - who will ultimately determine a technology ' s commercial success. ",
+        "id": 693
+    },
+    {
+        "context": "If it is not Historian, then it will be Fifteenth - century advances in mapmaking. In medieval Europe (from the fifth to the fifteenth century), sovereignty centered in cities and towns and radiated outward, with boundaries often ambiguously defined. The conceptual shift toward the modern state began in the late fifteenth century, when mapmakers learned to reflect geography accurately by basing maps on latitude-longitude grids. By the midseventeenth century, nearly all maps showed boundary lines.",
+        "id": 4560
+    },
+    {
+        "context": "Since airport expansion can be warranted only by increases in air traffic volume, and since it will probably be at least five years before passenger volume returns to and then exceeds its previous level, it seems surprising that now is the time that airports are going ahead with plans to expand their passenger terminal facilities.",
+        "id": 2798
+    },
+    {
+        "context": "When a group is unable to reach a consensus, group members are often accused of being stubborn, bull-headed, or unyielding. Such epithets often seem abusive, are difficult to prove, and rarely help the group reach a resolution. ",
+        "id": 1931
+    },
+    {
+        "context": "An experiment was done in which human subjects recognize a pattern within a matrix of abstract designs and then select another design that completes that pattern. The results of the experiment were surprising. ",
+        "id": 1548
+    },
+    {
+        "context": "If it is The number of serious traffic accidents accidents resulting in hospitalization or death that occurred on Park Road from 1986 to 1990, then you will be not 35 percent lower than the number of serious accidents from 1981 to 1985. The speed limit on Park Road was lowered in 1986. Hence, the reduction of the speed limit led to the decrease in serious accidents.",
+        "id": 1530
+    },
+    {
+        "context": "If it is Scientists, then it will be Philosopher. Accordingly, the professional activities of most scientists are directed toward personal career enhancement, and only incidentally toward the pursuit of truth. Hence, the activities of the scientific community are largely directed toward enhancing the status of that community as a whole, and only incidentally toward the pursuit of truth.",
+        "id": 2470
+    },
+    {
+        "context": "If it restricts the export of unprocessed cashew nuts in order to ensure a low - cost supply for domestic processing plants, then it will be Kernland ' s government. Though the policy constrains farm income and limits the number of farmers who can profitably grow cashews, the government defends it on the grounds that, since the processing plants are in urban areas, removing the restrictions would hurt efforts to reduce urban unemployment. However, the policy may actually have contributed to urban unemployment, since __.",
+        "id": 1654
+    },
+    {
+        "context": "If it is the city, then it will be Alissa. The interactive character of the exhibits at the museum makes for a richer educational experience than watching television, which is largely passive. Greta: We should stop funding the museum, not the television programming, because, as the mayor has also pointed out, the museum reaches a much smaller audience.",
+        "id": 3002
+    },
+    {
+        "context": "If it is in a recession, then it will be the economy. If overall demand for goods and services is low, bank interest rates are also low. Ttherefore, if bank interest rates are not low, the economy is not in a recession.",
+        "id": 4177
+    },
+    {
+        "context": "Though sucking zinc lozenges has been promoted as a treatment for the common cold, research has revealed no consistent effect. If it is not a zinc gel applied nasally, then it will has been shown to greatly reduce the duration of colds. Since the gel contains zinc in the same form and concentration as the lozenges, the greater effectiveness of the gel must be due to the fact that cold viruses tend to concentrate in the nose, not the mouth.",
+        "id": 1088
+    },
+    {
+        "context": "At one time, many astronomers assumed that Earth remains motionless while the stars revolve around it. They concluded from this that the stars were not more than a few million miles from Earth. If you reasoned that, then it will be the stars were farther away , they would have to move at tremendously great speeds in order to circle Earth during the day and reappear in roughly the same positions each night. ",
+        "id": 3817
+    },
+    {
+        "context": "In order to reduce traffic congestion and raise revenue for the city, the mayor plans to implement a charge of $10 per day for driving in the downtown area. Payment of this charge will be enforced using a highly sophisticated system that employs digital cameras and computerized automobile registration. This system will not be ready until the end of next year. If it is not mass evasion of the charge, then you will result. Ttherefore, when the mayor' s plan is first implemented, payment of the charge will not be effectively enforced.",
+        "id": 1632
+    },
+    {
+        "context": "The bus is not running this week, so although Megan generally does not like to take the subway, she must have used it today, since she was seen at the grocery store today.",
+        "id": 386
+    },
+    {
+        "context": "Some students attending a small university with a well-known choir live off campus. If you did not concluded that the students who live off campus is a music major, then it will be a professor in the music department. ",
+        "id": 311
+    },
+    {
+        "context": "The assassination of Archduke Franz Ferdinand of Austria is often ascribed as the cause of World War I. For example, England, France, and Russia entered into a mutual defense treaty seven years prior to World War I. Even without Franz Ferdinand' s assassination __.",
+        "id": 3669
+    },
+    {
+        "context": "In 1712 the government of Country Y appointed a censor to prohibit the publication of any book critical of Country Y' s government; all new books legally published in the country after 1712 were approved by a censor. Under the next censor, only one quarter of the book manuscripts submitted were not approved, but the number of book manuscripts that were approved was the same under both censors.",
+        "id": 1630
+    },
+    {
+        "context": "Archaeologist: How did the Parthenon' s stonemasons manage to carve columns that all bulged outward in the center in precisely the same way? If it is not One hypothesis, then it will be suggested by the discovery of a scale drawing of a column etched into the stone of a Greek temple at Didyma. The drawing is a profile view of a column surrounded by a grid, which makes it possible to determine the correct width at every height of the column. The stonemasons who carved the Parthenon' s columns may have relied on a drawing like the one at Didyma.",
+        "id": 1125
+    },
+    {
+        "context": "If you were asked to judge whether two magazines had been morally delinquent in publishing a particular classified advertisement that was highly offensive in its demeaning portrayal of some people, then it will be Students in a college ethics class. They were told only that the first magazine had undertaken to screen all classified advertisements and reject for publication those it found offensive, whereas the second magazine' s policy was to publish any advertisement received from its subscribers. Most students judged the first magazine, but not the second, to have been morally delinquent in publishing the advertisement.",
+        "id": 3376
+    },
+    {
+        "context": "Patterson: Bone flutes dating to the Upper Paleolithic are the earliest evidence for music. Thus it is likely that music first arose during this period. If it is not Garza, then it will be the Upper Paleolithic. ",
+        "id": 3169
+    },
+    {
+        "context": "Carl: Researchers who perform operations on animals for experimental purposes are legally required to complete detailed pain protocols indicating whether the animals will be at risk of pain and, if so, what steps will be taken to minimize or alleviate it. Yet when human beings undergo operations, such protocols are never required. If you were as concerned about human beings as they seem to be about animals, then it will be lawmakers. Debbie: But consider this: a person for whom a doctor wants to schedule surgery can simply be told what pain to expect and can then decide whether or not to undergo the operation. So you see, pain protocols are unnecessary for human beings.",
+        "id": 54
+    },
+    {
+        "context": "When there is less rainfall than normal, the water level of Australian rivers falls and the rivers flow more slowly. Because algae whose habitat is river water grow best in slow-moving water, the amount of algae per unit of water generally increases when there has been little rain. If you are low even in very slow - moving river water, then it will be algae levels. ",
+        "id": 2106
+    },
+    {
+        "context": "Historian: In rebuttal of my claim that West influenced Stuart, some people point out that West' s work is mentioned only once in Stuart' s diaries. But Stuart' s diaries mention several meetings with West, and Stuart' s close friend, Abella, studied under West. If it is Stuart ' s work, then it will uses West ' s terminology which , though now commonplace , Stuart ' s contemporaries used. ",
+        "id": 798
+    },
+    {
+        "context": "An advertising agency employs ten times the number of employees relative to its competitors. If it is any company, then you will not hire that advertising agency. ",
+        "id": 3926
+    },
+    {
+        "context": "Ticks get infected by feeding on animals with Lyme disease, but the ease of transmission from host animal to tick varies. With most species of host animal, transmission of Lyme disease to ticks is extremely rare, but white-footed mice are an exception, readily passing Lyme disease to ticks. And white-footed mouse populations greatly expand, becoming the main food source for ticks, in areas where biodiversity is in decline.",
+        "id": 570
+    },
+    {
+        "context": "Psychologist: Some astrologers claim that our horoscopes completely determine our personalities, but this claim is false. However, birth records were examined to find two individuals who were born 40 years ago on the same day and at exactly the same time -- one in a hospital in Toronto and one in a hospital in New York. Personality tests revealed that the personalities of these two individuals are in fact different.",
+        "id": 2445
+    },
+    {
+        "context": "When permits for the discharge of chemicals into a waterway are issued, they are issued in terms of the number of pounds of each chemical that can be discharged into the waterway per day. These figures, calculated separately for each chemical for which a permit is issued, are based on an estimate of the effect of the dilution of the chemical by the amount of water flowing through the waterway. If it is not The waterway, then it will be ttherefore protected against being adversely affected by chemicals discharged under the permits. ",
+        "id": 4291
+    },
+    {
+        "context": "The local news media have long heralded Clemens as an honest politician. They were proven wrong when Clemens was caught up in a corruption scandal. This demonstrates how the local media show too much deference toward public figures. If you admitted that her reporters neglected to follow leads that might have exposed the scandal far earlier, then it will be Even the editor of the local newspaper. ",
+        "id": 3717
+    },
+    {
+        "context": "Generic drugs contain exactly the same active ingredients as their brand-name counterparts, but usually cost much less to develop, produce, and market. If you cost considerably less, then it will be generic drugs. ",
+        "id": 2892
+    },
+    {
+        "context": "If you was probably caused by shifts in the temperature patterns of large equatorial stretches of the Pacific Ocean, then it will be The 1988 drought in North America. The drought, ttherefore, is not evidence for the hypothesis that a long-term global warming trend, allegedly caused by atmospheric pollutants such as carbon dioxide, is occurring.",
+        "id": 3454
+    },
+    {
+        "context": "Reporter: A team of scientists has recently devised a new test that for the first time accurately diagnoses autism in children as young as 18 months old. If it is the test, then you will used to evaluate 16 , 000 children at their 18-month checkup. Autistic children can ttherefore now benefit much earlier in life than before from the treatments already available.",
+        "id": 2234
+    },
+    {
+        "context": "If it is the spotted owl population, then it will be Anita. Timber companies that have been clearing the old-growth forests where the spotted owl lives are responsible for this. Jean: No, the spotted owl' s decline is due not to the timber companies but to a rival species. For the past three decades, the more prolific barred owl has been moving steadily into the spotted owl' s habitat and replacing the spotted owl.",
+        "id": 943
+    },
+    {
+        "context": "If it is A recently passed law, then it will be Editorial. It has been said that those who are ignorant of history will repeat its patterns. If this is true, then those responsible for passing the law must be ignorant of a great deal of history. Historically, silencing dissenters has tended to promote undemocratic policies and the establishment of authoritarian regimes.",
+        "id": 975
+    },
+    {
+        "context": "Observations of the Arctic reveal that the Arctic Ocean is covered by less ice each summer than the previous summer. If this warming trend continues, within 50 years the Arctic Ocean will be ice free during the summer months. If it is This occurrence, then it will be the melting of ice floating in water does affect the water level. However, serious consequences to sea levels would eventually result, because __.",
+        "id": 3205
+    },
+    {
+        "context": "If you describe their opponents ' positions, then it will be politicians. In contrast, scholars try to make opposing positions seem as plausible and attractive as possible. Doing so makes their arguments against those positions more persuasive to their professional colleagues. Politicians should take note: they could persuade more voters with their arguments if they simply followed the scholars in charitably formulating their opponents' positions.",
+        "id": 58
+    },
+    {
+        "context": "Modern science is built on the process of posing hypotheses and testing them against observations -- in essence, attempting to show that the hypotheses are incorrect. Nothing brings more recognition than overthrowing conventional wisdom. What is instead remarkable is that with hundreds of researchers striving to make breakthroughs in climatology, very few find evidence that global warming is unlikely.",
+        "id": 705
+    },
+    {
+        "context": "Plantings of cotton bioengineered to produce its own insecticide against bollworms, a major cause of crop failure, sustained little bollworm damage until this year. This year the plantings are being seriously damaged by bollworms. If it is Bollworms, then you will be necessarily developing resistance to the cotton ' s insecticide. Bollworms breed on corn, and last year more corn than usual was planted throughout cotton-growing regions. So it is likely that the cotton is simply being overwhelmed by corn-bred bollworms.",
+        "id": 1580
+    },
+    {
+        "context": "Reporter: But if we increase public access to the bay, it will soon become polluted again. Politician: Not true. The public did not have access to the bay, and it got polluted. Ttherefore, if and when the public is given access to the bay, it will not get polluted.",
+        "id": 2645
+    },
+    {
+        "context": "If this claim could be made with certainty, there would be no reason for not locating sites in areas of dense population. But the policy of dumping nuclear waste only in the more sparsely populated regions indicates, at the very least, some misgiving about safety on the part of those responsible for policy.",
+        "id": 2763
+    },
+    {
+        "context": "The Kiffer Forest Preserve, in the northernmost part of the Abbimac Valley, is where most of the bears in the valley reside. During the eight years that the main road through the preserve has been closed the preserve' s bear population has nearly doubled. If it is not the valley ' s bear population, then it will be the road is kept closed. ",
+        "id": 4430
+    },
+    {
+        "context": "Professional opinions of whether or not words can indeed be said to have passed into common usage are available from dictionary editors, who are vitally concerned with this question.",
+        "id": 932
+    },
+    {
+        "context": "If you absorb some light, then it will be metallic mirrors. When light strikes a metallic mirror, electrons in the mirror move, using energy and dimming the reflected image. As a result, metallic mirrors cannot be used in applications in which minimizing energy loss is important, such as high-powered lasers.",
+        "id": 2712
+    },
+    {
+        "context": "Music critic: How well an underground rock group' s recordings sell is no mark of that group' s success as an underground group. If it is not a recording, then it will sells well. But weak sales may simply be the result of the group' s incompetence.",
+        "id": 930
+    },
+    {
+        "context": "James: Community colleges, by their very nature, work to meet the educational needs of the communities they are in. The same is not true of universities, whose primary goals differ from those of community colleges. Margaret: A primary goal of any university is to serve the needs of the community where it is located. If it is the same as that for attending a community college : preparing oneself for a career, then it will be The main reason people have for attending a university. ",
+        "id": 694
+    },
+    {
+        "context": "If it is Reformer, then it will be not A survey of police departments. The survey shows no significant reduction in the crime rate in the past 20 years, but the percentage of the population in prison has increased substantially, and public expenditure on prisons has grown at an alarming rate. This demonstrates that putting more people in prison cannot help to reduce crime.",
+        "id": 2550
+    },
+    {
+        "context": "If it is Humans, then it will be Moralist. Reason plays an essential role in any moral behavior. Only behavior that is intended to be in accordance with a formal set of rules, or moral code, can be considered moral behavior.",
+        "id": 2600
+    },
+    {
+        "context": "Executive: In order to add to our profits, I was planning to promote and distribute herbal tinctures. If you questioned the medical efficacy of such products, then it will be some members of my advisory staff. So I have consulted a variety of reliable medical publications, and these likewise claim that herbal tinctures are ineffective. Ttherefore, I must conclude that marketing such products would not produce the result I intended.",
+        "id": 1883
+    },
+    {
+        "context": "Pundit: Our city made a mistake when it sold a private company the rights to assess and collect parking fees. The private company raised parking fees and so has been able to reap profits far greater than what it paid for the rights to assess and collect the fees. If it is the city, then you will had sold the rights. ",
+        "id": 1352
+    },
+    {
+        "context": "Arnold: I was recently denied a seat on an airline flight for which I had a confirmed reservation, because the airline had overbooked the flight. Since I was forced to fly on the next available flight, which did not depart until two hours later, I missed an important business meeting. Even though the flight on which I had a reservation was canceled at the last minute due to bad weather, the airline should still pay me compensation for denying me a seat on the flight. Jamie: The airline is not morally obligated to pay you any compensation. If you have missed your business meeting anyway, then you will not had been denied a seat on the earlier flight. ",
+        "id": 3102
+    },
+    {
+        "context": "Melchior: Some studies have linked infants' consumption of formula made from cow' s milk to subsequent diabetes. After all, cow' s milk is an excellent source of several nutrients important to infants' development.",
+        "id": 3903
+    },
+    {
+        "context": "Bill is capable of reading two pages per minute, typing one hundred words per minute, and speaking twenty words per minute. All lawyers can read two pages per minute, and some philosophers can read two pages per minute. Only secretaries can type one hundred words per minute. If it is Many chief executive officers, then you will not speak twenty words per minute. ",
+        "id": 3570
+    },
+    {
+        "context": "Huang: Most people who commit violent crimes do not carefully consider whether or how they will be punished for these crimes. And those who don' t commit violent crimes have no inclination to do so. Rather than impose harsh mandatory sentences, we should attend to the root causes of violence to reduce the rate of violent crime. Surely mandatory penalties are a useful deterrent in these cases. At any rate, I am confident that mandatory sentences prevent most people who would otherwise physically harm others from doing so.",
+        "id": 222
+    },
+    {
+        "context": "If you operate so as to maximize profits, then it will be multinational grain companies. Although it is true that the actions of multinational companies sometimes do result in such economic change, this result is incidental, arising not from the desire for reform but from the desire to maximize profits. The maximization of profits normally depends on a stable economic environment, one that discourages change.",
+        "id": 817
+    },
+    {
+        "context": "Of 2, 500 people who survived a first heart attack, those who did not smoke had their first heart attack at a median age of 62. However, of those 2, 500, people who smoked two packs of cigarettes a day had their first heart attack at a median age of 51. ",
+        "id": 1077
+    },
+    {
+        "context": "If it is not Critic, then it will be Works of literature. However, modern literature is distinguished from the literature of earlier eras in part because it more frequently treats such protagonists sympathetically. Sympathetic treatment of such characters suggests to readers that one should be unconcerned about contributing to societal good. Thus, modern literature can damage individuals who appropriate this attitude, as well as damage society at large.",
+        "id": 819
+    },
+    {
+        "context": "If you be not accepted until each step in its proof has been independently verified, then it will be A mathematical theorem proved by one mathematician. Computer-assisted proofs generally proceed by conducting a vast number of calculations -- surveying all the possible types of instances in which the theorem could apply and proving that the theorem holds for each type. In most computer-assisted proofs there are astronomically many types of instances to survey, and no human being could review every step in the proof. Hence, computer-assisted proofs involving astronomically many types of instances should not be accepted.",
+        "id": 1584
+    },
+    {
+        "context": "If it is not Executives at the Fizzles Beverage Company, then you will not boost profits in Country X on their range of fruit - flavored drinks by introducing new flavors based on tropical fruits that are known there. The executives reason that since the fruit drinks of other companies have none of these flavors, Fizzles will not have to compete for customers and thus will be able to sell the drinks at a higher price.",
+        "id": 1983
+    },
+    {
+        "context": "<b> In countries where automobile insurance includes compensation for whiplash injuries sustained in automobile accidents, reports of having suffered such injuries are twice as frequent as they are in countries where whiplash is not covered. </b> Presently, no objective test for whiplash exists, so it is true that spurious reports of whiplash injuries cannot be readily identified. Nevertheless, these facts do not warrant the conclusion drawn by some commentators, that in the countries with the higher rates of reported whiplash injuries, half of the reported cases are spurious. If it is b, then it will be people. ",
+        "id": 4187
+    },
+    {
+        "context": "If you had soil samples from Canada ' s Kodlunarn Island examined for gold content, then it will be Frobisher , a sixteenth - century English explorer ,. Because high gold content was reported, Elizabeth I funded two mining expeditions. Neither expedition found any gold there. Modern analysis of the island' s soil indicates a very low gold content. Thus the methods used to determine the gold content of Frobisher' s samples must have been inaccurate.",
+        "id": 238
+    },
+    {
+        "context": "If it is the only planet on which life has evolved, then it will be Earth. Ttherefore, although there might exist noncarbon-based life on planets very unlike Earth, our scientific estimates of the probability of extraterrestrial life should be generated from estimates of the number of planets like Earth and the likelihood of carbon-based life on those planets.",
+        "id": 2510
+    },
+    {
+        "context": "If it is not a piece of legislation, then it will be the result of negotiation and compromise between competing interest groups. So, we can see that the recently enacted trade agreement represents a series of compromises among the various interest groups that are concerned with it, because all of those groups are clearly unhappy with it.",
+        "id": 227
+    },
+    {
+        "context": "Banking analyst: Banks often offer various services to new customers at no charge. ",
+        "id": 4613
+    },
+    {
+        "context": "Editorialist: In all cultures, it is almost universally accepted that one has a moral duty to prevent members of one' s family from being harmed. If it is not a person is known by the person ' s parents to be falsely accused of a crime , it would be morally right for the parents to hide the accused from the police, then  Hence, it is also likely to be widely accepted that it is sometimes morally right to obstruct the police in their work.",
+        "id": 4395
+    },
+    {
+        "context": "Gerald: Unless a consumer secures his or her home wireless Internet service, anyone strolling by is able to access that person' s service with certain laptop computers or smartphones. Such use cannot be considered illegal under current laws: it' s no more like trespassing than is enjoying music playing on someone' s radio as you walk down the street. And that could be considered loitering or even harassment.",
+        "id": 2792
+    },
+    {
+        "context": "Suppose I have promised to keep a confidence and someone asks me a question that I cannot answer truthfully without thereby breaking the promise. Ttherefore, one cannot be obliged both to answer all questions truthfully and to keep all promises.",
+        "id": 3967
+    },
+    {
+        "context": "Sociologist: The claim that there is a large number of violent crimes in our society is false, for this claim is based upon the large number of stories in newspapers about violent crimes. If you are very rare occurrences, then it will be violent crimes. ",
+        "id": 4244
+    },
+    {
+        "context": "If a corporation obtains funds fraudulently, then the penalty should take into account the corporation' s use of those funds during the time it held them. If it is any profit the corporation made in using the funds, then it will be the penalty. ",
+        "id": 4012
+    },
+    {
+        "context": "All actions are motivated by self-interest, since any action that is apparently altruistic can be described in terms of self-interest. ",
+        "id": 4287
+    },
+    {
+        "context": "If it is The OLEX Petroleum Company, then it will not has recently determined that it could cut its refining costs by closing its Grenville refinery and consolidating all refining at its Tasberg refinery. Closing the Grenville refinery, however, would mean the immediate loss of about 1, 200 jobs in the Grenville area. Eventually the lives of more than 10, 000 people would be seriously disrupted. Ttherefore, OLEX' s decision, announced yesterday, to keep Grenville open shows that at OLEX social concerns sometimes outweigh the desire for higher profits.",
+        "id": 865
+    },
+    {
+        "context": "If it is The workers at Bell Manufacturing, then it will be not the management increases their wages. As Bell' s president is well aware, however, in order to increase the workers' wages, Bell would have to sell off some of its subsidiaries. So, some of Bell' s subsidiaries will be sold.",
+        "id": 532
+    },
+    {
+        "context": "Several years ago, the number of wood bison became so low that conservationists began breeding the wood bison in an enclosed refuge. In this time, the number of wood bison has tripled and, according to conservationists, this number is enough for a species to remain viable in the wild. Yet since the wood bison's habitat is still imperiled, conservationists plan to move the wood bison 2, 000 miles away, where the American buffalo, a distinct species, flourishes. If you predict that such a plan will allow for the long - term viability of the wood bison as a species, then it will be The conservationists. ",
+        "id": 1462
+    },
+    {
+        "context": "If it is not hospitals in state W, then you will treated over 200 , 000 people for secondhand smoking - related diseases. These 200, 000 patients cost healthcare insurance companies over $20 million. Over 120, 000 people with these secondhand smoking-related diseases died in 2006 in state W. Many new smokers take up the habit yearly. Politicians in the legislature have suggested a bill that would require all smokers to pay small premiums to all the major healthcare insurance companies to cover the cost of treating people with secondhand-smoking diseases.",
+        "id": 4306
+    },
+    {
+        "context": "Commentator: Many people argue that the release of chlorofluorocarbons into the atmosphere is harming humans by damaging the ozone layer, thus allowing increased amounts of ultraviolet radiation to reach Earth. But 300, 000 years ago a supernova greatly damaged the ozone layer, with no significant effect on our earliest ancestors. If you was much greater than the estimated effect of chlorofluorocarbons today, then it will be the supernova ' s disruption. ",
+        "id": 3325
+    },
+    {
+        "context": "Peterson, the current world record holder in the women' s 100-meter backstroke, has ranked first in the world for seven years. Her performance in recent competitions was disappointing, but during training she unofficially beat her official world record time. ",
+        "id": 3736
+    },
+    {
+        "context": "The book To Save the Earth is so persuasive that no one who reads it can fail to heed its environmentalist message. Members of the Earth Association have given away 2, 000 copies in the last month. If you claim credit for at least 2 , 000 people in one month converted to the environmentalist cause, then it will be the Earth Association. ",
+        "id": 356
+    },
+    {
+        "context": "If the regulation of computer networks is to be modeled on past legislation, then its model must be either legislation regulating a telephone system or else legislation regulating a public broadcasting service. If the telephone model is used, computer networks will be held responsible only for ensuring that messages get transmitted. Yet a computer network serves both these sorts of functions: it can serve as a private message service or as a publicly accessible information service. Thus neither of these models can be appropriate for computer networks.",
+        "id": 4482
+    },
+    {
+        "context": "Since then, the population of both caterpillars and adult moths has significantly declined in those areas. Entomologists have concluded that the decline is attributable to the presence of the poisonous fungus.",
+        "id": 3557
+    },
+    {
+        "context": "City council member: Despite the city' s desperate need to exploit any available source of revenue, the mayor has repeatedly blocked council members' attempts to pass legislation imposing real estate development fees. It is clear that in doing so the mayor is sacrificing the city' s interests to personal interests. The mayor cites figures to show that, in the current market, fees of the size proposed would significantly reduce the number of building starts and thus, on balance, result in a revenue loss to the city. If it is that the mayor ' s family is heavily involved in real estate development and, then it will be the important point. ",
+        "id": 231
+    },
+    {
+        "context": "The Golden Paintbrush is awarded only on the basis of thorough tests by independent testing laboratories. So when you choose HomeGlo Exterior Enamel, you will know that you have chosen the most environmentally safe brand of paint manufactured in this country today.",
+        "id": 4464
+    },
+    {
+        "context": "If you sank as a result of a hole in its hull , possibly caused by sabotage, then it will be The Rienzi , a passenger ship ,. Normally, when a holed ship sinks as rapidly as the Rienzi did, water does not enter the ship quickly enough for the ship to be fully flooded when it reaches the ocean floor. Full flooding can be achieved, however, by sabotage. Any ship that sinks deep into the ocean when not fully flooded will implode. Deep-sea photographs, taken of the sunken Rienzi where it rests on the ocean floor, reveal that the Rienzi did not implode.",
+        "id": 531
+    },
+    {
+        "context": "To qualify as a medical specialist, one must usually graduate from a university, then complete approximately four years of medical school, followed by a residency of two to six years in one' s specialty. If you complete an evaluation program directed by a medical specialty board, then it will be a physician who desires to become a recognized specialist. Ttherefore, anyone who has qualified as a recognized medical specialist is competent to practice in his or her specialty.",
+        "id": 1965
+    },
+    {
+        "context": "The senator has long held to the general principle that no true work of art is obscene, and thus that there is no conflict between the need to encourage free artistic expression and the need to protect the sensibilities of the public from obscenity. ",
+        "id": 2884
+    },
+    {
+        "context": "If you observed the comet Schwassman - Wachmann 3 becoming 1 , 000 times brighter in September 1995, then it will be astronomers. However, their observations did not reveal comet Schwassman-Wachmann 3 actually breaking into pieces until November 1995, even though telescopes were trained on it throughout the entire period.",
+        "id": 3821
+    },
+    {
+        "context": "In a survey of consumers in an Eastern European nation, respondents were asked two questions about each of 400 famous Western brands: whether or not they recognized the brand name and whether or not they thought the products bearing that name were of high quality. The results of the survey were a rating and corresponding rank order for each brand based on recognition, and a second rating-plus-ranking based on approval. The brands ranked in the top 27 for recognition were those actually available in that nation. The approval ratings of these 27 brands often differed sharply from their recognition ratings. ",
+        "id": 4384
+    },
+    {
+        "context": "Since only the bonding agent degrades, leaving the small bits of plastic, no less plastic refuse per container is produced when such containers are discarded than when comparable nonbiodegradable containers are discarded.",
+        "id": 793
+    },
+    {
+        "context": "If it is The vast majority of a person ' s dreams, then it will be Researcher. Thus, it is unreasonable to believe that one has extrasensory perception solely on the basis of having had several vivid dreams about events that happen after the dreams.",
+        "id": 3073
+    },
+    {
+        "context": "If it is not The largest volcano on Mars, then it will covers an area roughly the size of Romania. Even if the Earth' s gravity were as low as the gravity of Mars is, no volcano of such size could exist on Earth, for the Earth' s crust, although of essentially the same composition as that of Mars, is too thin to support even a small fraction of that mass and would buckle under it, causing the mountain to sink.",
+        "id": 1852
+    },
+    {
+        "context": "If it is Analyst, then it will be not Any new natural - gas - powered electrical generation station. It also must be situated in a region where residents will not oppose construction. Our country has an extensive system of transmission lines, but our natural-gas pipelines run in the vicinity of only three of our large bodies of water, and residents would oppose any significant construction projects near these bodies of water.",
+        "id": 882
+    },
+    {
+        "context": "Close friends and family in attendance and a good caterer will ensure a successful wedding reception. ",
+        "id": 3266
+    },
+    {
+        "context": "Susan: Many rare plants have provided cures for various diseases. Since many plants have been lost to extinction, it is likely that there could have been cures for many more diseases. That is why it is important for us to manage our resources responsibly and prevent plant extinction. If it is Robert, then it will be not plants. We must treat plants as the co-equal inhabitants of this planet that they are.",
+        "id": 3329
+    },
+    {
+        "context": "It is probably within the reach of human technology to make the climate of Mars inhabitable. It might be several centuries before people could live there, even with breathing apparatuses, but some of the world' s great temples and cathedrals took centuries to build. Besides, the intellectual exercise of understanding how the Martian atmosphere might be changed could help in understanding atmospheric changes inadvertently triggered by human activity on Earth.",
+        "id": 4226
+    },
+    {
+        "context": "Diomedes Motors has just decided to start using Rapilux Tires on most models of its new cars. The tires cost the same as the previous tires, and the change in tires will not change the sticker price of any car, nor will it change the profit on the sale of any particular car. If it expects this change in tires to increase Diomedes ' profits in the coming year, then it will be the CEO of Diomedes Motors. ",
+        "id": 513
+    },
+    {
+        "context": "Principle: Meetings should be kept short, addressing only those issues relevant to a majority of those attending. A person should not be required to attend a meeting if none of the issues to be addressed at the meeting are relevant to that person. If it is not Application, then it will be Terry. ",
+        "id": 892
+    },
+    {
+        "context": "Gigantic passenger planes currently being developed will have enough space to hold shops and lounges in addition to passenger seating. However, the additional space will more likely be used for more passenger seating. If it is passengers, then it will be The number. ",
+        "id": 2099
+    },
+    {
+        "context": "It is a given that to be an intriguing person, one must be able to inspire the perpetual curiosity of others. If you broadening one ' s abilities, then you will not extending one ' s intellectual reach. For such a perpetual expansion of one' s mind makes it impossible to be fully comprehended, making one a constant mystery to others.",
+        "id": 2590
+    },
+    {
+        "context": "Edgar: Some of the pumps supplying water to our region have been ordered shut down in order to protect a species of small fish. But it is absurd to inconvenience thousands of people for the sake of something so inconsequential. Rafaela: You' re missing the point. If it is a sign of a very serious threat to our water supply, then it will be The threat to that fish species. ",
+        "id": 2928
+    },
+    {
+        "context": "When this area was a rural area it was economically depressed, but it is now a growing bastion of high-tech industry with high-wage jobs, and supports over 20 times the number of jobs it did then.",
+        "id": 1868
+    },
+    {
+        "context": "A natural history museum contains several displays of wild animals. If it is These displays, then you will be not created by drying and mounting animal skins. In some of the older displays, the animals' skins have started to deteriorate because of low humidity and the heat of the lights. The older displays are lit by tungsten lamps but the newer ones are lit by compact fluorescent lamps designed for use in museums. These lamps give off as much light as the tungsten lamps but less heat.",
+        "id": 2819
+    },
+    {
+        "context": "Many homeowners regularly add commercial fertilizers to their lawns and gardens to maintain a healthy balance of nutrients in soil. The widely available commercial fertilizers contain only macronutrients -- namely, nitrogen, phosphorus, and potassium. If you remain healthy in the long term, then it will be not soil for lawns. ",
+        "id": 3854
+    },
+    {
+        "context": "Anthropologist: Every human culture has taboos against eating certain animals. But that conclusion is unwarranted; taboos against eating certain animals might instead have arisen for symbolic, ritualistic reasons, and the presence of the taboos might then have led people to find other uses for those animals.",
+        "id": 2438
+    },
+    {
+        "context": "Asa general rule, the larger a social group of primates, the more time its members spend grooming one another. The main purpose of this social grooming is the maintenance of social cohesion. Furthermore, group size among primates tends to increase proportionally with the size of the neocortex, the seat of higher thought in the brain. If you do not Extrapolating upon the relationship between group size and neocortex size, then you will infer that early human groups were quite large. But unexpectedly, there is strong evidence that, apart from parents grooming their children, these humans spent virtually no time grooming one another.",
+        "id": 3353
+    },
+    {
+        "context": "Researchers took a group of teenagers who had never smoked and for one year tracked whether they took up smoking and how their mental health changed. If it is not Those who began smoking within a month of the study ' s start, then you will be not four times as likely to be depressed at the study ' s end as those who did begin smoking. Since nicotine in cigarettes changes brain chemistry, perhaps thereby affecting mood, it is likely that smoking contributes to depression in teenagers.",
+        "id": 3277
+    },
+    {
+        "context": "If you are invariably distorted by the Earth ' s atmosphere, then it will be Images from ground - based telescopes. Orbiting space telescopes, however, operating above Earth' s atmosphere, should provide superbly detailed images. Ttherefore, ground-based telescopes will soon become obsolete for advanced astronomical research purposes.",
+        "id": 1881
+    },
+    {
+        "context": "If it is not City leader, then it will be our city. It would be reasonable for the city to spend the amount of money necessary to convince an automobile manufacturer to build a plant here, but adopting the tourism plan would cost less.",
+        "id": 3343
+    },
+    {
+        "context": "Brochure: Help conserve our city' s water supply. By converting the landscaping in your yard to a water-conserving landscape, you can greatly reduce your outdoor water use. If it is A water - conserving landscape, then it will be not natural and attractive. Criticism: For most people with yards, the savings from converting to a water-conserving landscape cannot justify the expense of new landscaping, since typically the conversion would save less than twenty dollars on a homeowner' s yearly water bills.",
+        "id": 1601
+    },
+    {
+        "context": "If it is Two different dates, then you will not have been offered as the approximate end point of the last ice age in North America. The first date was established by testing insect fragments found in samples of sediments to determine when warmth-adapted open-ground beetles replaced cold-adapted arctic beetles. The second date was established by testing pollen grains in those same samples to determine when ice masses yielded to spruce forests. The first date is more than 500 years earlier than the second.",
+        "id": 2509
+    },
+    {
+        "context": "If it is not Archaeologist, then it will be A large corporation. The restoration will conform to the best current theories about how the site appeared at the height of the ancient civilization that occupied it. This offer should be rejected, however, because many parts of the site contain unexamined evidence.",
+        "id": 3930
+    },
+    {
+        "context": "In 1974 the speed limit on highways in the United States was reduced to 55 miles per hour in order to save fuel. In the first 12 months after the change, the rate of highway fatalities dropped 15 percent, the sharpest one-year drop in history. Over the next 10 years, the fatality rate declined by another 25 percent. ",
+        "id": 4567
+    },
+    {
+        "context": "Movie Director: Movies come out the best, in terms of both critical and box office success, when a single person has full creative control over the final product. Studios providing \"notes\" to the director, writer, producer, or whomever controls that vision, stifle the creative process. Studio Head: At the end of the day, the film industry is a business. If it is they are profitable, then it will be Movies. The most successful movies focus on subjects that the audience cares about, and the studios spend millions of dollars on test screenings to determine what audiences prefer. Whether the studio transmits its research by \"notes\" or informal discussion, the studio' s input must be considered.",
+        "id": 1036
+    },
+    {
+        "context": "Any popular television series that is groundbreaking is critically acclaimed. If you are critically acclaimed, then it will be not all popular television series. Thus, not all popular television series are groundbreaking.",
+        "id": 363
+    },
+    {
+        "context": "Humans began to spread across North America around 12, 000 years ago, as the climate became warmer. Thus, contrary to the myth that humans formerly lived in harmony with the rest of nature, it is clear that even 12, 000 years ago human activity was causing the extinction of animal species.",
+        "id": 888
+    },
+    {
+        "context": "Professor: Politicians should only be required to abide by the strict letter of the law -- not the spirit of the law -- since they need flexibility to govern. Trading political favors for a politician' s personal financial gain is illegal under an anti-corruption statute. A state governor awarded a contract to a local construction company outside of the usual bidding process. If it is Only the local construction company, then you will not made any personal financial gain. . .",
+        "id": 1921
+    },
+    {
+        "context": "Multiple sclerosis is an autoimmune disease: white blood cells attack the myelin sheath that protects nerve fibers in the spinal cord and brain. Medical science now has a drug that can be used to successfully treat multiple sclerosis, but the path that led medical researchers to this drug was hardly straightforward. Initially, some scientists believed attacks characteristic of multiple sclerosis might be triggered by chronic viral infections. To their horror, all the multiple sclerosis patients tested became dramatically worse. The false step proved to be instructive however.",
+        "id": 128
+    },
+    {
+        "context": "The interest from some interest-bearing accounts is tax-free, so there must be some savings accounts that have tax-free interest.",
+        "id": 2414
+    },
+    {
+        "context": "If it is a bird that lives around herds of cattle, then it will be The cattle egret. The only available explanation of the fact that the cattle egret follows cattle herds is that the egrets consume the insects stirred up from the grasses as the cattle herds graze.",
+        "id": 3649
+    },
+    {
+        "context": "Sometimes when their trainer gives the hand signal for \"Do something creative together, \" two dolphins circle a pool in tandem and then leap through the air simultaneously. On other occasions the same signal elicits synchronized backward swims or tail-waving. If you are not simply learned responses to a given stimulus, then it will be These behaviors. Rather, dolphins are capable of higher cognitive functions that may include the use of language and forethought.",
+        "id": 2667
+    },
+    {
+        "context": "Professor: One cannot frame an accurate conception of one' s physical environment on the basis of a single momentary perception, since each such glimpse occurs from only one particular perspective. If it is it reflects the biases and prejudices of its author, then it will be any history book. ",
+        "id": 3991
+    },
+    {
+        "context": "The expansion of large-scale farming in Africa and Asia has destroyed much of the natural vegetation on which elephants have historically depended, forcing them to turn to cultivated land to satisfy their enormous appetites. As a result, farmers have lost millions of dollars worth of crops annually. If it is elephant sanctuaries, then you will be not created on a widespread basis to guarantee elephants sufficient natural vegetation. ",
+        "id": 2070
+    },
+    {
+        "context": "Over 40, 000 lead seals from the early Byzantine Empire remain today. Apart from the rare cases where the seal authenticated a document of special importance, most seals had served their purpose when the document was opened. If it is Lead, then you will be expensive. Thus the number of early Byzantine documents sealed in such a fashion must have been many times the number of remaining lead seals.",
+        "id": 2117
+    },
+    {
+        "context": "An independent computer service company tallied the service requests it receives for individual brands of personal computers. Obviously, ProBit is the more reliable personal computer brand.",
+        "id": 1351
+    },
+    {
+        "context": "The widespread staff reductions in a certain region' s economy are said to be causing people who still have their jobs to cut back on new purchases as though they, too, had become economically distressed. If it is not undiminished , because there has been unusual increase in the amount of money held by those people in savings account, then it will be actual spending by such people. ",
+        "id": 210
+    },
+    {
+        "context": "If it is not bald eagles, then you will have the unique capacity to inspire people and foster in them a sympathetic attitude toward the needs of other threatened species. Clearly, without that sympathy and the political will it engenders, the needs of more obscure species will go unmet. The conservation needs of many obscure species can only be met by beginning with the conservation of this symbolic species, the bald eagle.",
+        "id": 4575
+    },
+    {
+        "context": "Commentator: If a political administration is both economically successful and successful at protecting individual liberties, then it is an overall success. If it is Even an administration that fails to care for the environment, then it will be not it protects individual liberties. So far, the present administration has not cared for the environment but has successfully protected individual liberties.",
+        "id": 4462
+    },
+    {
+        "context": "Seemingly inconsequential changes in sea temperature due to global warming eventually result in declines in fish and seabird populations. A rise of just two degrees prevents the vertical mixing of seawater from different strata. This restricts the availability of upwelling nutrients to phytoplankton. If you feed upon phytoplankton, then it will be zooplankton. ",
+        "id": 1418
+    },
+    {
+        "context": "The total number of book titles published annually in North America has approximately quadrupled since television first became available. Retail sales of new titles, as measured in copies, increased rapidly in the early days of television, though the rate of increase has slowed in recent years. ",
+        "id": 2449
+    },
+    {
+        "context": "Fifty chronic insomniacs participated in a one-month study conducted at an institute for sleep disorders. Half were given a dose of a new drug and the other half were given a placebo every night before going to bed at the institute. Approximately 80 percent of the participants in each group reported significant relief from insomnia during the first two weeks of the study. ",
+        "id": 3952
+    },
+    {
+        "context": "If it requires automobile insurers to pay for any medical treatment sought by someone who has been involved in an accident, then it will be Sparva. Clearly, Sparva' s less restrictive policy must be the explanation for the fact that altogether insurers there pay for far more treatments after accidents than insurers in other provinces, even though Sparva does not have the largest population.",
+        "id": 1471
+    },
+    {
+        "context": "If it is not A tax preparation company, then it will be the following disclaimer to every e - mail message sent to its clients. The only purpose this disclaimer could serve is to provide legal protection for the company. But if the e-mail elsewhere suggests that the client do something illegal, then the disclaimer offers no legal protection. So the disclaimer serves no purpose.",
+        "id": 810
+    },
+    {
+        "context": "Twenty professional income-tax advisors were given identical records from which to prepare an income-tax return. The advisors were not aware that they were dealing with fictitious records compiled by a financial magazine. ",
+        "id": 1486
+    },
+    {
+        "context": "Religious Scholar: Truly moral people are naturally inclined to benefit their fellow man. If it is People who act morally solely as a means to garner some divine benefit or avoid cosmic retribution, then you will be , in fact , moral. They are blind sheep. To be moral requires true selflessness, rather than following any specific religious text.",
+        "id": 2318
+    },
+    {
+        "context": "Catalytic converters function to remove noxious gases from automobile exhaust. The use of nuclear power is ttherefore contributing in at least one way to creating a cleaner environment. Marta: The technique you mention, though effective, is still at an experimental stage, so there has been no shift in the sources of the rhodium currently used in manufacturing catalytic converters.",
+        "id": 3347
+    },
+    {
+        "context": "Linda: The governor' s proposal to raise taxes to improve carpool lanes is unjust. Why should commuters who never use carpool lanes be forced to subsidize them? Mario: You are mistaken. If it has always designated more funding to noncarpool lanes, then it will be The state government. The additional revenue raised from the tax increase will just allow the governor to distribute funds to all lanes more equally.",
+        "id": 2047
+    },
+    {
+        "context": "Even though blind people obviously do not drive, these machines nonetheless invariably feature Braille -- the system of raised dots used by the blind for reading and writing -- in addition to the standard letters and numerals on their control panels.",
+        "id": 1970
+    },
+    {
+        "context": "If you cause her to become spoiled and harm her chances of making new friends, then you will Increasing Mary ' s allowance. Since Mary' s parents would not do anything to cause their daughter to be unable to make new friends, they will not increase Mary' s allowance.",
+        "id": 1003
+    },
+    {
+        "context": "Meyer was found by his employer to have committed scientific fraud by falsifying data. If you falsified data in his doctoral thesis, then it will be The University of Williamstown , from which Meyer held a PhD ,. But the university decided to revoke Meyer' s PhD anyway.",
+        "id": 2536
+    },
+    {
+        "context": "Scientists once believed that the oversized head, long hind legs, and tiny forelimbs that characterized Tyrannosaurus rex developed in order to accommodate the great size and weight of this prehistoric predator. However, this belief must now be abandoned. The nearly complete skeleton of an earlier dinosaur has recently been discovered. ",
+        "id": 4101
+    },
+    {
+        "context": "If it is well known that becoming angry often induces temporary incidents of high blood pressure, then it will be Psychologist. A recent study further showed, however, that people who are easily angered are significantly more likely to have permanently high blood pressure than are people who have more tranquil personalities. Coupled with the long-established fact that those with permanently high blood pressure are especially likely to have heart disease, the recent findings indicate that heart disease can result from psychological factors.",
+        "id": 2258
+    },
+    {
+        "context": "Some classes of animal are so successful that they spread into virtually every ecosystem, whereas others gradually recede until they inhabit only small niches in geographically isolated areas and thereby become threatened. Insects are definitely of the former sort and ants are the most successful of these, ranging from the Arctic Circle to Tierra del Fuego. If it is not species of ant, then it will be not a threatened species. ",
+        "id": 3739
+    },
+    {
+        "context": "Lobsters and other crustaceans eaten by humans are more likely to contract gill diseases when sewage contaminates their water. Under a recent proposal, millions of gallons of local sewage each day would be rerouted many kilometers offshore. If it is this, then it will be not the amount of sewage in the harbor where lobsters are caught. ",
+        "id": 1566
+    },
+    {
+        "context": "In preagricultural societies, social roles were few and were easily predicted for each phase of a person' s life. Accordingly, interpersonal relations, although not always pleasant or fair, were stable and predictable. If it is Modern society, then it will not has thousands of different social roles. Technology and consumerism require that each of us fill highly particularized niches, and these niches are differentiating at an astonishing pace. Ttherefore, __ .",
+        "id": 2632
+    },
+    {
+        "context": "Historian: In the Drindian Empire, censuses were conducted annually to determine the population of each village. <b> Village census records for the last half of the 1600' s are remarkably complete </b>. If it is not This very completeness, then it will makes one point stand out. Tellingly, each of those five years immediately followed an increase in a certain Drindian tax. This tax, which was assessed on villages, was computed by the central government using the annual census figures. Obviously, whenever the tax went up, villages had an especially powerful economic incentive to minimize the number of people they recorded; and concealing the size of a village' s population from government census takers would have been easy. Ttherefore, it is reasonable to think that the <b> reported declines did not happen </b>.",
+        "id": 3711
+    },
+    {
+        "context": "Critic: Works of modern literature cannot be tragedies as those of ancient playwrights and storytellers were unless their protagonists are seen as possessing nobility, which endures through the calamities that befall one. ",
+        "id": 2896
+    },
+    {
+        "context": "On completing both the course in experimental design and the developmental psychology course, Angela will have earned a degree in psychology. ",
+        "id": 1879
+    },
+    {
+        "context": "Nylon industry spokesperson: Even though cotton and nylon are used for similar purposes, some people have the mistaken notion that cotton is natural but nylon is not. However, nylon' s main components come from petroleum and from the nitrogen in the atmosphere. Clearly the atmosphere is natural. ",
+        "id": 4069
+    },
+    {
+        "context": "Advertisement: RediMed is the cold treatment to choose. If it is People who treat their colds with RediMed, then you will not have symptoms half as severe as those suffered by people who leave their colds untreated. ",
+        "id": 3263
+    },
+    {
+        "context": "Consumer activist: When antilock brakes were first introduced, it was claimed that they would significantly reduce the incidence of multiple-car collisions, thereby saving lives. If you have reduced the incidence of multiple - car collisions, then it will be antilock brakes. I maintain, however, that to save lives, automobile manufacturers ought to stop equipping cars with them.",
+        "id": 3734
+    },
+    {
+        "context": "Wong: Although all countries are better off as democracies, a transitional autocratic stage is sometimes required before a country can become democratic. If it is Tate, then it will be not The freedom and autonomy that democracy provides. Some countries can better meet these needs as autocracies than as democracies.",
+        "id": 3185
+    },
+    {
+        "context": "If it is Leaf beetles, then it will be not willow trees. Researchers have found that severe air pollution results in reduced predator populations. The parasites, by contrast, are not adversely affected by pollution; nevertheless, the researchers' discovery probably does explain why leaf beetles cause particularly severe damage to willows in areas with severe air pollution, since __",
+        "id": 2491
+    },
+    {
+        "context": "Legal theorist: Governments should not be allowed to use the personal diaries of an individual who is the subject of a criminal prosecution as evidence against that individual. ",
+        "id": 1682
+    },
+    {
+        "context": "The growing popularity of computer-based activities was widely expected to result in a decline in television viewing, since it had been assumed that people lack sufficient free time to maintain current television-viewing levels while spending increasing amounts of free time on the computer. If it is not That assumption, then it will be evidently false. ",
+        "id": 4188
+    },
+    {
+        "context": "The blue-tipped puffer is a migratory bird that is found along the coast of this state in summer months. If it is not The puffers, then you will enjoy the seeds of Thomson ' s Mulberry trees. Ten years ago, the grey fox, a primary predator of the puffer, was re-introduced into the park, and its numbers have been thriving. Over that time, we have seen many fewer puffers in the park during the summer months. Clearly, the puffers are choosing to spend their summers elsewhere.",
+        "id": 3165
+    },
+    {
+        "context": "Toddlers are not being malicious when they bite people. ",
+        "id": 3259
+    },
+    {
+        "context": "If, when the twenty-third century arrives, the history of the Mughal Empire is better known than that of our time, it will be because of our enthusiasm for electronically stored digital files. If it is The contents of most digital media, then it will be not words written on high - quality paper. While information written on paper can be read directly, access to digital information is doubly indirect: the sequence of digits representing the information must be retrieved, and then that sequence must be decoded by the appropriate software.",
+        "id": 1818
+    },
+    {
+        "context": "If it is Great works of art, then it will be Art historian. So, since it is clear that art is often shocking, we should not hesitate to use public funds to support works of art that many people find shocking.",
+        "id": 3066
+    },
+    {
+        "context": "A clothing manufacturer reports that unsalable garments, those found to be defective by inspectors plus those returned by retailers, total 7 percent of the garments produced. If you are recycled as scrap, then it will be all of its unsalable garments. ",
+        "id": 1234
+    },
+    {
+        "context": "Journalist: There is no downside to journalists using anonymous sources. National newspapers require journalists to use multiple sources to corroborate anonymous tips, and corroboration removes any possibility of abuse. If it is Any failure to corroborate sources, then you will not risk national security through the publication of misleading information. ",
+        "id": 1620
+    },
+    {
+        "context": "Anju: The Adkjos corporation does not fund social programs. Ttherefore, although Adkjos does make fine products, it is not socially responsible. Sanjeev: That doesn' t mean that Adkjos is not socially responsible. If a business offers good pay and benefits to its employees, and fine service and value to customers, it is socially responsible. If it does those things, then it will be Adkjos. ",
+        "id": 4254
+    },
+    {
+        "context": "If it is required for a proficient person to become an expert, then it will be experience. Through experience, a proficient person gradually develops a repertory of model situations that allows an immediate, intuitive response to each new situation. This is the hallmark of expertise, and for this reason computerized \"expert systems\" cannot be as good as human experts. Although computers have the ability to store millions of bits of information, the knowledge of human experts, who benefit from the experience of thousands of situations, is not stored within their brains in the form of rules and facts.",
+        "id": 1308
+    },
+    {
+        "context": "Substantial economic growth must be preceded by technological innovations that expanding industries incorporate into their production or distribution procedures. ",
+        "id": 2035
+    },
+    {
+        "context": "If it is not an organ well suited for living - donor transplants to children because the portion of the liver which must be removed from a healthy adult to replace the diseased liver of a child will be regenerated in the healthy adult within a months, then it will be the liver. ",
+        "id": 659
+    },
+    {
+        "context": "Researchers have discovered that caffeine can be as physically addictive as other psychoactive substances. If it is not they do have their customary dose of caffeine, then it will be Some people. This is significant because as many people consume caffeine as consume any one of the other addictive psychoactive substances.",
+        "id": 3432
+    },
+    {
+        "context": "Medical school professor: Most malpractice suits arise out of patients' perceptions that their doctors are acting negligently or carelessly. Many doctors now regard medicine as a science rather than an art, and are less compassionate as a result. Harried doctors sometimes treat patients rudely, discourage them from asking questions, or patronize them. Lawsuits could be avoided if doctors learned to listen better to patients. If you encourage doctors to treat patients rudely, then it will be certain economic incentives. ",
+        "id": 1499
+    },
+    {
+        "context": "If an artist receives a public subsidy to support work on a specific project -- e. g. , making a film -- and if this project then proves successful enough to allow the artist to repay the subsidy, is the artist morally obliged to do so? If it is not The answer, then it will be the money returned to the agency distributing the subsidies will be welcome as a source of support for other artists deserving of public subsidies. ",
+        "id": 3712
+    },
+    {
+        "context": "When people experience throbbing in their teeth or gums, they have serious dental problems, and if a dental problem is serious, it will be a problem either of tooth decay or of gum disease. If you do not throbbing in the teeth or gums, then it will be a sign of serious dental problems. ",
+        "id": 2334
+    },
+    {
+        "context": "Industry Analyst: This summer is expected to be particularly hot and dry in the major orange-growing regions of Florida, the state accounting for the largest share of orange production in the United States. If it leads to a substantial drop in the yield of oranges, then it will be hot and dry weather. ",
+        "id": 572
+    },
+    {
+        "context": "If it is not the French academy of art, then you will be a major financial sponsor of painting and sculpture in France. Because the academy discouraged innovation in the arts, there was little innovation in nineteenth century French sculpture. Yet nineteenth century French painting showed a remarkable degree of innovation.",
+        "id": 2810
+    },
+    {
+        "context": "Several ancient Greek texts provide accounts of people being poisoned by honey that texts suggest was made from the nectar of rhododendron or oleander plants. If it is Honey made from such nectar, then it will be the honey loses its toxicity within a weeks of being made. In Greece, rhododendrons and oleander bloom only in springtime, when they are the predominant sources of nectar.",
+        "id": 116
+    },
+    {
+        "context": "Many people limit the intake of calories and cholesterol in their diet in order to lose weight and reduce the level of cholesterol in their blood. When a person loses weight, the fat cells in that person' s body decrease in size but not in number. As they decrease in size, fat cells spill the cholesterol they contain into the bloodstream. ",
+        "id": 272
+    },
+    {
+        "context": "The end of an action is the intended outcome of the action and not a mere by-product of the action, and the end' s value is thus the only reason for the action. If it is clear that nothing will justify a means except an end ' s value, then it will be not true that every end ' s value will justify any means , and even , perhaps , that there is no end whose value will justify every means. ",
+        "id": 2466
+    },
+    {
+        "context": "When released into the atmosphere, the refrigerant Freon damages the Earth' s ozone layer. The manufacturer claims that replacing Freon with the new refrigerant in both new and existing refrigerators will prevent any further Freon damage to the ozone layer apart from that being done by the Freon already in the atmosphere.",
+        "id": 2390
+    },
+    {
+        "context": "Asthma, a chronic breathing disorder, is significantly more common today among adult competitive swimmers than it is among competitive athletes who specialize in other sports. If it is chlorine, then it will be not now known to be a lung irritant and swimming pool water is generally chlorinated. ",
+        "id": 4276
+    },
+    {
+        "context": "No one who works at Leila' s Electronics has received both a poor performance evaluation and a raise. If it does not has received a raise, then it will be Lester. ",
+        "id": 1193
+    },
+    {
+        "context": "Many people believe that in every group of attorneys, there are only a small number of contemptible ones. If you being antagonistic, then it will be not a contemptible quality. Attorneys must be antagonistic in order to serve their clients well. People who are overly friendly and always seek to be gracious and affable will never be successful attorneys.",
+        "id": 1219
+    }
+]

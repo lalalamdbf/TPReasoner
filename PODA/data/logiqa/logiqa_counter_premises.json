@@ -1,0 +1,152 @@
+[
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: If the above statement is true, which of the followings must be true?\nAnswer: Mr. Niu didn't choose, but Mr. Zhou did",
+            "1. Mr. Liu is the reserve discipline leader and must be sent.\n2. If Mr. Liu is chosen, Mr. Zhou must be chosen, but Mr. Zhang cannot be chosen."
+        ],
+        "input": "Premises: [blank]\nQuestion: If the above statement is true, which of the followings must be true?\nAnswer: Mr. Liu was chose, but Mr. Ma didn't",
+        "premises": "1. If Mr. Liu is chosen, Mr. Ma cannot be chosen.\n2. Mr. Ma is chosen only if Mr. Liu is not chosen.",
+        "label": 1,
+        "id": 0
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: If the above statement is true, which of the followings must be true?\nAnswer: Mr. Niu didn't choose, but Mr. Zhou did",
+            "1. Mr. Liu is the reserve discipline leader and must be sent.\n2. If Mr. Liu is chosen, Mr. Zhou must be chosen, but Mr. Zhang cannot be chosen."
+        ],
+        "input": "Premises: [blank]\nQuestion: If the above statement is true, which of the followings must be true?\nAnswer: Mr. Wang and Mr. Ma were chosen",
+        "premises": "1. If Mr. Wang is chosen, then Mr. Li cannot be chosen.\n2. If Mr. Ma is chosen, then Mr. Zhang must also be chosen.",
+        "label": 2,
+        "id": 0
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: If the above statement is true, which of the followings must be true?\nAnswer: Mr. Niu didn't choose, but Mr. Zhou did",
+            "1. Mr. Liu is the reserve discipline leader and must be sent.\n2. If Mr. Liu is chosen, Mr. Zhou must be chosen, but Mr. Zhang cannot be chosen."
+        ],
+        "input": "Premises: [blank]\nQuestion: If the above statement is true, which of the followings must be true?\nAnswer: Neither Mr. Wang nor Mr. Niu was elected",
+        "premises": "1. If Mr. Wang is elected, then Mr. Niu must also be elected.\n2. Mr. Zhou and Mr. Li were the only candidates elected.",
+        "label": 3,
+        "id": 0
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: Which of the following options does not belong to the straw effect?\nAnswer: The common sense of petroleum prospecting is that the standard distance between the two mining areas is 100 meters. At present, China has explored eight oil fields in the East China Sea, including the new Bajiaoting oil and gas field",
+            "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact."
+        ],
+        "input": "Premises: [blank]\nQuestion: Which of the following options does not belong to the straw effect?\nAnswer: The function of the city has shifted to the south, and property prices in Zhongcun, Nanhai Pingzhou, Sanshan and Shunde near the new railway station have all been pushed up",
+        "premises": "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact.",
+        "label": 1,
+        "id": 1
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: Which of the following options does not belong to the straw effect?\nAnswer: The common sense of petroleum prospecting is that the standard distance between the two mining areas is 100 meters. At present, China has explored eight oil fields in the East China Sea, including the new Bajiaoting oil and gas field",
+            "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact."
+        ],
+        "input": "Premises: [blank]\nQuestion: Which of the following options does not belong to the straw effect?\nAnswer: Xijiao Town integrates the resources of the industrial park in the town, and with the strong foundation of its textile industry, it has established the textile characteristics as the main direction of attack, and guided the textile enterprises to transform from extensive to centralized and carry out cluster development",
+        "premises": "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact.\n2. The straw effect often results in the concentration of economic activities and talent in a specific region, leading to disparities in development.",
+        "label": 2,
+        "id": 1
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: Which of the following options does not belong to the straw effect?\nAnswer: The common sense of petroleum prospecting is that the standard distance between the two mining areas is 100 meters. At present, China has explored eight oil fields in the East China Sea, including the new Bajiaoting oil and gas field",
+            "1. The straw effect refers to the gathering of resources in a certain area causing a noticeable regional impact."
+        ],
+        "input": "Premises: [blank]\nQuestion: Which of the following options does not belong to the straw effect?\nAnswer: This year, let the prosperity of the modern service industry be matched with convenient transportation, and the combination of the two will become a prosperous area where capital flows yearn for one after another",
+        "premises": "1. The straw effect refers to the concentration of resources in a specific area, leading to a significant regional influence.",
+        "label": 3,
+        "id": 1
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: Which one of the followings is the topic of the above?\nAnswer: Reading habits",
+            "1. Reading is a personal life habit influenced by cultural literacy.\n2. The habit of reading should be cultivated from an early age.\n3. Reading habits and hobbies cannot be solved by a youth reading festival.\n4. Reading is still based on usual habits."
+        ],
+        "input": "Premises: [blank]\nQuestion: Which one of the followings is the topic of the above?\nAnswer: Advocate reading",
+        "premises": "1. Libraries play a crucial role in advocating reading among communities.\n2. Schools should advocate reading to enhance students' literacy skills.\n3. Organizations often advocate reading to improve public knowledge.\n4. Programs that advocate reading can help bridge educational gaps.",
+        "label": 1,
+        "id": 2
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: Which one of the followings is the topic of the above?\nAnswer: Reading habits",
+            "1. Reading is a personal life habit influenced by cultural literacy.\n2. The habit of reading should be cultivated from an early age.\n3. Reading habits and hobbies cannot be solved by a youth reading festival.\n4. Reading is still based on usual habits."
+        ],
+        "input": "Premises: [blank]\nQuestion: Which one of the followings is the topic of the above?\nAnswer: Love reading since childhood",
+        "premises": "1. Developing a love for reading from a young age is crucial for lifelong learning.\n2. Children who enjoy reading often perform better academically.\n3. Parents should encourage reading by providing access to a variety of books.\n4. A strong foundation in reading during childhood promotes imagination and creativity.",
+        "label": 2,
+        "id": 2
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: Which one of the followings is the topic of the above?\nAnswer: Reading habits",
+            "1. Reading is a personal life habit influenced by cultural literacy.\n2. The habit of reading should be cultivated from an early age.\n3. Reading habits and hobbies cannot be solved by a youth reading festival.\n4. Reading is still based on usual habits."
+        ],
+        "input": "Premises: [blank]\nQuestion: Which one of the followings is the topic of the above?\nAnswer: Pursue knowledge",
+        "premises": "1. Lifelong learning is essential for personal growth and development.\n2. The pursuit of knowledge drives innovation and progress.\n3. Curiosity and a desire to learn are fundamental to human nature.\n4. Knowledge acquisition can occur through various means, including education and experience.",
+        "label": 3,
+        "id": 2
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?\nAnswer: What is the proportion of patients with this type of ulcer, treated under traditional therapies in 6 months, who have achieved significant improvement?",
+            "1. Traditional therapy completely heals 44% of patients' ulcers within 6 months."
+        ],
+        "input": "Premises: [blank]\nQuestion: In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?\nAnswer: What is the difference between the methods used in the two therapies?",
+        "premises": "1. Therapy A uses a combination of medication and physical therapy, while Therapy B focuses solely on medication.",
+        "label": 0,
+        "id": 3
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?\nAnswer: What is the proportion of patients with this type of ulcer, treated under traditional therapies in 6 months, who have achieved significant improvement?",
+            "1. Traditional therapy completely heals 44% of patients' ulcers within 6 months."
+        ],
+        "input": "Premises: [blank]\nQuestion: In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?\nAnswer: Is there a big difference in the cost of the two therapies?",
+        "premises": "1. The cost of traditional therapy is $500 per month.",
+        "label": 1,
+        "id": 3
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?\nAnswer: What is the proportion of patients with this type of ulcer, treated under traditional therapies in 6 months, who have achieved significant improvement?",
+            "1. Traditional therapy completely heals 44% of patients' ulcers within 6 months."
+        ],
+        "input": "Premises: [blank]\nQuestion: In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?\nAnswer: Among the patients who participated in the 6-month trial of the new therapy, what percentage of the people were dissatisfied with the recovery rate?",
+        "premises": "1. 60% of patients reported dissatisfaction with the recovery rate in the 6-month trial of the new therapy.",
+        "label": 3,
+        "id": 3
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: Which of the followings belongs to robbery\nAnswer: Zheng riding a motorcycle saw Tian walking with an exquisite leather bag, pulling the leather bag belt from behind and trying to grab the leather bag. Tian grabbed the leather bag belt. Seeing this scene, Zheng suddenly accelerated the motorcycle and pulled the leather bag belt hard to grab the leather bag. Tian was immediately seriously injured",
+            "1. Robbery is forcibly seizing public and private property by violence, coercion, or other means on the spot for the purpose of illegal possession."
+        ],
+        "input": "Premises: [blank]\nQuestion: Which of the followings belongs to robbery\nAnswer: Li embedded himself in Wang's house to steal. When he was found, he ran away with the stolen goods. Wang pursued him closely. Li saw an unsteaded motorcycle next to the grocery store. The owner was smoking next to the motorcycle, so he rode on the motorcycle",
+        "premises": "1. Robbery involves taking property directly from a person or their immediate presence through the use of force or intimidation.",
+        "label": 0,
+        "id": 4
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: Which of the followings belongs to robbery\nAnswer: Zheng riding a motorcycle saw Tian walking with an exquisite leather bag, pulling the leather bag belt from behind and trying to grab the leather bag. Tian grabbed the leather bag belt. Seeing this scene, Zheng suddenly accelerated the motorcycle and pulled the leather bag belt hard to grab the leather bag. Tian was immediately seriously injured",
+            "1. Robbery is forcibly seizing public and private property by violence, coercion, or other means on the spot for the purpose of illegal possession."
+        ],
+        "input": "Premises: [blank]\nQuestion: Which of the followings belongs to robbery\nAnswer: One night, when I saw Zhao walking alone in the street, I acted maliciously, raped him, and took away his bags and other things that showed his identity",
+        "premises": "1. Robbery involves the act of taking or attempting to take something of value from another person by using force, threats, or intimidation.",
+        "label": 2,
+        "id": 4
+    },
+    {
+        "incontext": [
+            "Premises: [blank]\nQuestion: Which of the followings belongs to robbery\nAnswer: Zheng riding a motorcycle saw Tian walking with an exquisite leather bag, pulling the leather bag belt from behind and trying to grab the leather bag. Tian grabbed the leather bag belt. Seeing this scene, Zheng suddenly accelerated the motorcycle and pulled the leather bag belt hard to grab the leather bag. Tian was immediately seriously injured",
+            "1. Robbery is forcibly seizing public and private property by violence, coercion, or other means on the spot for the purpose of illegal possession."
+        ],
+        "input": "Premises: [blank]\nQuestion: Which of the followings belongs to robbery\nAnswer: Lin sneaked into Hu's house to steal valuables. After being found by the owner, he fled and hid in the farmer's haystack for a night. The next day, the village head Gao passed by and found Lin's whereabouts strange. Lin thought GAO found his theft last night and attacked Gao, causing him serious injury",
+        "premises": "1. Robbery involves using violence, threats, or coercion to take property directly from a person.",
+        "label": 3,
+        "id": 4
+    }
+]

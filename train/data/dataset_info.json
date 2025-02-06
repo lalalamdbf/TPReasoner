@@ -1,0 +1,32 @@
+{
+  "reclor_train_origin": {
+    "file_name": "reclor_train_origin.json"
+  },
+  "reclor_train_all": {
+    "file_name": "reclor_train_all.json"
+  },
+  "reclor_comparison": {
+    "file_name": "reclor_comparison.json"
+  },
+  "reclor_test": {
+    "file_name": "reclor_test.json"
+  },
+  "reclor_val": {
+    "file_name": "reclor_val.json"
+  },
+  "logiqa_train_origin": {
+    "file_name": "logiqa_train_origin.json"
+  },
+  "logiqa_train_all": {
+    "file_name": "logiqa_train_all.json"
+  },
+  "logiqa_comparison": {
+    "file_name": "logiqa_comparison.json"
+  },
+  "logiqa_val": {
+    "file_name": "logiqa_val.json"
+  },
+  "logiqa_test": {
+    "file_name": "logiqa_test.json"
+  }
+}

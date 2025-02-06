@@ -1,0 +1,62 @@
+[
+    {
+        "text": "In rheumatoid arthritis, the body' s immune system misfunctions by attacking healthy cells in the joints causing the release of a hormone that in turn causes pain and swelling. This hormone is normally activated only in reaction to injury or infection. A new arthritis medication will contain a protein that inhibits the functioning of the hormone that causes pain and swelling in the joints.",
+        "question": "The statements above, if true, most strongly support which one of the following conclusions?",
+        "options": [
+            "Unlike aspirin and other medications that reduce pain and swelling and that are currently available, the new medication would repair existing cell damage that had been caused by rheumatoid arthritis.",
+            "A patient treated with the new medication for rheumatoid arthritis could sustain a joint injury without becoming aware of it.",
+            "Joint diseases other than rheumatoid arthritis would not be affected by the new medication.",
+            "The benefits to rheumatoid arthritis sufferers of the new medication would outweigh the medication's possible harmful side effects."
+        ],
+        "answer": 1,
+        "id": 0
+    },
+    {
+        "text": "Patient: Pharmacists maintain that doctors should not be permitted to sell the medicine that they prescribe because doctors would then be tempted to prescribe unnecessary medicines in order to earn extra income. But pharmacists have a financial interest in having a monopoly on the sale of prescription medicines, so their objection to the sale of medicines by doctors cannot be taken seriously.",
+        "question": "The patient's argument proceeds by",
+        "options": [
+            "attempting to discredit a position by questioning the motives of the proponents of that position",
+            "rejecting a questionable position on the grounds that the general public does not support that position",
+            "pointing out an unstated assumption on which the pharmacists' argument relies and then refuting it",
+            "asserting that pharmacists lack the appropriate knowledge to have informed opinions on the subject under discussion"
+        ],
+        "answer": 0,
+        "id": 1
+    },
+    {
+        "text": "Paula will visit the dentist tomorrow morning only if Bill goes golfing in the morning. Bill will not go golfing unless Damien agrees to go golfing too. However, Damien has decided not to go golfing. Therefore, Paula will not be visiting the dentist tomorrow morning.",
+        "question": "The pattern of reasoning displayed above most closely parallels which of the following?",
+        "options": [
+            "If Marge goes to the bank today, Lauren will not cash her check tomorrow. Marge will not wash her car unless it is sunny. However, it is sunny, so Marge will wash her car and go shopping with Lauren.",
+            "Kevin will wash his car tomorrow only if Brittany has to go visit her grandmother. Unless Aunt Susan has to run errands, Brittany will not have to go visit her grandmother. Since Aunt Susan does not have to run errands, Kevin will not wash his car tomorrow.",
+            "Renee will do her homework tonight if there is nothing good on television and if her neighbors do not have a party. Although, there is something good on television; her neighbors are also having a party. Therefore, Renee will attend the party.",
+            "Maddie will plan a picnic only if one of her friends, Lisa or Kenny, will come. Kenny will not come to the picnic, but Lisa will. Therefore, Maddie will plan a picnic."
+        ],
+        "answer": 1,
+        "id": 2
+    },
+    {
+        "text": "Some theorists argue that literary critics should strive to be value-neutral in their literary criticism. These theorists maintain that by exposing the meaning of literary works without evaluating them, critics will enable readers to make their own judgments about the works' merits. But literary criticism cannot be completely value-neutral. Thus, some theorists are mistaken about what is an appropriate goal for literary criticism.",
+        "question": "The argument's conclusion follows logically if which one of the following is assumed?",
+        "options": [
+            "Any critic who is able to help readers make their own judgments about literary works' merits should strive to produce value-neutral criticism.",
+            "If it is impossible to produce completely value- neutral literary criticism, then critics should not even try to be value-neutral.",
+            "The less readers understand the meaning of a literary work, the less capable they will be of evaluating that work's merits.",
+            "Critics are more likely to provide criticisms of the works they like than to provide criticisms of the works they dislike."
+        ],
+        "answer": 1,
+        "id": 3
+    },
+    {
+        "text": "Shipping Clerk: The five specially ordered shipments sent out last week were sent out on Thursday. Last week, all of the shipments that were sent out on Friday consisted entirely of building supplies, and the shipping department then closed for the weekend. Four shipments were sent to Truax Construction last week, only three of which consisted of building supplies.",
+        "question": "If the shipping clerk's statements are true, which of the following must also be true?",
+        "options": [
+            "At least one of the shipments sent to Truax Construction last week was sent out before Friday.",
+            "At least one of last week's specially ordered shipments did not consist of building supplies.",
+            "At least one of the shipments sent to Truax Construction last week was specially ordered.",
+            "At least one of the shipments sent to Truax Construction was not sent out on Thursday of last week."
+        ],
+        "answer": 0,
+        "id": 4
+    }
+]

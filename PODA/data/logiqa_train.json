@@ -1,0 +1,62 @@
+[
+    {
+        "text": "A college will continue to implement the overseas funding plan this year. It plans to select several of the six teachers from Mr. Liu, Mr. Zhang, Mr. Wang, Mr. Ma, Mr. Niu and Mr. Zhou to visit abroad. Due to the limitations of funding, the needs of discipline development, curriculum arrangement, place and time of each student's visit, the selection shall meet the following conditions: (1) Mr. Liu is the reserve discipline leader of the college, This time we have to send out. (2) if we choose Mr. Liu, we should also choose Mr. Zhou, but we can't choose Mr. Zhang. (3) only if Mr. Niu can't choose, at least one of Mr. Wang and Mr. Ma can choose. (4) if we don't choose Mr. Wang, we don't choose Mr. Zhou either.",
+        "answer": 0,
+        "question": "If the above statement is true, which of the followings must be true?",
+        "options": [
+            "Mr. Niu didn't choose, but Mr. Zhou did",
+            "Mr. Liu was chose, but Mr. Ma didn't",
+            "Mr. Wang and Mr. Ma were chosen",
+            "Neither Mr. Wang nor Mr. Niu was elected"
+        ],
+        "id": 0
+    },
+    {
+        "text": "The straw effect means that the juice around the tube can be inhaled by inhaling the fruit juice in the cup with a straw. Implanting some kind of straw in a certain area can gather resources and cause obvious regional effect.",
+        "answer": 0,
+        "question": "Which of the following options does not belong to the straw effect?",
+        "options": [
+            "The common sense of petroleum prospecting is that the standard distance between the two mining areas is 100 meters. At present, China has explored eight oil fields in the East China Sea, including the new Bajiaoting oil and gas field",
+            "The function of the city has shifted to the south, and property prices in Zhongcun, Nanhai Pingzhou, Sanshan and Shunde near the new railway station have all been pushed up",
+            "Xijiao Town integrates the resources of the industrial park in the town, and with the strong foundation of its textile industry, it has established the textile characteristics as the main direction of attack, and guided the textile enterprises to transform from extensive to centralized and carry out cluster development",
+            "This year, let the prosperity of the modern service industry be matched with convenient transportation, and the combination of the two will become a prosperous area where capital flows yearn for one after another"
+        ],
+        "id": 1
+    },
+    {
+        "text": "Reading is a personal life habit, which is determined by cultural literacy. Without the pursuit of knowledge or the hobby of culture, it is difficult to imagine that people can calm down and read. The habit of reading should be cultivated from an early age. Starting from the beginning, only the love and pursuit of cultural knowledge can make us accustomed to reading. The reading habits and hobbies of Chinese people cannot be solved by a youth reading festival. Therefore, reading is still based on usual habits.",
+        "answer": 0,
+        "question": "Which one of the followings is the topic of the above?",
+        "options": [
+            "Reading habits",
+            "Advocate reading",
+            "Love reading since childhood",
+            "Pursue knowledge"
+        ],
+        "id": 2
+    },
+    {
+        "text": "For a certain type of ulcer, traditional therapy can completely heal 44% of patients' ulcers within 6 months. A new therapy for this type of ulcer has achieved obvious improves in 80% of the ulcers treated in a 6-month trial. 61% of ulcers were healed. Since the trial only treated those ulcers very severe, this new treatment is obviously more effective than traditional treatments.",
+        "answer": 2,
+        "question": "In order to better compare the effects of the two therapies, is there any additional evidence that needs to be added?",
+        "options": [
+            "What is the difference between the methods used in the two therapies?",
+            "Is there a big difference in the cost of the two therapies?",
+            "What is the proportion of patients with this type of ulcer, treated under traditional therapies in 6 months, who have achieved significant improvement?",
+            "Among the patients who participated in the 6-month trial of the new therapy, what percentage of the people were dissatisfied with the recovery rate?"
+        ],
+        "id": 3
+    },
+    {
+        "text": "Robbery is an act of forcibly seizing public and private property by violence, coercion or other means on the spot for the purpose of illegal possession.",
+        "answer": 1,
+        "question": "Which of the followings belongs to robbery",
+        "options": [
+            "Li embedded himself in Wang's house to steal. When he was found, he ran away with the stolen goods. Wang pursued him closely. Li saw an unsteaded motorcycle next to the grocery store. The owner was smoking next to the motorcycle, so he rode on the motorcycle",
+            "Zheng riding a motorcycle saw Tian walking with an exquisite leather bag, pulling the leather bag belt from behind and trying to grab the leather bag. Tian grabbed the leather bag belt. Seeing this scene, Zheng suddenly accelerated the motorcycle and pulled the leather bag belt hard to grab the leather bag. Tian was immediately seriously injured",
+            "One night, when I saw Zhao walking alone in the street, I acted maliciously, raped him, and took away his bags and other things that showed his identity",
+            "Lin sneaked into Hu's house to steal valuables. After being found by the owner, he fled and hid in the farmer's haystack for a night. The next day, the village head Gao passed by and found Lin's whereabouts strange. Lin thought GAO found his theft last night and attacked Gao, causing him serious injury"
+        ],
+        "id": 4
+    }
+]

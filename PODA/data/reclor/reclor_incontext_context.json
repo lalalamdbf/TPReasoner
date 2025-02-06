@@ -1,0 +1,51 @@
+[
+    {
+        "premises": [
+            "In rheumatoid arthritis, the immune system attacks healthy cells in the joints.",
+            "This attack causes the release of a hormone that leads to pain and swelling.",
+            "Normally, this hormone is activated in response to injury or infection.",
+            "A new arthritis medication will contain a protein that inhibits the hormone causing pain and swelling in the joints."
+        ],
+        "context": "In rheumatoid arthritis, the body' s immune system misfunctions by attacking healthy cells in the joints causing the release of a hormone that in turn causes pain and swelling. This hormone is normally activated only in reaction to injury or infection. A new arthritis medication will contain a protein that inhibits the functioning of the hormone that causes pain and swelling in the joints.",
+        "id": 0
+    },
+    {
+        "premises": [
+            "Pharmacists argue that doctors should not sell the medicine they prescribe due to a potential conflict of interest, which may lead to overprescription.",
+            "The patient counters that pharmacists have a financial interest in maintaining a monopoly on the sale of prescription medicines.",
+            "The patient concludes that pharmacists' objections cannot be taken seriously because of their vested financial interest."
+        ],
+        "context": "Patient: Pharmacists maintain that doctors should not be permitted to sell the medicine that they prescribe because doctors would then be tempted to prescribe unnecessary medicines in order to earn extra income. But pharmacists have a financial interest in having a monopoly on the sale of prescription medicines, so their objection to the sale of medicines by doctors cannot be taken seriously.",
+        "id": 1
+    },
+    {
+        "premises": [
+            "Paula will visit the dentist tomorrow morning only if Bill goes golfing in the morning.",
+            "Bill will not go golfing unless Damien agrees to go golfing too.",
+            "Damien has decided not to go golfing.",
+            "Therefore, Paula will not be visiting the dentist tomorrow morning."
+        ],
+        "context": "Paula will visit the dentist tomorrow morning only if Bill goes golfing in the morning. Bill will not go golfing unless Damien agrees to go golfing too. However, Damien has decided not to go golfing. Therefore, Paula will not be visiting the dentist tomorrow morning.",
+        "id": 2
+    },
+    {
+        "premises": [
+            "Some theorists argue that literary critics should strive to be value-neutral in their literary criticism.",
+            "These theorists believe that value-neutral criticism will help readers make their own judgments about the works' merits.",
+            "The argument states that literary criticism cannot be completely value-neutral.",
+            "Therefore, the argument concludes that some theorists are mistaken about what is an appropriate goal for literary criticism."
+        ],
+        "context": "Some theorists argue that literary critics should strive to be value-neutral in their literary criticism. These theorists maintain that by exposing the meaning of literary works without evaluating them, critics will enable readers to make their own judgments about the works' merits. But literary criticism cannot be completely value-neutral. Thus, some theorists are mistaken about what is an appropriate goal for literary criticism.",
+        "id": 3
+    },
+    {
+        "premises": [
+            "The five specially ordered shipments sent out last week were sent out on Thursday.",
+            "All shipments sent out on Friday last week consisted entirely of building supplies.",
+            "The shipping department closed for the weekend after Friday.",
+            "Four shipments were sent to Truax Construction last week, only three of which consisted of building supplies."
+        ],
+        "context": "Shipping Clerk: The five specially ordered shipments sent out last week were sent out on Thursday. Last week, all of the shipments that were sent out on Friday consisted entirely of building supplies, and the shipping department then closed for the weekend. Four shipments were sent to Truax Construction last week, only three of which consisted of building supplies.",
+        "id": 4
+    }
+]

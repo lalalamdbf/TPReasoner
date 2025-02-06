@@ -1,0 +1,802 @@
+[
+    {
+        "context": "Question: Jerry's response shows that he interprets Frank's statement to imply that\n(a) other sources are more reliable than the Internet\n(b) everyone has an equal opportunity to obtain information on the Internet\n(c) the majority of people do not use the Internet\n(d) all the information available on the Internet is true",
+        "id": 2498
+    },
+    {
+        "context": "Question: Which one of the following points out a flaw committed in the argument?\n(a) Six hundred is too small a sample on which to base so sweeping a conclusion about the representation of people from the service professions.\n(b) It is a mistake to take the 600 largest North American corporations to be typical of corporate boardrooms generally.\n(c) The percentage of people from the service professions who serve on the boards of the 600 largest North American corporations reveals little about the percentage of the members of these boards who are from the service professions.\n(d) It is irrelevant to smaller corporations whether the largest corporations in North America would agree to have significant numbers of workers from the service professions on the boards of the largest corporations.",
+        "id": 2958
+    },
+    {
+        "context": "Question: Which of the following, if true, would most strongly support the position above?\n(a) The typical gardener can't easily know the exact amount and type of nutrients in an organic fertilizer such as manure.\n(b) The nutrients in organic fertilizers are slowly released to the plant over time, rather than being absorbed by the plant immediately.\n(c) In organic fertilizers, the natural combination of nutrients with other natural materials makes the nutrients more usable by the plant than nutrients found in chemical fertilizers.\n(d) Chemical fertilizers produced by the leading manufacturer contain nutrients that are no harder for the plants to absorb than those provided by the competitor's chemical fertilizer.",
+        "id": 3109
+    },
+    {
+        "context": "Question: Which of the following, if true, would serve the same function in the argument as the statement in boldface?\n(a) the only way to get oxygen into the bloodstream so that it can be absorbed by the muscles is through the lungs\n(b) frequent physical exercise increases the body's ability to take in and use oxygen\n(c) lack of oxygen is not the only factor limiting human physical performance\n(d) the water lost in exercising can be replaced with ordinary tap water",
+        "id": 4327
+    },
+    {
+        "context": "Question: Which one of the following, if true, best explains the discrepancy in the information above?\n(a) The number of infectious illnesses that children in a daycare nursery or school develop is roughly proportional to the number of children in the facility, and daycare nurseries are smaller than most schools.\n(b) Although in general the illnesses that children contract through contact with other children at daycare nurseries are not serious, some of those illnesses if untreated have serious complications.\n(c) Those children who have older siblings are likely to catch any common infectious illnesses that their older siblings have.\n(d) By school age, children who have been in daycare nurseries have developed the immunities to common childhood illnesses that children who have not been in such nurseries have yet to develop.",
+        "id": 512
+    },
+    {
+        "context": "Question: T responds to S's argument by\n(a) calling into question S's understanding of the concept of rights\n(b) arguing for a conclusion opposite to the one drawn by S\n(c) challenging the truth of a claim on which S's conclusion is based\n(d) showing that S has ignored the distinction between having a right to do something and having an obligation to do that thing",
+        "id": 3098
+    },
+    {
+        "context": "Question: The reasoning in the argument is flawed because the argument does which one of the following?\n(a) It fails to allow for there being ski injuries other than broken legs, ankle injuries, and knee injuries.\n(b) It proceeds as though there could be a greater decrease in injuries in each category on injury than there is in injuries overall.\n(c) It assumes that an increase in the proportion of knee injuries rules out a decrease in the number of knee injuries.\n(d) It ignores the possibility that the number of skiers has increased over the past 20 years.",
+        "id": 3475
+    },
+    {
+        "context": "Question: The argument depends on assuming which one of the following?\n(a) Comets but not asteroids release large amounts of water vapor into the upper atmosphere when they collide with Earth.\n(b) The fact that noctilucent clouds are made of ice particles in the upper atmosphere was only recently discovered.\n(c) Comets collide with Earth more frequently than asteroids do.\n(d) Noctilucent clouds are visible for many consecutive nights following the release of water vapor into the upper atmosphere.",
+        "id": 667
+    },
+    {
+        "context": "Question: Which one of the following most logically completes the commentator's argument?\n(a) be best maintained by ensuring gradual assimilation of new technical knowledge and skills\n(b) be ensured by laws that protect the customs and traditions of that culture\n(c) be threatened only if the people of that culture fail to acquire the latest technical skills\n(d) decrease if that nation comes to have a high level of economic wealth",
+        "id": 627
+    },
+    {
+        "context": "Question: The discussion about the two Portuguese officers advances the argument by\n(a) providing grounds for eliminating an alternative explanation\n(b) supplying indirect evidence that a disputed death actually occurred\n(c) giving evidence supporting a general psychological principle on which the main conclusion is explicitly based\n(d) offering grounds for doubting the reliability of historical reports that conflict with the argument's main conclusion",
+        "id": 3049
+    },
+    {
+        "context": "Question: The argument is most vulnerable to the objection that it fails to\n(a) consider that there might be minor, quick-growing crops that do mature in 45 days or less\n(b) identify any alternative method of weed control that could be used instead of the method it rejects\n(c) allow for the possibility of combining the two weed-control methods it mentions\n(d) allow for the possibility that plants other than rye, handled the same way, might have the same effect",
+        "id": 3755
+    },
+    {
+        "context": "Question: The type of situation described above most closely conforms to which one of the following propositions?\n(a) Some newly developed capacities only give rise to problems.\n(b) The most effective way for children to address their fears is to acknowledge them.\n(c) Most problems associated with child-rearing can be solved with a little imagination.\n(d) Sometimes the cause of a problem may also provide its solution.",
+        "id": 1797
+    },
+    {
+        "context": "Question: The reasoning in the argument is most vulnerable to the criticism that the argument\n(a) presumes, without providing warrant, that retirement benefits are not generally used to purchase unusual goods\n(b) fails to consider the possibility that there are years in which there is no change in the consumer price index\n(c) makes an irrelevant shift from discussing retail prices to discussing production costs\n(d) fails to make explicit which goods and services are included in the consumer price index",
+        "id": 1453
+    },
+    {
+        "context": "Question: Which of the following, if true, most seriously weakens the argument?\n(a) The capacity of existing incinerators is sufficient to allow for increased incineration of chemical waste without any need for new incinerators.\n(b) Other means of disposing of chemical waste, such as chemical neutralization processes, have not been proven safer than incineration.\n(c) The frequency of reports of unexpected releases of chemical agents at newly built incinerators is about the same as the frequency at older incinerators.\n(d) At the two incinerators at which leaks were reported, staff had had only cursory training on the proper procedures for incinerating chemical waste.",
+        "id": 2906
+    },
+    {
+        "context": "Question: Which of the following, if true in Gilavia, most strongly supports the proposed explanation?\n(a) Employers generally have to pay financial compensation to employees who suffer work-related injuries.\n(b) In the last five years, there has been no decline in the number of workplace injuries leading to immediate admission to a hospital emergency room.\n(c) Employers who have instituted safety-incentive programs do not in general have a lower proportion of reported workplace injuries among their employees than do employers without such programs.\n(d) Many injuries that happen on the job are injuries that would be impossible to conceal and yet would not be severe enough to require any change to either the employee's work schedule or the employee's job responsibilities.",
+        "id": 3895
+    },
+    {
+        "context": "Question: The flawed pattern of reasoning in which one of the following is most closely parallel to that in the argument above?\n(a) In a stone wall that is properly built, every stone supports another stone. Since a wall's being sturdy depends upon its being properly built, only walls that are composed entirely of stones supporting other stones are sturdy.\n(b) A person who is perfectly honest will tell the truth in every situation. Since in order to be a morally upright person one must tell the truth at all times, a perfectly honest person will also be a morally upright person.\n(c) A play that is performed before a different audience every time will never get the same reaction from any two audiences. Since no plays are performed before the same audience every time, no play ever gets the same reaction from any two audiences.\n(d) An herb garden is productive only if the soil that it is planted in is well drained. Since soil that is well drained is good soil, an herb garden is not productive unless it is planted in good soil.",
+        "id": 1355
+    },
+    {
+        "context": "Question: Which one of the following, if true, most strengthens the argument?\n(a) People who have undergone throat surgery are no more likely to snore than people who have not undergone throat surgery.\n(b) The abnormalities in the throat muscles discovered in the study do not cause snoring.\n(c) The patients' throat surgery was not undertaken to treat abnormalities in their throat muscles.\n(d) The study relied on the subjects' self-reporting to determine whether or not they snored frequently.",
+        "id": 690
+    },
+    {
+        "context": "Question: Which one of the following most logically completes the argument?\n(a) only nations that have some interaction with one another have knowledge of one another's needs and problems\n(b) without some interaction, nations are bound to find it difficult to extend sympathy and justice to one another\n(c) there is no way to eliminate conflict among nations\n(d) almost all problems between nations stem from lack of sympathy and justice",
+        "id": 3522
+    },
+    {
+        "context": "Question: Which one of the following would, if true, most strengthen the reasoning above?\n(a) Businesspeople who already suffer from chronic insomnia are no more likely than businesspeople who do not to accept assignments from their employers that require international travel.\n(b) Experiencing dramatic changes in climate and disruption of daily routines through international travel can be beneficial to some people who suffer from chronic insomnia.\n(c) Most international travel for the sake of business occurs between countries with contiguous borders.\n(d) Some businesspeople who once traveled internationally but no longer do so complain of various sleep-related ailments.",
+        "id": 3152
+    },
+    {
+        "context": "Question: Which of the following, if true, most seriously weakens the argument?\n(a) Many people who live in the Wistar region have moved there in middle age or upon retirement.\n(b) Per capita spending on recreational activities is no higher in Wistar than it is in other regions of Bellaria.\n(c) In Bellaria all medical expenses are paid by the government, so that personal income does not affect the quality of health care a person receives.\n(d) The Wistar region is one of Bellaria, s least populated regions.",
+        "id": 980
+    },
+    {
+        "context": "Question: In evaluating the argument, it would be most useful to know which of the following?\n(a) What percentage the first two years maintenance costs of each model is of their respective advertising budgets.\n(b) How the advertising budgets over the last five years for the TJ-700 and the Beta Turbomax compare to the budgets over the same period for comparable models of other manufacturers.\n(c) Whether buyers of the TJ-700 and the Beta Turbomax reported being familiar with the ads of these cars.\n(d) Whether buyer of cars of other manufacturers in the last five years are familiar with the ads for the TJ-700 and the Beta Turbomax.",
+        "id": 221
+    },
+    {
+        "context": "Question: Which one of the following most accurately expresses the main conclusion of the argument?\n(a) The reason that carnivorous mammals are at a disadvantage in ecosystems in which there is relatively little food is that they must eat much more in order to survive than carnivorous reptiles need to.\n(b) The unusual sparseness of Australia's ecosystems is probably the reason Australia has considerably fewer carnivorous mammal species than other continents do but about as many carnivorous reptile species.\n(c) Because Australia's ecosystems are unusually sparse, carnivorous mammals there are at a disadvantage relative to carnivorous reptiles.\n(d) In ecosystems in which there is relatively little food carnivorous mammals are at a disadvantage relative to carnivorous reptiles.",
+        "id": 3593
+    },
+    {
+        "context": "Question: Which one of the following is an assumption on which the engineer's argument depends?\n(a) There is no other means of utilizing the heat produced by the steel-manufacturing process that would be more cost effective than installing thermophotovoltaic generators.\n(b) Using current technology, it would be possible for steel-manufacturing plants to feed the heat they produce into thermophotovoltaic generators in such a way that those generators could convert at least some of that heat into electricity.\n(c) The amount steel-manufacturing plants would save on their electric bills by feeding heat into thermophotovoltaic generators would be sufficient to cover the cost of purchasing and installing those generators.\n(d) At least some steel-manufacturing plants rely on electricity as their primary source of energy in the steel-manufacturing process.",
+        "id": 1466
+    },
+    {
+        "context": "Question: Which one of the following most accurately expresses the overall conclusion of the argument?\n(a) Children will develop low self-esteem if their parents do not praise them when they succeed.\n(b) Children's self-esteem will suffer if their parents uniformly praise their attempts to accomplish things regardless of their success or failure.\n(c) Parents should praise their children for their achievements.\n(d) Children whose actions are praised undeservedly eventually learn to discount all words of praise.",
+        "id": 768
+    },
+    {
+        "context": "Question: According to the passage above, what must follow?\n(a) The percentage of citizens in prison will decrease during this legislative session.\n(b) The government will go bankrupt during this legislative session.\n(c) A bipartisan compromise will prevent the government from going bankrupt during this legislative session.\n(d) Criminal justice reform will be enacted when five more Purple Party politicians hold office.",
+        "id": 1587
+    },
+    {
+        "context": "Question: The reasoning in the argument is flawed because the argument\n(a) fails to consider the possibility that police presence in a particular area is often a response to the relatively high crime rate in that area\n(b) draws a general conclusion from too small a sample of data\n(c) attempts to support its conclusion by making an appeal to emotions\n(d) fails to consider the possibility that criminals may commit crimes in more than one neighborhood",
+        "id": 1853
+    },
+    {
+        "context": "Question: The conclusion above is properly drawn if which one of the following is assumed?\n(a) All employees of the Davidson Consortium are oral surgeons.\n(b) All orthodontists are members of the Patterson Group.\n(c) No oral surgeons are members of the Patterson Group.\n(d) No employees of the Davidson Consortium are oral surgeons.",
+        "id": 1132
+    },
+    {
+        "context": "Question: Which of the following, if true, best accounts for the typical survey practices among market researchers?\n(a) The developers of a new technology are generally no better positioned than its potential buyers to gauge how rapidly the new technology can be efficiently mass-produced.\n(b) The potential buyers for not-yet-available technologies can seldom be reliably identified.\n(c) People who promote the virtues of a new technology typically fail to consider that the old technology that is currently in use continues to be improved, often substantially.\n(d) Investors are unlikely to invest substantial amounts of capital in a company whose own managers are skeptical about the commercial prospects of a new technology they are developing.",
+        "id": 693
+    },
+    {
+        "context": "Question: Which of the following would, if true, most strengthen the historian's reasoning?\n(a) During the fifteenth century in Europe, mapmakers simplified the borders of sovereignty by drawing clear lines of demarcation between political powers.\n(b) Seventeenth-century treatises and other sources of political authority describe areas of sovereignty rather than illustrate them using maps.\n(c) Borders did not become codified in Europe until certain treaties were signed in the early nineteenth century.\n(d) During the medieval period, various authorities in Europe claimed power over collections of cities and towns, not contiguous territories.",
+        "id": 4560
+    },
+    {
+        "context": "Question: Which one of the following, if true, provides the best reason in favor of the airports' timing of their planned expansions?\n(a) When passenger volume begins to grow again after a period of decline, most airlines can, initially, absorb the increase without adding new routes or new planes.\n(b) A sustained decline in passenger travel could lead to the failure of many airlines and the absorption of their routes by those airlines that survive.\n(c) It is generally more difficult to finance major construction projects when the economy is in a period of decline.\n(d) Low volume in passenger air travel permits airport expansion with relatively little inconvenience to the public.",
+        "id": 2798
+    },
+    {
+        "context": "Question: Which one of the following most accurately describes the argumentative technique employed above?\n(a) conditionally advocating a tactic on the grounds that it results in an accusation that is less offensive than the alternatives\n(b) conditionally advocating a tactic on the grounds that it results in an argument that would help the group to reach a consensus on the issue in question\n(c) conditionally advocating a tactic on the grounds that it results in an argument for which one could not consistently accept the premise but deny the conclusion\n(d) rejecting a tactic on the grounds that it constitutes an attack on the character of a person and has no substance in fact",
+        "id": 1931
+    },
+    {
+        "context": "Question: Which of the following hypotheses best accounts for the findings of the experiment?\n(a) The energy expenditure of the subjects' brains increases when a design that completes the initially recognized pattern is determined.\n(b) Those who performed best in the experiment experienced more satisfaction when working with abstract patterns than did those who performed less well.\n(c) The task of completing a given design is more capably performed by athletes, whose energy expenditure is lower when they are at rest.\n(d) People who are better at abstract pattern recognition have more energy-efficient neural connections.",
+        "id": 1548
+    },
+    {
+        "context": "Question: Which one of the following statements, if true, most weakens the argument?\n(a) Until 1986 accidents were classified as \"serious\" only if they resulted in an extended hospital stay.\n(b) The annual number of accidents on Park Road that did not result in hospitalization remained roughly constant from 1981 to 1990.\n(c) The annual number of vehicles using Park Road decreased significantly and steadily from 1981 to 1990.\n(d) The number of speeding tickets issued annually on Park Road remained roughly constant from 1981 to 1990.",
+        "id": 1530
+    },
+    {
+        "context": "Question: The reasoning in the philosopher's argument is flawed because the argument\n(a) improperly infers that each and every scientist has a certain characteristic from the premise that most scientists have that characteristic\n(b) improperly draws an inference about the scientific community as a whole from a premise about individual scientists\n(c) presumes, without giving justification, that the aim of personal career enhancement never advances the pursuit of truth\n(d) illicitly takes advantage of an ambiguity in the meaning of\"self-interested\"",
+        "id": 2470
+    },
+    {
+        "context": "Question: Which of the following, if true, most logically completes the reasoning in the passage?\n(a) some of the by-products of cashew processing are used as raw materials by other industries located in Kernland's cities\n(b) a lack of profitable crops is driving many small cashew farmers in Kernland off their land and into the cities\n(c) the government does not place similar restrictions on the export of any crop other than cashews\n(d) the income earned by workers in the processing plants is generally greater than that earned by agricultural laborers in rural areas",
+        "id": 1654
+    },
+    {
+        "context": "Question: On the basis of their statements, it can be inferred that Alissa and Greta disagree on which one of the following?\n(a) whether local children's television programming provides a beneficial educational experience to a greater number of children in the city than does the children's museum\n(b) whether the city will need to cease funding local children's television programming if it continues funding the children's museum\n(c) whether the city should cease funding local children's television programming if continuing to fund it would mean that the city would have to cease funding the children's museum\n(d) whether the mayor has spoken truthfully about what will need to happen if the city does not cease funding local children's television programming",
+        "id": 3002
+    },
+    {
+        "context": "Question: The reasoning in which one of the following most closely parallels the reasoning in the argument above?\n(a) If pterodactyls flew by flapping their wings, they must have been warm-blooded, so if they were cold-blooded, they must have flown only by gliding, if they flew at all.\n(b) If you want to put in pleats, you will have to double the amount of material for the skirt, and that means you will have none left for the top, so if you put in pleats you will not be able to make the top.\n(c) If the fish is ready, it is cooked all the way through, and if it is cooked through it will be white, so if the fish is not white, it is not ready.\n(d) If economic forecasters are right, there will be inflation, and if there is inflation, the governing party will lose the election, so if it does lose the election, the economic forecasters were right.",
+        "id": 4177
+    },
+    {
+        "context": "Question: Which of the following, if true, most seriously weakens the argument?\n(a) Experimental subjects who used the zinc gel not only had colds of shorter duration but also had less severe symptoms than did those who used a gel that did not contain zinc.\n(b) Drug-company researchers experimenting with a nasal spray based on zinc have found that it has much the same effect on colds as the gel does.\n(c) To make them palatable, zinc lozenges generally contain other ingredients, such as citric acid, that can interfere with the chemical activity of zinc.\n(d) The mechanism by which zinc affects the viruses that cause the common cold has not been conclusively established.",
+        "id": 1088
+    },
+    {
+        "context": "Question: Which one of the following is an assumption required by the reasoning described above?\n(a) All stars move at exactly the same speed when they are revolving around Earth.\n(b) Earth does not remain motionless while the stars revolve around it.\n(c) Stars do not move at tremendously great speeds.\n(d) If the stars do not revolve around Earth, it is possible for at least some stars to be more than a few million miles from Earth.",
+        "id": 3817
+    },
+    {
+        "context": "Question: Which one of the following is an assumption on which the argument depends for its conclusion to be properly drawn?\n(a) The mayor's plan to charge for driving downtown will be implemented before the end of next year.\n(b) A daily charge for driving downtown is the most effective way to reduce traffic congestion.\n(c) The plan to charge for driving downtown should be implemented as soon as payment of the charge can be effectively enforced.\n(d) Raising revenue is a more important consideration for the city than is reducing traffic congestion.",
+        "id": 1632
+    },
+    {
+        "context": "Question: Which one of the following most accurately describes the method of reasoning used to reach the conclusion above?\n(a) showing that there are additional alternatives that are unknown\n(b) showing that certain possibilities are not exclusive\n(c) showing that no exceptions could apply\n(d) showing that something must have occurred by excluding the only alternative",
+        "id": 386
+    },
+    {
+        "context": "Question: The professor's conclusion is properly drawn if which one of the following is assumed?\n(a) None of the students who live off campus is a member of the choir.\n(b) All students who are members of the choir are music majors.\n(c) Some of the students who do not live off campus are not music majors.\n(d) All students who live on campus are music majors.",
+        "id": 311
+    },
+    {
+        "context": "Question: Which of the following most logically completes the passage?\n(a) Austria would have started the war.\n(b) World War I never would have happened.\n(c) A war between the world powers was extremely likely.\n(d) England, France, and Russia would have started the war.",
+        "id": 3669
+    },
+    {
+        "context": "Question: It the statements in the passage are true, which one of the following can be properly concluded from them?\n(a) The first censor and the second censor prohibited the publication of the same number of book manuscripts.\n(b) More books critical of Country Y's government were published before the appointment of the first censor than after it.\n(c) The second censor allowed some book manuscripts to be published that the first censor would have considered critical of Country Y's government.\n(d) More book manuscripts were submitted for approval to the first censor than to the second.",
+        "id": 1630
+    },
+    {
+        "context": "Question: Which one of the following, if true, adds the most support for the archaeologist's hypothesis?\n(a) The construction of the temple at Didyma was begun over a century after the Parthenon was constructed.\n(b) The surviving columns at Didyma are almost twice as tall as the columns at the Parthenon.\n(c) Scale drawings were commonly used in many types of construction in ancient Greece.\n(d) Modern attempts to recreate columns like those at the Parthenon have only been partially successful.",
+        "id": 1125
+    },
+    {
+        "context": "Question: Which one of the following principles, if established, provides the strongest justification for the judgment that the first magazine and not the second was morally delinquent?\n(a) If two similar agents commit two similar actions, those agents should be held to the same standard of accountability.\n(b) Failure to uphold a moral standard is not necessarily a moral failing except for those who have specifically committed themselves to upholding that standard.\n(c) A magazine should not be considered at fault for publishing a classified advertisement if that advertisement would not be offensive to any of the magazine's subscribers.\n(d) Anyone regularly transmitting messages to the public has a moral responsibility to monitor the content of those messages.",
+        "id": 3376
+    },
+    {
+        "context": "Question: Garza responds to Patterson by doing which one of the following?\n(a) arguing that the body of evidence to which Patterson appeals is insufficient for Patterson's purposes\n(b) using Patterson's evidence to draw a conclusion inconsistent with the conclusion drawn in Patterson's argument\n(c) presenting a counterexample to the general conclusion drawn in Patterson's argument\n(d) presenting an argument analogous to Patterson's argument to reveal a potential flaw in Patterson's reasoning",
+        "id": 3169
+    },
+    {
+        "context": "Question: Debbie attempts to counter Carl' s argument by\n(a) drawing an analogy that illustrates a major flaw in Carl's argument\n(b) claiming that Carl's argument should be rejected because it is based on an appeal to sentimentality rather than on reasoned principles\n(c) pointing out a relevant difference to undermine an analogy on which Carl bases his conclusion\n(d) offering a specific example to demonstrate that Carl's argument is based on a claim that can be neither confirmed nor disproved",
+        "id": 54
+    },
+    {
+        "context": "Question: Which of the following, if true, does most to explain the contrast described above?\n(a) Except during periods of extreme drought, algae levels tend to be higher in rivers in which the flow has been controlled by damming than in rivers that flow freely.\n(b) Australian rivers dry up completely for short intervals in periods of extreme drought.\n(c) During periods of extreme drought, the populations of some of the species that feed on algae tend to fall.\n(d) When algae populations reach very high levels, conditions within the river can become toxic for some of the other species that normally live there.",
+        "id": 2106
+    },
+    {
+        "context": "Question: Which one of the following propositions is most supported by the historian's statements, if those statements are true?\n(a) Stuart's work was not entirely free from West's influence\n(b) Stuart's contemporaries were not influenced by West.\n(c) It is more likely that Stuart influenced West than that West influenced Stuart.\n(d) Stuart's discussions with Abella were one of the means by which West influenced Stuart.",
+        "id": 798
+    },
+    {
+        "context": "Question: Which one of the following arguments contains the most similar reasoning to the argument above?\n(a) A blog produces ten times the amount of content relative to its competitors. Thus, that blog produces more content than its competitors.\n(b) A tree produces more apples than any other tree. Thus, that tree is the best tree for growing apples.\n(c) A widget company produces more products per year than its competitors and sells each widget for the highest price in the industry. Thus, that widget company earns more revenue than any other widget company.\n(d) A building is twice as tall as any other building on the city's skyline. Thus, that building is the tallest building on the city's skyline.",
+        "id": 3926
+    },
+    {
+        "context": "Question: The information in the passage most strongly supports which of the following?\n(a) Humans are less at risk of contracting Lyme disease in areas where biodiversity is high.\n(b) The greater the biodiversity of an area, the more likely any given host animal in that area is to pass Lyme disease to ticks.\n(c) Ticks feed on white-footed mice only when other host species are not available to them.\n(d) Very few animals that live in areas where there are no white-footed mice are infected with Lyme disease.",
+        "id": 570
+    },
+    {
+        "context": "Question: Which one of the following is an assumption on which the psychologist's argument depends?\n(a) The personality differences between the two individuals cannot be explained by the cultural differences between Toronto and New York.\n(b) Astrologers have not subjected their claims to rigorous experimentation.\n(c) Complete birth records for the past 40 years were kept at both hospitals.\n(d) The geographical difference between Toronto and New York did not result in the two individuals having different horoscopes.",
+        "id": 2445
+    },
+    {
+        "context": "Question: The argument depends on the assumption that\n(a) the danger of chemical pollution of waterways is to be evaluated in terms of human health only and not in terms of the health of both human beings and wildlife\n(b) there is a swift flow of water in the waterway that ensures rapid dispersion of chemicals discharged\n(c) relatively harmless chemicals do not interact with each other in the water to form harmful compounds\n(d) there are no chemicals for which discharge into waterways is entirely prohibited",
+        "id": 4291
+    },
+    {
+        "context": "Question: Which one of the following most accurately expresses the overall conclusion drawn in the argument?\n(a) The local news media were wrong to herald Clemens as an honest politician.\n(b) The local newspaper's treatment of Clemens is indicative of its treatment of public figures in general.\n(c) The local news media show too much deference toward public figures.\n(d) Reporters from the local newspaper neglected to follow leads that might have exposed the scandal much earlier.",
+        "id": 3717
+    },
+    {
+        "context": "Question: Which one of the following, if true, most strengthens the argument?\n(a) Generic drugs are no more likely than brand name drugs to suffer from defects in composition.\n(b) Generic drugs are just as likely as brand-name drugs to be readily available in pharmacies.\n(c) The higher costs of brand-name drugs underwrite drug companies' heavy investment in research.\n(d) Because of advertising, doctors frequently prescribe brand-name drugs by their brand name, rather than by their chemical name.",
+        "id": 2892
+    },
+    {
+        "context": "Question: Which of the following, if true, constitutes the best criticism of the argument above?\n(a) There has been no warming trend in the United States over the last 100 years.\n(b) The consequences of global warming occur long after the actual emission of pollutants into the atmosphere.\n(c) A global warming trend could cause increases in the frequency and severity of shifts in temperature patterns in the Pacific Ocean.\n(d) Most pre-1988 droughts for which we have records were preceded by shifts in temperature patterns in the Pacific Ocean.",
+        "id": 3454
+    },
+    {
+        "context": "Question: Which one of the following is an assumption on which the reporter's argument depends?\n(a) There was no reliable evidence that autism could affect children so young until the advent of the new test.\n(b) The new test can be used to evaluate all children, regardless of the level of development of their verbal skills.\n(c) A diagnostic test that sometimes falsely gives a positive diagnosis can still provide a reasonable basis for treatment decisions.\n(d) No test intended for diagnosing autism at such an early age existed before the new test was devised.",
+        "id": 2234
+    },
+    {
+        "context": "Question: Jean does which one of the following in her response to Anita?\n(a) challenges Anita's assumption that the decline in the population of the spotted owl poses a threat to the species'continued survival\n(b) proposes an alternative explanation for the decline in the spotted owl population\n(c) denies the truth of Anita's premise that timber companies have been clearing old-growth forests\n(d) suggests that Anita overlooked the possibility that spotted owls are able to live in forests that are not old-growth forests",
+        "id": 943
+    },
+    {
+        "context": "Question: The editorialist's reasoning is flawed in that it fails to take into account that\n(a) certain freedoms might sometimes need to be limited in order to ensure the protection of certain other freedoms\n(b) even those who are not ignorant of history may repeat its patterns\n(c) the law may have other purposes in addition to silencing dissenters\n(d) some historical accounts report that legal restrictions on freedom of speech have occasionally undermined the establishment of authoritarian regimes",
+        "id": 975
+    },
+    {
+        "context": "Question: Which of the following most logically completes the passage?\n(a) in the spring, melting sea ice would cause more icebergs to be created and to drift south into shipping routes\n(b) significant changes in Arctic sea temperatures would be accompanied by changes in sea temperatures in more temperate parts of the world\n(c) such a warm Arctic Ocean would trigger the melting of massive landbased glaciers in the Arctic\n(d) large masses of floating sea ice would continue to form in the wintertime",
+        "id": 3205
+    },
+    {
+        "context": "Question: The reasoning in the argument is most vulnerable to criticism on the grounds that it\n(a) fails to address the possibility that an approach that works with one kind of audience will not work with another\n(b) takes for granted that both scholars and politicians have persuasion as their aim\n(c) fails to account for the difficulty of coming up with charitable formulations of positions to which one is opposed\n(d) focuses on the differences between two styles of argumentation even though those styles might be suited to similar audiences",
+        "id": 58
+    },
+    {
+        "context": "Question: The information above provides the most support for which one of the following statements?\n(a) Research in global warming is primarily driven by a desire for recognition in the scientific community.\n(b) Most researchers in climatology have substantial motive to find evidence that would discredit the global warming hypothesis.\n(c) There is evidence that conclusively shows that the global warming hypothesis is true.\n(d) Scientists who are skeptical about global warming have not offered any alternative hypotheses to explain climatological data.",
+        "id": 705
+    },
+    {
+        "context": "Question: In evaluating the argument, which of the following would it be most useful to establish?\n(a) Whether plantings of cotton that does not produce the insecticide are suffering unusually extensive damage from bollworms this year\n(b) Whether corn could be bioengineered to produce the insecticide\n(c) Whether there are insecticides that can be used against bollworms that have developed resistance to the insecticide produced by the bioengineered cotton\n(d) Whether plantings of bioengineered cotton are frequently damaged by insect pests other than bollworms",
+        "id": 1580
+    },
+    {
+        "context": "Question: Which one of the following most closely parallels the flawed pattern of reasoning in the politician's reply to the reporter?\n(a) In order to like abstract art, you have to understand it. Therefore, in order to understand abstract art, you have to like it.\n(b) When prisoners convicted of especially violent crimes were kept in solitary confinement, violence in the prisons increased. Therefore, violence in the prisons will not increase if such prisoners are allowed to mix with fellow prisoners.\n(c) If there had been a full moon last night, the tide would be higher than usual today. Since the tide is no higher than usual, there must not have been a full moon last night.\n(d) The detective said that whoever stole the money would be spending it conspicuously by now. Jones is spending money conspicuously, so he must be the thief.",
+        "id": 2645
+    },
+    {
+        "context": "Question: Which one of the following, if true, would most seriously weaken the argument?\n(a) Until there is no shred of doubt that nuclear dumps are safe, it makes sense to situate them where they pose the least threat to the public.\n(b) There are dangers associated with chemical waste, and it, too, is dumped away from areas of dense population.\n(c) In the event of an accident, it is certain that fewer people would be harmed in a sparsely populated than in a densely populated area.\n(d) Dumping of nuclear waste poses fewer economic and bureaucratic problems in sparsely populated than in densely populated areas.",
+        "id": 2763
+    },
+    {
+        "context": "Question: Which one of the following, if true, most undermines the argument?\n(a) Only some of the increase in the preserve's bear population over the past eight years is due to migration of bears from outside the Abbimac Valley.\n(b) The bear population in areas of the Abbimac Valley outside the Kiffer Forest Preserve has decreased over the past eight years.\n(c) The bear population in the Abbimac Valley has remained about the same over the past eight years.\n(d) Only some of the increase in the preserve's bear population over the past eight years is due to migration of bears from other parts of the Abbimac Valley.",
+        "id": 4430
+    },
+    {
+        "context": "Question: The method described above for determining how quickly a new idea is taking hold relies on which one of the following assumptions?\n(a) Dictionary editors have exact numerical criteria for telling when a word has passed into common usage.\n(b) For a new idea to take hold, dictionary editors have to include the relevant word or words in their dictionaries.\n(c) As a word passes into common usage, its meaning does not undergo any severe distortions in the process.\n(d) Words denoting new ideas tend to be used before the ideas denoted are understood.",
+        "id": 932
+    },
+    {
+        "context": "Question: Which one of the following most accurately expresses the argument's main conclusion?\n(a) Part of the light falling on metallic mirrors tends to be absorbed by them.\n(b) Metallic mirrors are unsuitable for applications where it is crucial to minimize energy loss.\n(c) High-powered lasers require mirrors that conserve energy.\n(d) Metallic mirrors reduce the effectiveness of high-powered lasers.",
+        "id": 2712
+    },
+    {
+        "context": "Question: Which one of the following principles, if valid, most helps to justify the music critic's argument?\n(a) An underground rock group is successful as an underground group if the group is competent but its recordings nonetheless do not sell well.\n(b) An underground rock group is unsuccessful as an underground group if it is incompetent or if any of its music is too trendy to be authentically underground, or both.\n(c) For an underground rock group, competence and the creation of authentically underground music are not in themselves marks of success.\n(d) Whether an underground group's recordings meet criteria that many underground musicians consider desirable is not a mark of that group's success.",
+        "id": 930
+    },
+    {
+        "context": "Question: James's and Margaret's statements provide the most support for the claim that they disagree over the truth of which one of the following?\n(a) The main reason people have for attending a university is to prepare themselves for a career.\n(b) A primary goal of any university is to serve the educational needs of its community.\n(c) In a typical community, the primary educational need is to prepare community residents for careers.\n(d) Most universities adequately serve the educational needs of the communities in which they are located.",
+        "id": 694
+    },
+    {
+        "context": "Question: A flaw in the reformer's argument is that it\n(a) overlooks the possibility that the population has increased significantly over the past 20 years\n(b) ignores the possibility that the crime rate would have significantly increased if it had not been for the greater rate of imprisonment\n(c) takes for granted that the number of prisoners must be proportional to the number of crimes committed\n(d) presumes, without providing warrant, that alternative measures for reducing crime would be more effective than imprisonment",
+        "id": 2550
+    },
+    {
+        "context": "Question: Which one of the following most accurately states the main conclusion of the moralist's argument?\n(a) All moral behavior is motivated by altruism.\n(b) Altruism develops through the use of reason.\n(c) Behavior must serve the needs of others in order to be moral behavior.\n(d) Not all altruistic acts are moral behavior.",
+        "id": 2600
+    },
+    {
+        "context": "Question: The executive's reasoning most closely conforms to which one of the following generalizations?\n(a) The promotion and distribution of a new line of products will not prove profitable if a number of reliable authorities declare them to be ineffective.\n(b) If a majority of reliable sources conclude that a particular substance is medically ineffective, then that substance almost certainly is medically ineffective.\n(c) To be reliable, a medical publication that evaluates consumer products must include at least some independent evidence.\n(d) Consulting reliable publications is not, by itself, a reliable basis for determining whether or not the promotion of a new line of products will be profitable.",
+        "id": 1883
+    },
+    {
+        "context": "Question: The pundit's argument requires the assumption that\n(a) the city could have raised parking fees had it not sold the rights\n(b) municipal functions like assessing and collecting parking fees should always be handled directly by the municipality in question\n(c) other private companies would have been willing to pay for the rights to assess and collect parking fees\n(d) private companies assess and collect parking fees more efficiently than cities do",
+        "id": 1352
+    },
+    {
+        "context": "Question: A principle that, if established, justifies Jamie's response to Arnold is that an airline is morally obligated to compensate a passenger who has been denied a seat on a flight for which the passenger has confirmed reservations\n(a) only if the passenger would not have been forced to take a later flight had the airline not overbooked the original flight\n(b) even if the passenger would still have been forced to take a later flight had the airline not overbooked the original flight\n(c) if the only reason the passenger is forced to take a later flight is that the airline overbooked the original flight\n(d) even if the only reason the passenger is forced to take a later flight were that the original flight is canceled due to bad weather",
+        "id": 3102
+    },
+    {
+        "context": "Question: The reasoning in Melchior's argument is most vulnerable to criticism on the grounds that it\n(a) defends a certain practice on the basis that it has a certain benefit without considering whether an alternative practice has the same benefit\n(b) inappropriately introduces normative claims in support of a conclusion that is entirely factual\n(c) confuses an absence of evidence in support of a claim with the existence of evidence against a claim\n(d) draws a conclusion that simply restates a claim that is presented in support of that conclusion",
+        "id": 3903
+    },
+    {
+        "context": "Question: Which one of the following statements can be deduced from the argument?\n(a) Bill is a doctor.\n(b) Bill is a secretary.\n(c) Bill is a philosopher.\n(d) Bill is a chief executive officer.",
+        "id": 3570
+    },
+    {
+        "context": "Question: The dialogue between Huang and Suarez most strongly supports the claim that they disagree about whether\n(a) mandatory sentences will deter most people who might otherwise commit violent crimes\n(b) the best way to reduce violent crime is to address the root causes of violence\n(c) people who commit violent crimes carefully consider how they will be punished for their crimes\n(d) severe penalties reduce the incidence of tax evasion",
+        "id": 222
+    },
+    {
+        "context": "Question: The main point of the argument is that\n(a) multinational grain companies operate so as to maximize profits\n(b) multinational grain companies cannot be relied on to initiate reform of the world's food-distribution system\n(c) the maximization of profits depends on a stable economic environment\n(d) when economic change accompanies business activity, that change is initiated by concern for the profit motive",
+        "id": 817
+    },
+    {
+        "context": "Question: The conclusion is incorrectly drawn from the information given because this information does not include\n(a) the earliest age at which a person who smoked two packs a day had his or her first heart attack\n(b) the relative severity of heart attacks suffered by smokers and nonsmokers\n(c) data on people who did not survive a first heart attack\n(d) how many of the 2, 500 people studied suffered a second heart attack",
+        "id": 1077
+    },
+    {
+        "context": "Question: Which one of the following is an assumption on which the critic's argument relies?\n(a) Some individuals must believe that their society is better than most before they can become concerned with benefiting it.\n(b) Modern literature is generally not as conducive to societal good as was the literature of earlier eras.\n(c) It is to the advantage of some individuals that they be concerned with contributing to societal good.\n(d) Some individuals in earlier eras were more concerned about contributing to societal good than is any modern individual.",
+        "id": 819
+    },
+    {
+        "context": "Question: Which one of the following is an assumption on which the argument relies?\n(a) Most attempts to construct proofs of mathematical theorems do not result in demonstrations that the theorems are true.\n(b) Computers cannot be used to assist in generating proofs of mathematical theorems that involve only a very limited number of steps.\n(c) The use of the computer to assist in the proof of mathematical theorems has greatly simplified the mathematician's task.\n(d) The use of an independent computer program does not satisfy the requirement for independent verification of each step in a proof that is extended enough to be otherwise unverifiable.",
+        "id": 1584
+    },
+    {
+        "context": "Question: Which of the following, if true, presents the most serious potential weakness of the plan?\n(a) The new fruit drinks would be priced significantly higher than other Fizzles fruit drinks with more conventional flavors.\n(b) Few consumers who are loyal to a specific brand of fruit-flavored drinks would willingly switch to another brand that costs more.\n(c) To build widespread demand for the new flavors, Fizzles would have to launch an advertising campaign to familiarize consumers with them.\n(d) Consumers choosing among fruit-flavored drinks of different brands generally buy on the basis of name recognition and price rather than the specific fruit flavor.",
+        "id": 1983
+    },
+    {
+        "context": "Question: In the argument given, the two boldfaced portions play which of the following roles?\n(a) The first is a claim that the argument disputes; the second is a conclusion that has been based on that claim.\n(b) The first is a claim that has been used to support a conclusion that the argument accepts; the second is that conclusion.\n(c) The first is evidence that has been used to support a conclusion for which the argument provides further evidence; the second is the main conclusion of the argument.\n(d) The first is a finding whose implications are at issue in the argument; the second is a claim presented in order to argue against deriving certain implications from that finding.",
+        "id": 4187
+    },
+    {
+        "context": "Question: Which of the following is an assumption on which the argument depends?\n(a) The two mining expeditions funded by Elizabeth I did not mine the same part of Kodlunarn Island.\n(b) Frobisher did not have soil samples from any other Canadian island examined for gold content.\n(c) Gold was not added to the soil samples collected by Frobisher before the samples were examined.\n(d) The gold content of the soil on Kodlunarn Island is much lower today than it was in the sixteenth century.",
+        "id": 238
+    },
+    {
+        "context": "Question: Which one of the following general principles most strongly supports the recommendation?\n(a) Estimations of probability that are more closely tied to what is known are preferable to those that are less closely tied to what is known.\n(b) It is preferable for scientists to restrict their studies to phenomena that are observable and forego making estimates about unobservable things.\n(c) There is no good reason to think that unobserved phenomena closely resemble those that have been observed.\n(d) A scientific theory that explains observed phenomena on the basis of a few principles that are independent of each other is preferable to a theory that explains those same phenomena on the basis of many independent principles.",
+        "id": 2510
+    },
+    {
+        "context": "Question: Which one of the following most accurately describes a logical flaw in the argument?\n(a) It takes for granted that no piece of legislation can ever satisfy all competing interest groups.\n(b) It concludes that a condition is necessary for a certain result merely from the claim that the condition leads to that result.\n(c) It draws a conclusion that is merely a disguised restatement of one of its premises.\n(d) It bases a conclusion about a particular case on a general principle that concerns a different kind of case.",
+        "id": 227
+    },
+    {
+        "context": "Question: Which one of the following, if true, most strengthens the banking analyst's argument'?\n(a) Most banks have similar charges for most services and pay similar interest rates on deposits.\n(b) Banks do best when offering special privileges only to their most loyal customers.\n(c) Offering services at no charge to all of its current customers would be prohibitively expensive for a bank.\n(d) Once they have chosen a bank, people tend to remain loyal to that bank.",
+        "id": 4613
+    },
+    {
+        "context": "Question: The reasoning in the editorialist's argument is most vulnerable to criticism on the grounds that this argument\n(a) presumes, without providing justification, that allowing the police to arrest an innocent person assists rather than obstructs justice\n(b) takes for granted that there is no moral obligation to obey the law\n(c) takes for granted that the parents mentioned in the example are not mistaken about their child's innocence\n(d) fails to consider the possibility that other moral principles would be widely recognized as overriding any obligation to protect a family member from harm",
+        "id": 4395
+    },
+    {
+        "context": "Question: Gerald' s and Kendra's positions indicate that they disagree over whether accessing someone's wireless Internet service while walking down the street\n(a) can be considered illegal under current law\n(b) is like trespassing\n(c) could be done without intending to do so\n(d) should be prohibited by law",
+        "id": 2792
+    },
+    {
+        "context": "Question: Which one of the following arguments is most similar in its reasoning to the argument above?\n(a) It is claimed that we have the unencumbered right to say whatever we want. It is also claimed that we have the obligation to be civil to others. But civility requires that we not always say what we want. So, it cannot be true both that we have the unencumbered right to say whatever we want and that we have the duty to be civil.\n(b) Some politicians could attain popularity with voters only by making extravagant promises; this, however, would deceive the people. So, since the only way for some politicians to be popular is to deceive, and any politician needs to be popular, it follows that some politicians must deceive.\n(c) If we extend our business hours, we will either have to hire new employees or have existing employees work overtime. But both new employees and additional overtime would dramatically increase our labor costs. We cannot afford to increase labor costs, so we will have to keep our business hours as they stand.\n(d) If we put a lot of effort into making this report look good, the client might think we did so because we believed our proposal would not stand on its own merits. On the other hand, if we do not try to make the report look good, the client might think we are not serious about her business. So, whatever we do, we risk her criticism.",
+        "id": 3967
+    },
+    {
+        "context": "Question: The sociologist's argument is flawed because it\n(a) mistakes a property of each member of a group taken as an individual for a property of the group taken as a whole\n(b) assumes without warrant that the newspaper stories in question are not biased\n(c) presupposes that most newspaper stories are about violent crime\n(d) presupposes the truth of the conclusion it is attempting to establish",
+        "id": 4244
+    },
+    {
+        "context": "Question: Which one of the following conforms most closely to the principle illustrated above?\n(a) If someone is sentenced to perform community service, the court has a responsibility to ensure that the community at large rather than a private group benefits from that service.\n(b) If a convicted criminal writes a memoir describing the details of that criminal's crime, any proceeds of the book should be donated to a charity chosen by a third party.\n(c) If a driver causes an accident because the automobile being driven was not properly maintained, that driver should be required from then on to regularly demonstrate that his or her automobile is being properly maintained.\n(d) If a factory is found to have been recklessly violating pollution laws, that factory should be required to make the expenditures necessary to bring it into compliance with those laws to the satisfaction of the regulators.",
+        "id": 4012
+    },
+    {
+        "context": "Question: Which one of the following most accurately describes an error in the argument's reasoning?\n(a) The argument takes evidence showing merely that its conclusion could be true to constitute evidence showing that the conclusion is in fact true.\n(b) The argument depends for its appeal only on the emotional content of the example cited.\n(c) The argument does not explain what is meant by \"reward\" and \"personal benefit. \"\n(d) The term \"self-interest\" is allowed to shift in meaning over the course of the argument.",
+        "id": 4287
+    },
+    {
+        "context": "Question: Which of the following, if true, most seriously undermines the argument given?\n(a) Even though OLEX could consolidate all its refining at the Tasberg plant, doing so at the Grenville plant would not be feasible.\n(b) Closure of the Grenville refinery would mean compliance, at enormous cost, with demanding local codes regulating the cleanup of abandoned industrial sites.\n(c) If the Grenville refinery were ever closed and operations at the Tasberg refinery expanded, job openings at Tasberg would to the extent possible be filled with people formerly employed at Grenville.\n(d) The Tasberg refinery is more favorably situated than the Grenville refinery with respect to the major supply routes for raw petroleum.",
+        "id": 865
+    },
+    {
+        "context": "Question: The conclusion above is properly drawn if which one of the following is assumed?\n(a) Bell's workers will not accept a package of improved benefits in place of their desired wage increase.\n(b) The workers at Bell Manufacturing will not be going on strike.\n(c) Bell's management will refuse to increase its workers' wages.\n(d) Bell Manufacturing will begin to suffer increased losses.",
+        "id": 532
+    },
+    {
+        "context": "Question: Which of the following, if true, calls into question the conservationist's prediction?\n(a) No wood bison has ever been within 1, 000 miles of the area in which the conservationists are planning to move the herd.\n(b) American buffalo once shared territory with the wood bison, but the American buffalo's territory slowly moved south so that now the American buffalo no longer inhabits the same area as the wood bison.\n(c) The American buffalo and the wood bison can thrive off of the same resources.\n(d) The American buffalo and the wood bison readily mingle, and, in the past, this has lead the two species to mix so that the number of actual wood bison declines steadily.",
+        "id": 1462
+    },
+    {
+        "context": "Question: Which of the following statements, if true, support the politicians' proposed bill?\n(a) The 200, 000 people treated in 2006 for secondhand smoking-related diseases were each insured by one of the major healthcare insurance companies.\n(b) Treating people for secondhand smoking-related diseases is not more costly than treating diseases caused by smoking.\n(c) People most commonly are exposed to secondhand smoke at bars and restaurants.\n(d) New smokers are more likely to expose others to secondhand smoke.",
+        "id": 4306
+    },
+    {
+        "context": "Question: Which one of the following, if true, would most seriously weaken the commentator's argument?\n(a) The ozone layer regenerates at a slow rate, barring counteractive processes.\n(b) Our earliest ancestors possessed genetic characteristics making them more resistant than we are to the harmful effects of ultraviolet radiation.\n(c) Scientists have discovered that genetic changes occurred in our ancestors during the period in which the supernova affected Earth.\n(d) Extraterrestrial influences on the ozone layer tend to occur less often than terrestrial ones.",
+        "id": 3325
+    },
+    {
+        "context": "Question: Which one of the following, if true, most strengthens the argument?\n(a) Peterson has also set world records in several other swimming events.\n(b) Peterson had the flu during a recent competition.\n(c) Peterson has in each of the past seven years swum faster during world competitions than during training for those competitions.\n(d) Peterson is widely expected to win the 100-meter backstroke in the next world competition.",
+        "id": 3736
+    },
+    {
+        "context": "Question: Which one of the following is an assumption on which the argument depends?\n(a) No other environmental organization gave away copies of To Save the Earth during the month in which the Earth Association gave away its 2, 000 copies.\n(b) The copies of To Save the Earth given away by members of the Earth Association were printed on recycled paper.\n(c) Every recipient of To Save the Earth will embrace the environmental program advocated by the Earth Association.\n(d) None of those who received To Save the Earth from a member of the Earth Association were already committed to the environmentalist cause when they received this book.",
+        "id": 356
+    },
+    {
+        "context": "Question: The passage is structured to lead to which one of the following conclusions?\n(a) Regulation of computer networks is required in order to ensure the privacy of the messages transmitted through such networks.\n(b) Legislators who do not have extensive experience with computers should not attempt to write legislation regulating computer networks.\n(c) The regulation of computer networks should not be modeled on any single piece of past legislation.\n(d) A computer network merely duplicates the functions of a telephone system and a television network.",
+        "id": 4482
+    },
+    {
+        "context": "Question: Which one of the following, if true, most strongly supports the conclusion drawn by the entomologists?\n(a) The current decline in the gypsy moth population in forests where the fungus was introduced is no greater than a decline that occurred concurrently in other forests.\n(b) In the past several years, air pollution and acid rain have been responsible for a substantial decline in oak tree populations.\n(c) A strain of gypsy moth whose caterpillars are unaffected by the fungus has increased its share of the total gypsy moth population.\n(d) An increase in numbers of both gypsy moth caterpillars and gypsy moth adults followed a drop in the number of some of the species that prey on the moths.",
+        "id": 3557
+    },
+    {
+        "context": "Question: Which one of the following most accurately and completely expresses the main conclusion of the city council member's argument?\n(a) Significantly reducing the number of building starts would not, on balance, result in revenue loss to the city.\n(b) Imposing real estate development fees is the best way for the city to exploit the available sources of revenue.\n(c) The mayor's family has a strong financial interest in preventing the passage of legislation that would impose real estate development fees.\n(d) In blocking council members' attempts to impose real estate development fees, the mayor is sacrificing the city's interests to personal interests.",
+        "id": 231
+    },
+    {
+        "context": "Question: The flawed reasoning in the advertisement most closely parallels that in which one of the following?\n(a) The ZXC audio system received the overall top ranking for looks, performance, durability, and value in Listeners' Report magazine's ratings of currently produced systems. Therefore, the ZXC must have better sound quality than any other currently produced sound system.\n(b) Jerrold's teachers recognize him as the student who has shown more academic improvement than any other student in the junior class this year. Therefore, if Jerrold and his classmates are ranked according to their current academic performance, Jerrold must hold the highest ranking.\n(c) The number of consumer visits increased more at Countryside Market last year than at any other market in the region. Therefore, Countryside's profits must also have increased more last year than those of any other market in the region.\n(d) Margaret Durring's short story \"The Power Lunch\" won three separate awards for best short fiction of the year. Therefore, any of Margaret Durring's earlier stories certainly has enough literary merit to be included in an anthology of the best recent short fiction.",
+        "id": 4464
+    },
+    {
+        "context": "Question: Which one of the following must be true on the basis of the information above?\n(a) If the Rienzi was not sunk by sabotage, water flooded into it unusually fast.\n(b) The Rienzi was so strongly constructed as to resist imploding under deep-sea pressure.\n(c) If the Rienzi had sunk more slowly, it would have imploded.\n(d) If the Rienzi became fully flooded, it did so only after it reached the ocean floor.",
+        "id": 531
+    },
+    {
+        "context": "Question: Which one of the following is an assumption on which the argument depends?\n(a) People who are not highly motivated will not complete the demanding course of study and examination required to become qualified as a recognized medical specialist.\n(b) Only the most talented people will successfully complete the rigorous course of study necessary for qualification as a recognized medical specialist.\n(c) Usually, six to ten years of medical training beyond a university degree is necessary to render someone competent to practice in his or her medical specialty.\n(d) No one incompetent to practice a particular specialty completes the evaluation program for that specialty.",
+        "id": 1965
+    },
+    {
+        "context": "Question: The senator's reasoning contains which one of the following errors?\n(a) It assumes what it seeks to establish.\n(b) It seeks to persuade by emotional rather than intellectual means.\n(c) It contains an implicit contradiction.\n(d) It relies on an assertion of the senator's authority.",
+        "id": 2884
+    },
+    {
+        "context": "Question: Which one of the following, if true, most helps to resolve the apparent conflict in the statements above?\n(a) The amount of gas and dust emitted steadily increased during the period from September through November.\n(b) Gas and dust can be released by cracks in a comet even if the comet is not broken all the way through.\n(c) Comets often do not emit gas and dust until several weeks after they have begun to break up.\n(d) The reason comets become brighter when they break up is that the gas and dust that they emit refract light.",
+        "id": 3821
+    },
+    {
+        "context": "Question: Which one of the following, if each is a principle about consumer surveys, is violated by the survey described ?\n(a) Never ask a question that is likely to generate a large variety of responses that are difficult to group into a manageable number of categories.\n(b) It is best to ask questions that a respondent can answer without fear of having gotten the answer wrong.\n(c) Never ask all respondents a question that respondents cannot answer without giving up their anonymity.\n(d) Never ask all respondents a question if it cannot reasonably be answered by respondents who make a particular response to another question in the same survey.",
+        "id": 4384
+    },
+    {
+        "context": "Question: Which of the following, if true, most strengthens the argument above?\n(a) Technological problems with recycling currently prevent the reuse as food or beverage containers of the plastic from either type of plastic beverage container.\n(b) Many consumers are ecology-minded and prefer to buy a product sold in the partially biodegradable plastic beverage containers rather than in nonbiodegradable containers, even if the price is higher.\n(c) The partially biodegradable plastic beverage containers are made with more plastic than comparable nonbiodegradable ones in order to compensate for the weakening effect of the bonding agents.\n(d) Both partially biodegradable and nonbiodegradable plastic beverage containers can be crushed completely flat by refuse compactors.",
+        "id": 793
+    },
+    {
+        "context": "Question: Which one of the following arguments is most similar in its reasoning to the argument above?\n(a) A number of people who die prematurely take aspirin. But it is unreasonable to conclude that aspirin is dangerous. Most people who take aspirin do not die prematurely.\n(b) Even though many cancer patients experience remissions without drinking herbal tea, it is unreasonable to believe that not drinking herbal tea causes such remissions. Several factors are known to be relevant to cancer remission.\n(c) Many people who undergo surgery for ulcers show no long-term improvement. So it is unreasonable to believe that surgery for ulcers is effective, even though ulcer surgery benefits many people as well.\n(d) A significant number of children raised near power lines develop cancer. So it is unreasonable to deny a connection between living near power lines and developing cancer, even though many people living near power lines never develop cancer.",
+        "id": 3073
+    },
+    {
+        "context": "Question: If the statements above are true, which one of the following must also be true on the basis of them?\n(a) The crust of Mars, at least at certain points on the planet, is thicker than the crust of the Earth.\n(b) On average, volcanoes on Mars are higher than those on Earth.\n(c) The surface of Mars is less subject to forces of erosion than is the surface of the Earth.\n(d) The highest volcanoes on Mars occur where its crust is thickest.",
+        "id": 1852
+    },
+    {
+        "context": "Question: The analyst's statements, if true, most strongly support which one of the following statements about the analyst's country?\n(a) There currently is no natural-gas-powered electrical generation station near any of the three largest bodies of water.\n(b) Future electrical needs will have to be met by alternatives to natural-gas-powered generation.\n(c) If a new natural-gas -powered electrical station is built in a region, many residents will move away from that region.\n(d) No site would be suitable for constructing a natural-gas-powered electrical station unless the existing system of natural-gas pipelines is expanded.",
+        "id": 882
+    },
+    {
+        "context": "Question: The pattern of flawed reasoning exhibited by the argument above is most similar to that exhibited by which one of the following?\n(a) If a shirt is made of quality material and is unwrinkled, it will always be in style. Since Larry's shirt is made of quality material, his shirt will always be in style.\n(b) The right mixture of red and blue paint, properly mixed and poured will always produce the perfect shade of purple. Since the artist has properly mixed and poured the right mixture of red and blue paint, she will have the perfect shade of purple.\n(c) Putting stain remover on a stain and care- fully soaking the garment in cold water before washing it will ensure that the stain does not set. Marie carefully soaked the garment in cold water before washing it, so since she put stain remover on the stain before washing it, the stain is certain not to have set.\n(d) Onions, carefully browned and served on hamburgers, always produces a delicious entree. Since Renee has made a hamburger, but has not carefully browned onions, her hamburger will not be a delicious entree.",
+        "id": 3266
+    },
+    {
+        "context": "Question: Which one of the following is an issue about which Susan and Robert disagree?\n(a) whether humans should prevent plant extinction\n(b) whether animals should be prevented from extinction\n(c) whether plants should be treated humanely\n(d) whether humans should exploit plants for human benefit",
+        "id": 3329
+    },
+    {
+        "context": "Question: The main point of the argument is that\n(a) research efforts aimed at discovering how to change the climate of Mars are justified\n(b) it is probably technologically possible for humankind to alter the climate of Mars\n(c) efforts to change the climate of Mars could facilitate understanding of the Earth's climate\n(d) it would take several centuries to make Mars even marginally inhabitable",
+        "id": 4226
+    },
+    {
+        "context": "Question: Which of the following, if true, provides the best reason for the expectation?\n(a) The change to Rapilux Tires in most Diomedes models moves those models to the highest safety rating category; several national consumer advocacy groups give focused advertising to cars in this category.\n(b) Some of the tires previously used on these particular Diomedes models are being phased out by those tire manufacturers, and would have to be replaced anyway, and no tire that would fit these Diomedes Models is any cheaper than the Rapilux Tires chosen.\n(c) The new Rapilux Tires facilitate loading the new cars onto the trucks that deliver them to the Diomedes showroom.\n(d) Few car buyers are likely to decide against buying a Diomedes Motors model simply because it now comes with Rapilux Tires.",
+        "id": 513
+    },
+    {
+        "context": "Question: Which one of the following, if true, most justifies the stated application of the principle?\n(a) No issue relevant to Terry could be relevant to a majority of those attending the meeting.\n(b) If Terry attends the meeting a different set of issues will be relevant to a majority of those attending than if Terry does not attend.\n(c) If Terry makes a presentation at the meeting, the meeting will not be kept short.\n(d) The majority of the issues to be addressed at the meeting are not relevant to Terry.",
+        "id": 892
+    },
+    {
+        "context": "Question: Which one of the following most accurately states the conclusion drawn in the argument?\n(a) Gigantic planes currently being developed will have enough space in them to hold shops and lounges as well as passenger seating.\n(b) The additional space in the gigantic planes currently being developed is more likely to be filled with passenger seating than with shops and lounges.\n(c) The number of passengers flying the air-traffic system is expected to triple within 20 years.\n(d) In 20 years, it will be impossible for airports to accommodate enough normal-sized planes to carry the number of passengers that are expected to be flying then.",
+        "id": 2099
+    },
+    {
+        "context": "Question: Which one of the following most accurately expresses the conclusion drawn in the argument above?\n(a) If one's mind becomes impossible to fully comprehend, one will always be a mystery to others.\n(b) If one constantly broadens one's abilities and extends one's intellectual reach, one will always have curiosity.\n(c) If one constantly broadens one's abilities and extends one's intellectual reach, one will be able to inspire the perpetual curiosity of others.\n(d) To inspire the perpetual curiosity of others, one must constantly broaden one's abilities and extend one's intellectual reach.",
+        "id": 2590
+    },
+    {
+        "context": "Question: The dialogue provides the most support for the claim that Edgar and Rafaela disagree over whether\n(a) the order to shut down the pumps was legal\n(b) shutting down the pumps will actually inconvenience a large number of people\n(c) shutting down the pumps will be sufficient to protect the fish species\n(d) the survival of the fish species is the only reason for shutting down the pumps",
+        "id": 2928
+    },
+    {
+        "context": "Question: Which one of the following, if true, does the most to justify the conclusion of the resident's argument?\n(a) Residents of this locale do not value a rural way of life more than they value economic prosperity.\n(b) The development of high-tech industry is more valuable to national security than is farming.\n(c) The loss of a family farm is often perceived as tragic even when no financial hardship results.\n(d) Many residents of this locale have annual incomes that are twice what they were when the locale was primarily agricultural.",
+        "id": 1868
+    },
+    {
+        "context": "Question: The statements above, if true, most strongly support which one of the following?\n(a) The humidity in the museum is lower today than it was when the older displays were first put in place.\n(b) The displays that are lit by many compact fluorescent lamps are more prone to deterioration than the displays that are lit by a few tungsten lamps.\n(c) Some of the older displays will last longer if the tungsten lamps that illuminate them are replaced by compact fluorescent lamps.\n(d) More of the displays are lit by compact fluorescent lamps than are lit by tungsten lamps.",
+        "id": 2819
+    },
+    {
+        "context": "Question: Which one of the following can be properly inferred from the statements above?\n(a) Widely available commercial fertilizers are not alone sufficient to maintain a healthy balance of nutrients in soil for lawns where grass clippings are not allowed to decay and return to the soil.\n(b) Homeowners who rake up their grass clippings are unable to maintain the long-term health of the soil in their lawns and gardens.\n(c) There is no single fertilizer that provides both the macronutrients and micronutrients necessary for maintaining soil's long-term health.\n(d) For soil to remain healthy in the long term, it requires the regular addition of both commercial fertilizers and a source of micronutrients such as grass clippings that are allowed to decay and return to the soil.",
+        "id": 3854
+    },
+    {
+        "context": "Question: In the argument, the anthropologist\n(a) calls an explanation of a phenomenon into question by pointing out that observations cited as evidence supporting it are also compatible with an alternative explanation of the phenomenon\n(b) describes a hypothesis about the sequence of events involved in the origins of a phenomenon, and then argues that those events occurred in a different sequence\n(c) establishes that an explanation of a phenomenon is false by demonstrating that the evidence that had been cited in support of that explanation was inadequate\n(d) argues in support of one explanation of a phenomenon by citing evidence incompatible with a rival explanation",
+        "id": 2438
+    },
+    {
+        "context": "Question: Which one of the following, if true, would do most to resolve the apparent discrepancy described above?\n(a) Many types of primates other than humans have fairly large neocortex regions and display frequent social grooming.\n(b) Early humans were not as extensively covered with hair as are other primates, and consequently they had less need for social grooming.\n(c) While early humans probably lived in large groups, there is strong evidence that they hunted in small groups.\n(d) Early humans developed languages, which provided a more effective way of maintaining social cohesion than social grooming.",
+        "id": 3353
+    },
+    {
+        "context": "Question: Which of the following, if true, most strengthens the argument?\n(a) Participants who were depressed at the study's start were no more likely to be smokers at the study's end than those who were not depressed.\n(b) Participants who began smoking within a month of the study's start were no more likely than those who began midway through to have quit smoking by the study's end.\n(c) Some participants entered and emerged from a period of depression within the year of the study.\n(d) Few, if any, of the participants in the study were friends or relatives of other participants.",
+        "id": 3277
+    },
+    {
+        "context": "Question: Which of the following statements, if true, would cast the most doubt on the conclusion drawn above?\n(a) Ground-based telescopes located on mountain summits are not subject to the kinds of atmospheric distortion which, at low altitudes, make stars appear to twinkle.\n(b) By careful choice of observatory location, it is possible for large-aperture telescopes to avoid most of the kind of wind turbulence that can distort image quality.\n(c) Detailed spectral analyses, upon which astronomers rely for determining the chemical composition and evolutionary history of stars, require telescopes with more light-gathering capacity than space telescopes can provide.\n(d) When large-aperture telescopes are located at high altitudes near the equator, they permit the best Earth-based observations of the center of the Milky Way Galaxy, a prime target of astronomical research.",
+        "id": 1881
+    },
+    {
+        "context": "Question: The city leader's statements, if true, provide the most support for which one of the following?\n(a) It would be reasonable for the city to adopt the new tourism plan.\n(b) In general, it is reasonable for the city to spend money to try to convince manufacturing companies to build plants in the city.\n(c) The city should implement the least expensive job creation measures available.\n(d) The only way the city can create jobs is by increasing tourism.",
+        "id": 3343
+    },
+    {
+        "context": "Question: Which of the following, if true, provides the best basis for a rebuttal of the criticism?\n(a) A conventional landscape generally requires a much greater expenditure on fertilizer and herbicide than does a water-conserving landscape.\n(b) Even homeowners whose yards do not have water-conserving landscapes can conserve water by installing water-saving devices in their homes.\n(c) A significant proportion of the residents of the city live in buildings that do not have yards.\n(d) Some homeowners use more water to maintain their yards than they use for all other purposes combined.",
+        "id": 1601
+    },
+    {
+        "context": "Question: The statements above, if true, most strongly support which one of the following conclusions about the last ice age and its aftermath in North America?\n(a) Ice masses continued to advance through North America for several hundred years after the end of the ice age.\n(b) Toward the end of the ice age, warmth-adapted open-ground beetles ceased to inhabit areas where the predominant tree cover consisted of spruce forests.\n(c) Among those sediments deposited toward the end of the ice age, those found to contain cold-adapted arctic beetle fragments can also be expected to contain spruce-pollen grains.\n(d) Toward the end of the ice age, warmth-adapted open-ground beetles colonized the new terrain opened to them faster than soil changes and seed dispersion established new spruce forests.",
+        "id": 2509
+    },
+    {
+        "context": "Question: Which one of the following principles, if valid, justifies the archaeologist's argument?\n(a) Any restoration of an archaeological site should represent only the most ancient period of that site's history.\n(b) The risk of losing evidence relevant to possible future theories should outweigh any advantages of displaying the results of theories already developed.\n(c) Only those with a true concern for an archaeological site's history should be involved in the restoration of that site.\n(d) The ownership of archaeological sites should not be under the control of business interests.",
+        "id": 3930
+    },
+    {
+        "context": "Question: Which one of the following, if true, most strengthens the argument?\n(a) The fatality rate in highway accidents involving motorists driving faster than 55 miles per hour is much higher than in highway accidents that do not involve motorists driving at such speeds.\n(b) There was no decline in the rate of highway fatalities during the twelfth year following the reduction in the speed limit.\n(c) Motorists are more likely to avoid accidents by matching their speed to that of the surrounding highway traffic than by driving at faster or slower speeds.\n(d) The 1974 fuel shortage cut driving sharply for more than a year.",
+        "id": 4567
+    },
+    {
+        "context": "Question: Which one of the following best describes the main point in dispute?\n(a) The best way for the studio to communicate its feedback is always through \"notes. \"\n(b) Critical acclaim is more important than box office success.\n(c) More than one person should be involved in the creative process.\n(d) Test screenings are a waste of money.",
+        "id": 1036
+    },
+    {
+        "context": "Question: The pattern of reasoning in the argument above is most similar to that in which one of the following arguments?\n(a) Mr. Schwartz is polite to anyone who is polite to him. So, since all of his colleagues are polite to him, it must be that he is polite to all his colleagues.\n(b) If articles use specialized technical terminology, they are not widely read. So, since all academic works use specialized technical terminology, articles are not widely read if they are academic works.\n(c) Professor Attah gives students high grades if she thinks their work is greatly improved. So, since she gives some of her students high grades, she thinks those students' work is greatly improved.\n(d) If a biography is unbiased, it contains embarrassing facts about its subject. So, since not all biographies contain embarrassing facts about their subjects, not all biographies are unbiased.",
+        "id": 363
+    },
+    {
+        "context": "Question: The argument is most vulnerable to the criticism that\n(a) for early inhabitants of North America the destruction of mastodons, woolly mammoths, and saber-toothed tigers might have had very different significance than the extinction of mammal species does for modern humans\n(b) in calling the idea that humans once lived in harmony with nature a myth the argument presupposes what it attempts to prove\n(c) the evidence it cites is consistent with the alternative hypothesis that the large mammals' extinction was a direct result of the same change in climate that allowed humans to spread across North America\n(d) there might have been many other species of animals, besides mastodons, woolly mammoths, and saber-toothed tigers, that became extinct as the result of the spread of humans across North America",
+        "id": 888
+    },
+    {
+        "context": "Question: Which one of the following most logically completes the professor's argument?\n(a) the state governor should have followed the usual bidding process.\n(b) the state governor is guilty of violating the anti-corruption statute.\n(c) the state governor is not guilty of violating the anti-corruption statute.\n(d) the state governor broke the spirit of the law, while abiding by the strict letter of the law.",
+        "id": 1921
+    },
+    {
+        "context": "Question: Which one of the following is LEAST compatible with the results of the gamma interferon experiment?\n(a) Gamma interferon stops white blood cells from producing myelin-destroying compounds.\n(b) Administering gamma interferon to those without multiple sclerosis causes an increase in the number of white blood cells.\n(c) The drug now used to treat multiple sclerosis is known to inhibit the activity of gamma interferon.\n(d) Medical researchers have discovered that the gamma interferon level in the cerebrospinal fluid skyrockets just before and during multiple sclerosis attacks.",
+        "id": 128
+    },
+    {
+        "context": "Question: Which one of the following arguments is flawed in a way most similar to the way in which the passage is flawed?\n(a) All great photographers are artists. Some artists are intellectuals. Therefore, some great photographers are intellectuals.\n(b) All great photographers are artists. No artists are intellectuals. Therefore, some great photographers must not be intellectuals.\n(c) All great photographers are artists. Some great photographers are intellectuals. Therefore, some artists must be intellectuals.\n(d) All great photographers are artists. All artists are intellectuals. Therefore, some great photographers must be intellectuals.",
+        "id": 2414
+    },
+    {
+        "context": "Question: Which one of the following, if true, would most seriously undermine the claim that the explanation given above is the only available one?\n(a) Cattle egrets are not generally known to live outside the range of large, slow-moving animals.\n(b) The presence of cattle dissuades many would- be predators of the cattle egret.\n(c) Forests are generally inhospitable to cattle egrets because of a lack of insects of the kind egrets can consume.\n(d) Cattle egrets are known to follow other slow- moving animals, such as rhinoceroses and buffalo.",
+        "id": 3649
+    },
+    {
+        "context": "Question: Which one of the following, if true, most strengthens the argument?\n(a) The dolphins often exhibit complex new responses to the hand signal.\n(b) Some of the behaviors mentioned are exhibited by dolphins in their natural habitat.\n(c) Dolphins do not interact with humans the way they interact with one another.\n(d) The dolphins are given food incentives as part of their training.",
+        "id": 2667
+    },
+    {
+        "context": "Question: The professor's argument proceeds by\n(a) making a case for the conclusion of one argument by showing that argument's resemblance to another, presumably cogent, argument\n(b) attempting to show that one piece of reasoning is incorrect by comparing it with another, presumably flawed, piece of reasoning\n(c) arguing that because something has a certain group of characteristics, it must also have another, closely related, characteristic\n(d) arguing that a type of human cognition is unreliable in one instance because it has been shown to be unreliable under similar circumstances",
+        "id": 3991
+    },
+    {
+        "context": "Question: Which of the following most logically completes the argument below?\n(a) when elephants forage for food, they typically travel in herds.\n(b) Elephants tend to prefer cultivated crops to wild vegetation as a food source.\n(c) Some of the land where crops have suffered extensive damage from elephants has been allowed to return to its natural state.\n(d) Elephant sanctuaries are usually created in areas that are rich in the natural vegetation on which elephants have historically depended.",
+        "id": 2070
+    },
+    {
+        "context": "Question: Which one of the following statements, if true, most strengthens the argument?\n(a) Most of the lead seals produced during the early Byzantine Empire were affixed to documents that have since been destroyed.\n(b) During the time of the early Byzantine Empire there were fewer than 40, 000 seals affixed to documents at any given time.\n(c) Most of the lead seals produced during the early Byzantine Empire were affixed to documents that were then opened during that period.\n(d) During the time of the early Byzantine Empire there were at most 40, 000 documents of enough importance to prevent the removing and recycling of the seal.",
+        "id": 2117
+    },
+    {
+        "context": "Question: Which one of the following, if true, most seriously weakens the argument?\n(a) The company that did the tally receives more service requests for ProBit brand computers than does any other independent computer service company.\n(b) The computer brands covered in the computer service company's tally differ greatly with respect to their market share.\n(c) For some computer brands, but not for others, most service requests are made to the manufacturer's service department rather than to an independent service company.\n(d) ProBit has been selling personal computers for many more years than has KRV.",
+        "id": 1351
+    },
+    {
+        "context": "Question: The argument in the passage proceeds by doing which one of the following?\n(a) concluding that since an expected consequence of a supposed development did not occur, that development itself did not take place\n(b) concluding that since the evidence concerning a supposed change is ambiguous, it is most likely that no change is actually taking place\n(c) arguing that since two alternative developments exhaust all the plausible possibilities, one of those developments occurred and the other did not\n(d) arguing that since people's economic behavior is guided by economic self-interest, only misinformation or error will cause people to engage in economic behavior that harms them economically",
+        "id": 210
+    },
+    {
+        "context": "Question: Which one of the following is the main point of the passage as a whole?\n(a) People's love of the wilderness can be used to engender political support for conservation efforts.\n(b) Without increased public sympathy for conservation, the needs of many symbolic species will go unmet.\n(c) The conservation of bald eagles is the first necessary step in conserving other endangered species.\n(d) Because bald eagles symbolize freedom, conservation efforts should be concentrated on them rather than on other, more obscure species.",
+        "id": 4575
+    },
+    {
+        "context": "Question: If all of the statements above are true, then which one of the following must be true?\n(a) If the present administration is economically successful, then it is an overall success.\n(b) If the present administration had been economically successful, it would have cared for the environment.\n(c) The present administration is not an overall success.\n(d) The present administration is economically successful.",
+        "id": 4462
+    },
+    {
+        "context": "Question: Which one of the following most accurately describes the role played in the argument by the statement that zooplankton feed upon phytoplankton?\n(a) It helps show how global temperature changes affect larger sea animals indirectly.\n(b) It is intended to provide an example of the ways in which the vertical mixing of seawater affects feeding habits.\n(c) It is offered in support of the idea that global warming poses a threat to all organisms.\n(d) It is offered as one reason that global warming must be curtailed.",
+        "id": 1418
+    },
+    {
+        "context": "Question: Which one of the following is most strongly supported by the information above?\n(a) Television has, over the years, brought about a reduction in the amount of per capita reading in North America.\n(b) Book publishers in North America now sell fewer copies per title than they sold in the early days of television.\n(c) The availability of television does not always cause a decline in the annual number of book titles published or in the number of books sold.\n(d) The introduction of television usually brings about a decrease in library use.",
+        "id": 2449
+    },
+    {
+        "context": "Question: Which one of the following, if true, most helps to explain all the data from the study?\n(a) Most insomniacs sleep better in a new environment, and the new drug has no effect on an insomniac's ability to sleep.\n(b) Some insomniacs cannot reliably determine how much sleep they have had or how well they have slept.\n(c) The psychological comfort afforded by the belief that one has taken a sleep-promoting drug is enough to prevent most episodes of insomnia.\n(d) The new drug is very similar in chemical composition to another drug, large doses of which have turned out to be less effective than expected.",
+        "id": 3952
+    },
+    {
+        "context": "Question: Which of the following, if true, most strengthens the argument?\n(a) Different insurance companies have different standards for determining what constitutes emergency treatment.\n(b) There are fewer traffic accidents annually in Sparva than in any of the provinces of comparable or greater population.\n(c) The cost of medical care in Sparva is higher than the national average.\n(d) Fewer insurance companies operate in Sparva than in any other province.",
+        "id": 1471
+    },
+    {
+        "context": "Question: The argument's conclusion can be properly drawn if which one of the following is assumed?\n(a) If the e-mail does not elsewhere suggest that the client do anything illegal, then the company does not need legal protection.\n(b) Some of the tax preparation company's clients would try to illegally evade penalties if they knew how to do so.\n(c) At least some of the recipients of the company's e-mails will follow the advice contained in the body of at least some of the e-mails they receive.\n(d) A disclaimer that is included in every e-mail message sent by a company will tend to be ignored by recipients who have already received many e-mails from that company.",
+        "id": 810
+    },
+    {
+        "context": "Question: If the information above is correct, which one of the following conclusions can be properly drawn on the basis of it?\n(a) People are more likely to have an incorrectly prepared tax return if they prepare their own tax returns than if they hire a professional income-tax advisor.\n(b) All professional income-tax advisors make mistakes on at least some of the tax returns they prepare.\n(c) In order to insure that tax returns are correct, it is necessary to hire professional income-tax advisors to prepare them.\n(d) The fact that a tax return has been prepared by a professional income-tax advisor provides no guarantee that the tax return has been correctly prepared.",
+        "id": 1486
+    },
+    {
+        "context": "Question: Which one of the following individual's actions best adheres to the religious scholar's moral code?\n(a) Jorge caught his wife in the midst of an extra-marital affair with a co-worker. Naturally, he was extremely angry. Jorge wanted to physically harm his unfaithful wife and her treacherous coworker. But he remembered the words of the Sixth Commandment -- thou shall not kill -- and walked out of the room before he lost control.\n(b) Every weekend, Arianna volunteers at a soup kitchen run by her church. She also donates a substantial part of her paycheck to children's cancer charities.\n(c) Carlos visits his grandmother every weekend. She's an old bitter woman, and the rest of her family refuses to visit her except on special occasions. However, Carlos started practicing a new religion, which demands its followers respect the elderly.\n(d) Elizabeth baby sat her sister's four kids over the weekend. She had recently been studying Eastern religious practices and learned of the karmic principle, which states that an individual will be rewarded for his or her good deeds. Elizabeth hoped babysitting would help her chances at getting an overdue promotion at work.",
+        "id": 2318
+    },
+    {
+        "context": "Question: Marta responds to James's argument by\n(a) pointing out a fact that James, in drawing his conclusion, did not take into account\n(b) indicating that James is assuming the truth of the conclusion that he intends to establish\n(c) casting doubt on the accuracy of the claims made by James in support of his conclusion\n(d) questioning the credibility of advocates of nuclear power",
+        "id": 3347
+    },
+    {
+        "context": "Question: Mario uses which of the following argumentative strategies in answering Linda?\n(a) pointing out that his opponent's arguments are based on self-contradictory premises\n(b) expanding the context of the problem in order to make the governor's proposal appear more equitable\n(c) disagreeing that arbitrary concerns like fairness are relevant to the discussion\n(d) arguing that programs that benefit the state as a whole benefit all citizens in the state",
+        "id": 2047
+    },
+    {
+        "context": "Question: Which of the following, if true, does the most to explain the situation described?\n(a) Moderately visually impaired people who are still allowed to drive typically do not use Braille to read or write.\n(b) Blind people can often read Braille just as quickly and accurately as sighted people can read regular writing.\n(c) The embossing technique used to form the raised dots does not typically add much to the overall cost of the automated teller machine.\n(d) In order to maximize profits per unit, manufacturers produce only a single model of automated teller machine.",
+        "id": 1970
+    },
+    {
+        "context": "Question: Which of the following patterns of reasoning is most similar to that in the paragraph above?\n(a) In school districts that use standardized tests, student achievement is lower than in other districts. Therefore, eliminating standardized tests will increase student achievements in these districts.\n(b) Children who attend schools with diverse populations are more likely to participate in community service projects. Since diverse populations in schools lead to increased community service participation, then all schools should have diverse populations.\n(c) If the new budget does not pass this election, a new school cannot be built to alleviate the overcrowding at the existing school. Voters will not continue to tolerate overcrowding at the existing school so the new budget will pass.\n(d) Older children function less well at earlier hours than younger children. Therefore, it makes more sense to have the elementary school students start earlier than high school students because this may lead to increased productivity.",
+        "id": 1003
+    },
+    {
+        "context": "Question: Which one of the following university policies most justifies the decision to revoke Meyer's PhD?\n(a) Anyone who holds a PhD from the University of Williamstown and is found to have committed scientific fraud will have the PhD revoked.\n(b) Anyone who holds a PhD from the University of Williamstown and is found to have committed academic fraud in the course of pursuing that PhD will have the PhD revoked.\n(c) No PhD program at the University of Williamstown will admit any applicant who has been determined to have committed any sort of academic fraud.\n(d) Any University of Williamstown student who is found to have submitted falsified data as academic work will be dismissed from the university.",
+        "id": 2536
+    },
+    {
+        "context": "Question: The answer to which one of the following questions would most help in evaluating the argument?\n(a) Was the ratio of the head size of the recently discovered dinosaur to its body size the same as that for T. rex?\n(b) At what stage in its life did the recently discovered dinosaur die?\n(c) Did the recently discovered dinosaur prey on species as large as those that T. rex preyed on?\n(d) Was T. rex the largest and heaviest prehistoric predator?",
+        "id": 4101
+    },
+    {
+        "context": "Question: Which one of the following would, if true, most weaken the psychologist's argument?\n(a) The physiological factors that cause permanently high blood pressure generally make people quick to anger.\n(b) Those who are easily angered are less likely to recover fully from episodes of heart disease than are other people.\n(c) Those who discover that they have heart disease tend to become more easily frustrated by small difficulties.\n(d) People with permanently high blood pressure who have tranquil personalities virtually never develop heart disease.",
+        "id": 2258
+    },
+    {
+        "context": "Question: The argument is flawed because it takes for granted that\n(a) what is true of a whole is also true of its constituent elements\n(b) the Arctic Circle and Tierra del Fuego do not constitute geographically isolated areas\n(c) what is true of the constituent elements of a whole is also true of the whole\n(d) because ants do not inhabit only a small niche in a geographically isolated area, they are unlike most other insects",
+        "id": 3739
+    },
+    {
+        "context": "Question: Which one of the following, if true, most seriously weakens the argument?\n(a) Lobsters, like other crustaceans, live longer in the open ocean than in industrial harbors.\n(b) Lobsters breed as readily in sewage-contaminated water as in unpolluted water.\n(c) Contaminants in the harbor other than sewage are equally harmful to lobsters.\n(d) Humans often become ill as a result of eating lobsters with gill diseases.",
+        "id": 1566
+    },
+    {
+        "context": "Question: Which one of the following most logically completes the argument?\n(a) modern society is characterized by greater injustice and unpleasantness than were preagricultural societies\n(b) in modern societies, people must rely on technology to effectively predict and interpret other people's actions\n(c) interpersonal relations in modern societies are less stable and less predictable than they were in preagricultural societies\n(d) the most important difference between modern and preagricultural societies is the variety and type of social roles permitted in each",
+        "id": 2632
+    },
+    {
+        "context": "Question: In the historian's argument, the two portions in boldface play which of the following roles?\n(a) The first is a position for which the historian argues; the second is an assumption that serves as the basis of that argument.\n(b) The first provides a context for certain evidence that supports the position that the historian seeks to establish; the second is that position.\n(c) The first presents evidence to support the position that the historian seeks to establish; the second acknowledges a consideration that has been used to argue against that position.\n(d) The first is an assumption that the historian explicitly makes in arguing for a certain position; the second acknowledges a consideration that calls that assumption into question.",
+        "id": 3711
+    },
+    {
+        "context": "Question: Which one of the following is an assumption required by the critic's argument?\n(a) Most plays that were once classified as tragedies were misclassified.\n(b) If an ignoble character in a work of literature endures through a series of misfortunes, that work of literature is not a tragedy.\n(c) The belief that human endeavors are governed by fate is false.\n(d) Those whose endeavors are not regarded as governed by fate will not be seen as possessing nobility.",
+        "id": 2896
+    },
+    {
+        "context": "Question: If the statements above are all true, which one of the following must also be true?\n(a) There are no prerequisites for the course in experimental design.\n(b) The course in experimental design is an easier course than the course in developmental psychology.\n(c) Anyone who earns a degree in psychology from the university Angela attends will have completed the course in experimental design.\n(d) Once Angela completes the developmental psychology course, she will have earned a degree in psychology.",
+        "id": 1879
+    },
+    {
+        "context": "Question: Which one of the following principles, if valid, most helps to justify the nylon industry spokesperson's reasoning?\n(a) A substance is natural if the origins of its main components are natural.\n(b) A substance is unnatural only if the function it serves is unnatural.\n(c) A substance is no more natural than its least natural component.\n(d) A substance is no less natural than the processes used in its production.",
+        "id": 4069
+    },
+    {
+        "context": "Question: The flawed pattern of reasoning in which one of the following is most similar to that in the advertisement above?\n(a) When cooking spaghetti, you should add the salt to the water when the water is already boiling, since the spaghetti takes on a bitter flavor otherwise.\n(b) Tuff-Grip tires are the ones to choose, since in trials by a consumer magazine they were found to be the most durable and the safest.\n(c) If you are not going to use butter for frying, you should use olive oil, since European chefs use olive oil.\n(d) The lubricant to select for locks is graphite, since unlubricated locks are stiffer than locks lubricated with graphite and sometimes freeze completely.",
+        "id": 3263
+    },
+    {
+        "context": "Question: Which one of the following, if true, most helps to resolve the apparent conflict in the consumer activist's statements?\n(a) Antilock brakes are no more effective in preventing multiple-car accidents than in preventing other kinds of traffic accidents.\n(b) For inexperienced drivers, antilock brakes are easier to use correctly than are traditional brakes.\n(c) Drivers and passengers in automobiles with antilock brakes feel less vulnerable, and are thus less likely to wear seat belts.\n(d) Under some circumstances, automobiles with traditional brakes stop just as quickly as do automobiles with antilock brakes.",
+        "id": 3734
+    },
+    {
+        "context": "Question: Wong's and Tate's statements provide the most support for the claim that they disagree over the truth of which one of the following?\n(a) The freedom and autonomy that democracy provides are of genuine value.\n(b) All democracies succeed in meeting the simple material needs of people.\n(c) Nothing is more important to a country than the freedom and autonomy of the individuals who live in that country.\n(d) There are some countries that are better off as autocracies than as democracies.",
+        "id": 3185
+    },
+    {
+        "context": "Question: Which of the following most logically completes the passage?\n(a) where air pollution is not especially severe, predators have much more impact on leaf-beetle populations than parasites do\n(b) willows often grow in areas where air pollution is especially severe\n(c) neither the predators nor the parasites of leaf beetles themselves attack willow trees\n(d) the parasites that attack leaf beetles actually tend to be more prevalent in areas with severe air pollution than they are elsewhere",
+        "id": 2491
+    },
+    {
+        "context": "Question: Which one of the following principles, if valid, provides the most support for the legal theorist's argument?\n(a) Governments should not be allowed to compel corporate officials to surrender interoffice memos to government investigators.\n(b) Governments should not have the power to confiscate an individual's personal correspondence to use as evidence against the individual in a criminal trial.\n(c) When crime is a serious problem, governments should be given increased power to investigate and prosecute suspected wrongdoers, and some restrictions on admissible evidence should be relaxed.\n(d) Governments should not be allowed to use an individual's remarks to prosecute the individual for criminal activity unless the remarks were intended for other people.",
+        "id": 1682
+    },
+    {
+        "context": "Question: In order to evaluate the argument, it would be most useful to determine which of the following?\n(a) Whether a large majority of the computer owners in the survey reported spending increasing amounts of time per week using computers\n(b) Whether the survey collected information about the amount of money respondents spent on free-time media use\n(c) Whether the amount of time spent watching television is declining among people who report that they rarely or never use computers\n(d) Whether the survey respondents' reports of time spent using computers included time spent using computers at work",
+        "id": 4188
+    },
+    {
+        "context": "Question: Which of the following would be the most important to determine in order to evaluate the argument?\n(a) Whether the range of the grey fox within the park extends all the way to the coast.\n(b) Whether other coastal areas in the state have seen an increase in the number of blue-tipped puffers over the last decade.\n(c) How the speed of a blue-tipped puffer during take-off from the ground compares to the speed of a grey fox running\n(d) What other birds and small mammals the grey fox typically hunts besides the blue-tipped puffers.",
+        "id": 3165
+    },
+    {
+        "context": "Question: The situation as described above most closely conforms to which one of the following generalizations?\n(a) Toddlers do not recognize that by biting people they often thwart their own ends.\n(b) Biting people is sometimes a way for toddlers to try to solve problems.\n(c) Toddlers sometimes engage in biting people in order to get attention from adults.\n(d) Resorting to biting people is in some cases an effective way for toddlers to get what they want.",
+        "id": 3259
+    },
+    {
+        "context": "Question: Which one of the following statements most accurately expresses the main conclusion of the argument?\n(a) Information written on paper is more readily accessible than the contents of digital documents.\n(b) Digitally stored information is particularly vulnerable because of the two-step process required to retrieve it.\n(c) Historically important records from the present era may be lost because of the medium in which they are stored.\n(d) The obsolescence brought about by ongoing technological innovation will make historical research increasingly difficult in the future.",
+        "id": 1818
+    },
+    {
+        "context": "Question: Which one of the following is an assumption that the art historian's argument requires in order for its conclusion to be properly drawn?\n(a) Art used to be more shocking than it currently is.\n(b) Most art is shocking.\n(c) Public funds should support art.\n(d) Anything that shocks is art.",
+        "id": 3066
+    },
+    {
+        "context": "Question: Which one of the following, if true, could contribute most to explaining the discrepancy between the reported percentages?\n(a) The total number of garments produced by the manufacturer has increased slightly over the past year.\n(b) Some inspectors, in order to appear more efficient, tend to overreport defects.\n(c) Garments with minor blemishes are sent to wholesale outlets for sale at discounted prices and are not returned for recycling.\n(d) Insalable garments are recorded by count, but recycled garments are recorded by weight.",
+        "id": 1234
+    },
+    {
+        "context": "Question: The strength of the argument depends upon which one of the following?\n(a) Journalists should only use anonymous sources.\n(b) All journalists work for national newspapers.\n(c) Journalists should only use anonymous sources under extraordinary circumstances.\n(d) The government has never infringed on the freedom of press.",
+        "id": 1620
+    },
+    {
+        "context": "Question: On the basis of their statements, Anju and Sanjeev are committed to disagreeing about which one of the following?\n(a) Socially responsible companies offer better pay than companies that are not socially responsible.\n(b) Funding social programs is required for a business to be socially responsible.\n(c) To be socially responsible, it is not enough for a company to make fine products.\n(d) Adkjos treats its employees and customers well.",
+        "id": 4254
+    },
+    {
+        "context": "Question: The argument requires the assumption of which one of the following?\n(a) The knowledge of human experts cannot be adequately rendered into the type of information that a computer can store.\n(b) Computers can show no more originality in responding to a situation than that built into them by their designers.\n(c) Future advances in computer technology will not render computers capable of sorting through greater amounts of information.\n(d) Human experts rely heavily on intuition while they are developing a repertory of model situations.",
+        "id": 1308
+    },
+    {
+        "context": "Question: Which one of the following most accurately describes a flaw in the argument's reasoning?\n(a) The argument confuses a necessary condition for a phenomenon with a sufficient condition for that phenomenon .\n(b) The argument assumes the truth of the conclusion for which it purports to be providing evidence.\n(c) The argument attempts to establish the falsehood of a proposition by criticizing the reasoning of those who assert its truth.\n(d) The argument presumes, without providing warrant, that because certain conditions only sometimes precede a certain phenomenon, these conditions always bring about the phenomenon .",
+        "id": 2035
+    },
+    {
+        "context": "Question: Which of the following, if true, provides the most additional support for the conclusion drawn above?\n(a) There is less danger that a transplanted organ will be rejected when the organ donor is a, close relative of the recipient.\n(b) In removing the portion of liver for transplant there is danger of causing damage to the spleen of the donor, and that could necessitate the removal of the spleen.\n(c) Each lobe of the liver functions separately, and it is possible to extract a portion of one lobe without disrupting critical liver functions.\n(d) There are so few suitable donors that about one-half of the babies with liver disease born in the United States each year die before they can receive a liver transplant.",
+        "id": 659
+    },
+    {
+        "context": "Question: Which one of the following can be logically concluded from the information above?\n(a) Not all substances to which people can become physically addicted are psychoactive.\n(b) If one is physically addicted to a psychoactive substance, one will become unusually depressed when one is no longer ingesting that substance.\n(c) If alcohol is a physically addictive psychoactive substance, there are not more people who consume alcohol than consume caffeine.\n(d) There is no psychoactive substance to which more people are physically addicted than are addicted to caffeine.",
+        "id": 3432
+    },
+    {
+        "context": "Question: The medical school professor's statements, if true, most strongly support which one of the following?\n(a) Doctors foster, by their actions, the perception that they do not really care about their patients.\n(b) Malpractice suits brought against doctors are, for the most part, unjustified.\n(c) The scientific outlook in medicine should be replaced by an entirely different approach to medicine.\n(d) Economic incentives to treat patients rudely are the main cause of doctors being sued for malpractice.",
+        "id": 1499
+    },
+    {
+        "context": "Question: The passage tries to establish an artist's obligation by arguing that\n(a) acting this way would allow others to obtain a benefit such as the one that this artist has obtained in the past\n(b) this person had in fact, at an earlier time, made a tacit promise to act this way\n(c) this person has benefited from other people's acting in just this way in the past\n(d) this person, by acting this way, would provide general benefits with a value exceeding the cost to the person of acting this way",
+        "id": 3712
+    },
+    {
+        "context": "Question: Which one of the following contains an error of reasoning most similar to that made in the argument above?\n(a) Someone who is neither an ophthalmologist nor an optometrist lacks specialized training for diagnosing defects of the eye. Therefore, Kim must have been trained in ophthalmology or optometry, given that she accurately diagnosed John's eye defect.\n(b) A legally practicing psychiatrist must have both a medical degree and psychiatric training. Thus, since Emmett has not undergone psychiatric training, if he is practicing as a psychiatrist, he is not doing so legally.\n(c) People who drink a lot of coffee are said to have jittery nerves. Therefore, medical students who drink a lot of coffee should not become neonatologists or surgeons since neither neonatology nor surgery should be practiced by people with jittery nerves.\n(d) If a person is interested in either physics or chemistry, then that person would be wise to consider a career in medicine. Yolanda, however, is interested in neither physics nor chemistry, so it would not be wise for her to consider a career in medicine.",
+        "id": 2334
+    },
+    {
+        "context": "Question: Which of the following statements, if true, would support the claim of the Industry Analyst?\n(a) This summer, Florida orange producers will employ a large number of migrant workers, a strategy that will substantially decrease their labor costs.\n(b) The hot weather is likely to increase the revenues of companies engaged in tourism and recreation that comprise the largest portion of the state economy.\n(c) Because of the hot and dry weather, the costs of irrigation for Florida orange growers will be nearly 30% higher this summer.\n(d) The decline in the supply of oranges caused by the unfavorable weather will result in a substantial increase in their market price.",
+        "id": 572
+    },
+    {
+        "context": "Question: Which one of the following, if true, most helps to explain the difference between the amount of innovation in French painting and the amount of innovation in French sculpture during the nineteenth century?\n(a) Because stone was so much more expensive than paint and canvas, far more unsponsored paintings were produced than were unsponsored sculptures in France during the nineteenth century.\n(b) The French academy in the nineteenth century financially supported a greater number of sculptors than painters, but individual painters received more support, on average, than individual sculptors.\n(c) Very few of the artists in France in the nineteenth century who produced sculptures also produced paintings.\n(d) In France in the nineteenth century, the French academy gave more of its financial support to painting than it did to sculpture.",
+        "id": 2810
+    },
+    {
+        "context": "Question: Which of the following, if true, most strongly support the accounts of Greek texts?\n(a) A beehive's honeycomb cannot have some sections that contain toxic honey and other sections that contain nontoxic honey\n(b) The incidents of honey poisoning that are related in the ancient texts occurred in the springtime or in the early summer\n(c) Whether the honey in a beehive is toxic depends solely on which plants were the source of that was used to make the honey.\n(d) There are no plants that Greece in ancient times that produce more nectar than rhododendrons or oleanders does.",
+        "id": 116
+    },
+    {
+        "context": "Question: Which one of the following most logically completes the argument?\n(a) will both decrease the level of cholesterol in his or her blood and gain weight\n(b) might at first have an increased level of cholesterol in his or her blood\n(c) will not lose weight any faster than will a person whose diet is high in calories\n(d) will not decrease the size of his or her fat cells",
+        "id": 272
+    },
+    {
+        "context": "Question: Which one of the following most accurately expresses the main conclusion of the argument?\n(a) One can always justify a given action by appeal to the value of its intended outcome.\n(b) Only the value of the by-products of an action can justify that action.\n(c) One can justify an action only by appeal to the value of its intended outcome.\n(d) Nothing can justify the intended outcome of an action except the value of that action's actual outcomes.",
+        "id": 2466
+    },
+    {
+        "context": "Question: Which of the following must be true if the manufacturer's prediction is to prove accurate?\n(a) The new refrigerant can counteract the damaging effects of Freon on the Earth's atmosphere.\n(b) The damage already done to the ozone layer is not of environmentally significant proportions.\n(c) The new refrigerant causes no environmental damage of any kind when it is released into the atmosphere.\n(d) Freon can be replaced with the new refrigerant without releasing any Freon into the atmosphere.",
+        "id": 2390
+    },
+    {
+        "context": "Question: Which of the following most logically completes the argument given?\n(a) young people who have asthma are no more likely to become competitive athletes than are young people who do not have asthma\n(b) many people have asthma without knowing they have it and thus are not diagnosed with the condition until they begin engaging in very strenuous activities, such as competitive athletics\n(c) competitive athletes who specialize in sports other than swimming are rarely exposed to chlorine\n(d) until a few years ago, physicians routinely recommended competitive swimming to children with asthma, in the belief that this form of exercise could alleviate asthma symptoms",
+        "id": 4276
+    },
+    {
+        "context": "Question: The flawed reasoning in the argument above is most similar to the reasoning in which one of the following arguments?\n(a) Anyone who lives in a house but does not own it pays rent on it. My next-door neighbors do not own their house. Therefore, it must be that they pay rent on it.\n(b) No one who lives in a house both owns it and pays rent on it. So, since my next-door neighbors pay rent on their house, it must be that they do not own it.\n(c) My neighbors have not paid any rent on their house. Since anyone who lives in a house but does not rent it owns it, it must be that they own it.\n(d) My next-door neighbors do not own their house. Since no one who lives in a house both owns it and pays rent on it, it must be that my next-door neighbors pay rent on their house.",
+        "id": 1193
+    },
+    {
+        "context": "Question: Assuming that the author's statements are accurate, which one of the following statements CANNOT be true?\n(a) Most people believe that all attorneys are contemptible.\n(b) Some people believe that all attorneys should be overly friendly and always seek to be gracious and affable.\n(c) Some overly friendly attorneys, who always seek to be gracious and affable, are successful.\n(d) Most attorneys are overly friendly and always seek to be gracious and affable.",
+        "id": 1219
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "premises": [
+            "This attack causes the release of a hormone that leads to pain and swelling.",
+            "A new arthritis medication will contain a protein that inhibits the hormone causing pain and swelling in the joints."
+        ],
+        "id": 0
+    },
+    {
+        "premises": [
+            "The patient counters that pharmacists have a financial interest in maintaining a monopoly on the sale of prescription medicines.",
+            "The patient concludes that pharmacists' objections cannot be taken seriously because of their vested financial interest."
+        ],
+        "id": 1
+    },
+    {
+        "premises": [
+            "Paula will visit the dentist tomorrow morning only if Bill goes golfing in the morning.",
+            "Bill will not go golfing unless Damien agrees to go golfing too.",
+            "Damien has decided not to go golfing.",
+            "Therefore, Paula will not be visiting the dentist tomorrow morning."
+        ],
+        "id": 2
+    },
+    {
+        "premises": [
+            "The argument states that literary criticism cannot be completely value-neutral.",
+            "Therefore, the argument concludes that some theorists are mistaken about what is an appropriate goal for literary criticism."
+        ],
+        "id": 3
+    },
+    {
+        "premises": [
+            "All shipments sent out on Friday last week consisted entirely of building supplies.",
+            "Four shipments were sent to Truax Construction last week, only three of which consisted of building supplies."
+        ],
+        "id": 4
+    }
+]

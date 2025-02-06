@@ -1,0 +1,13 @@
+CUDA_VISIBLE_DEVICES=0 python src/train_bash.py \
+    --stage sft \
+    --do_predict \
+    --model_name_or_path ./checkpoint/reclor/cd/Llama-2-7b-hf-cd-merged \
+    --adapter_name ./checkpoint/reclor/tpcl/Llama-2-7b-hf-tpcl \
+    --dataset reclor_test \
+    --template alpaca \
+    --finetuning_type lora \
+    --flash_attn \
+    --output_dir ./prediction/reclor/tpcl/Llama-2-7b-hf-tpcl \
+    --cutoff_len 1536 \
+    --per_device_eval_batch_size 16 \
+    --predict_with_generate
