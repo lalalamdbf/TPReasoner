@@ -6,10 +6,10 @@ This repository contains the code and dataset for the **AAAI 2025** paper:
 
 ## Data
 
-The data for reclor and logiqa 2.0 is in ./train/data. You can unzip them in this directory.
+You can download the dateset from https://huggingface.co/datasets/lalalamdbf/TPReasoner-PODA. Please put it in ./train/data.
 
 ```
-reclor.zip
+reclor
 - reclor_train_origin.json  # original data
 - reclor_train_all.json # original data and synthetic data
 - reclor_comparsion.json # for TPCL
@@ -18,7 +18,7 @@ reclor.zip
 ```
 
 ```
-logiqa.zip
+logiqa
 - logiqa_train_origin.json # original data
 - logiqa_train_all.json # original data and synthetic data
 - logiqa_comparsion.json # for TPCL
