@@ -254,10 +254,13 @@ python calculate_score.py --file_path waiting_to_calculate_file
 If you find this repo useful, please cite our paper.
 
 ```
-@article{wang2024thought,
+@inproceedings{wang2025thought,
   title={Thought-Path Contrastive Learning via Premise-Oriented Data Augmentation for Logical Reading Comprehension},
   author={Wang, Chenxu and Jian, Ping and Yang, Zhen},
-  journal={arXiv preprint arXiv:2409.14495},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={24},
+  pages={25345--25352},
+  year={2025}
 }
 ```
